@@ -18,7 +18,9 @@ http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690320
 from downers.dblphelper import get_titles
 
 from downers.ai import main as aimain
+from downers.nips import main as nipsmain
 
 if __name__ == "__main__":
-    #aimain()
-    get_titles('ijcv')
+    # aimain()
+    nipsmain()
+

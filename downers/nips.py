@@ -12,20 +12,26 @@ def main_page_to_list(main_url='', first_name='', second_name=''):
     bf = BeautifulSoup(html)
 
     #####
-    ul_tag = bf.find_all('ul')[-6]  # 这个-6是实际的结果
+    tags = bf.find_all('div', class_='data')
+    for tag in tags:
+        spans = tag.find_all('span')
+        year = 0
+        for span in spans:
+            if span['itemprop'] == 'datePublished':
+                year = span.string
+        url = tag.find_all('a')[-1]['href']
 
-    for li in ul_tag.find_all('li'):
-        year = (li.contents[0]).split(':')[0]  # 去掉最后的东西
-        for a in li.find_all('a'):
-            url = a['href']
-            search_url_list.append([url, first_name, second_name, year])
+        html_name = url.split('/')[-1]
+        second_name = html_name.split('.')[0]
+
+        search_url_list.append([url, first_name, second_name, year])
     #####
     return search_url_list
 
 
 def main():
-    main_page_url = 'https://dblp.uni-trier.de/db/journals/ai/'
-    name = 'ai'
+    main_page_url = 'https://dblp.uni-trier.de/db/conf/nips/'
+    name = 'nips'
 
     search_url_list = main_page_to_list(main_url=main_page_url,
                                         first_name=name.upper())
