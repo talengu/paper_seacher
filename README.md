@@ -2,9 +2,9 @@
 where where where papers
 
 ## Where Good
-[CCF 人工智能](http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690839)
-[CCF 计算机图形学与多媒体 ](http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690854)
-[CCF 人机交互与普适计算](http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690320)
+[CCF 人工智能](https://www.ccf.org.cn/xspj/rgzn/)
+[CCF 计算机图形学与多媒体 ](https://www.ccf.org.cn/xspj/jsjtxxydmt/)
+[CCF 人机交互与普适计算](https://www.ccf.org.cn/xspj/rjjhypsjs/)
 
 ## List of Papers
 | Name | Years | dblp|
