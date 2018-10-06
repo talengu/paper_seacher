@@ -40,7 +40,7 @@ keyword="relation" year>=2011
 
 [attention.txt](my_lists/attention.txt)
 
-[object detection.txt](my_lists/object detection.txt)
+[object detection.txt](my_lists/object_detection.txt)
 
 ### Maybe there is a simple way? wahaha . . .
 
