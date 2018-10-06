@@ -11,7 +11,7 @@ where where where papers
 
 ## List of Papers
 
-| Name | Years | dblp|
+| Name | papers_lists | dblp|
 |--------|--------|--------|
 | CVPR |   [2018-1988](paper_list/cvpr_papers.txt)    | [link](http://dblp.uni-trier.de/db/conf/cvpr/)  [2018](https://github.com/kaluo-zZ/CVPR2018-papers) |
 | PAMI |   [2018-1979](paper_list/pami_papers.txt)   |[link](http://dblp.uni-trier.de/db/journals/pami/)|
