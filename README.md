@@ -18,8 +18,8 @@ where where where papers
 | AI |[2018-1970](paper_list/ai_papers.txt)|[link](https://dblp.uni-trier.de/db/journals/ai/)|
 |ICCV|[2017-1988](paper_list/iccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/iccv/)|
 |NIPS|[2017-1988](paper_list/nips_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/nips/)|
-|ACMMM|[2017-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/)|
-|ECCV|[2016-1990](paper_list/eccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/eccv/)|
+|ACMMM|[2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/) [2018](http://www.acmmm.org/2018/accepted-papers/)|
+|ECCV|[2018-1990](paper_list/eccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/eccv/)  [2018](http://openaccess.thecvf.com/ECCV2018.py)|
 
 
 

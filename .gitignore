@@ -2,6 +2,6 @@
 
 .ipynb_checkpoints/*
 down_pages/*
-for_test.ipynb
 __pycache__/*
 **/__pycache__/**
+**/.ipynb_checkpoints/**

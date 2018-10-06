@@ -33,6 +33,14 @@ def write(res_list, txt_out_name):
     f.close()
 
 
+def generate(first_name="ECCV"):  # some 2018 year has not in the list
+    res_list = []
+    for line in open("ddd", 'r').readlines():
+        name = line.strip()
+        res_list.append([first_name, "", 2018, name])
+    write(res_list, "tmp")
+
+
 import glob
 
 if __name__ == '__main__':
@@ -48,4 +56,4 @@ if __name__ == '__main__':
     print(len(res_list))
     write(res_list, "relation.txt")
 
-
+    # generate()

@@ -1,3 +1,212 @@
+ACMMM,,2018,Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing
+ACMMM,,2018,Incremental Deep Hidden Attribute Learning
+ACMMM,,2018,Step-by-step Erasion, One-by-one Collection: A Weakly Supervised Temporal Action Detector
+ACMMM,,2018,Visual Domain Adaptation with Manifold Embedded Distribution Alignment
+ACMMM,,2018,Object-Difference Attention: A simple relational attention for Visual Question Answering
+ACMMM,,2018,Robust Billboard-based, Free-viewpoint Video Synthesis Algorithm to Overcome Occlusions under Challenging Outdoor Sport Scenes
+ACMMM,,2018,Multi-Human Parsing Machines
+ACMMM,,2018,Deep Priority Hashing
+ACMMM,,2018,CropNet: Real-Time Thumbnailing
+ACMMM,,2018,Learning to Transfer: Generalizable Attribute Learning with Multitask Neural Model Search
+ACMMM,,2018,Supervised Online Hashing via Hadamard Codebook Learning
+ACMMM,,2018,Shared Linear Encoder-based Gaussian Process Latent Variable Model for Visual Classification
+ACMMM,,2018,Learning Semantic Structure-preserved Embeddings for Cross-modal Retrieval
+ACMMM,,2018,Fine-grained Grocery Product Recognition by One-shot Learning
+ACMMM,,2018,Fine-grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
+ACMMM,,2018,Style Separation and Synthesis via Generative Adversarial Networks
+ACMMM,,2018,Attention-based Pyramid Aggregation Network for Visual Place Recognition
+ACMMM,,2018,Dance with Melody : An LSTM-autoencoder Approach on Music-oriented Dance Synthesis
+ACMMM,,2018,Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering
+ACMMM,,2018,Semi-supervised Deep Generative Modelling of Incomplete Multi-Modality Emotional Data
+ACMMM,,2018,Post Tuned Hashing: A New Approach to Indexing High-dimensional Data
+ACMMM,,2018,Joint Sign Language Recognition and Education System with ST-Net
+ACMMM,,2018,Aesthetic-Driven Image Enhancement by Adversarial Learning
+ACMMM,,2018,Cascaded Feature Augmentation with Diffusion for Image Retrieval
+ACMMM,,2018,Twitter Sentiment Analysis via Bi-sense Emoji Embedding and Attention-based LSTM
+ACMMM,,2018,Temporal Sequence Distillation: Towards Few Frame Action Recognition
+ACMMM,,2018,Joint Global and Co-Attentive Representation Learning for Image-Sentence Retrieval
+ACMMM,,2018,Multi-View Image Generation from a Single-View
+ACMMM,,2018,Slackliner — An Interactive Slackline Training Assistant
+ACMMM,,2018,Hierarchical Memory Modelling for Video Captioning
+ACMMM,,2018,Group Re-Identification: Leveraging and Integrating Multi-Grain Information
+ACMMM,,2018,Collaborative Annotation of Semantic Objects in Images with Multi-granularity Supervisions
+ACMMM,,2018,Multi-modal Preference Modeling for Product Search
+ACMMM,,2018,GraphNet: Learning Image Pseudo Annotations for Weakly-Supervised Semantic Segmentation
+ACMMM,,2018,Deep Triplet Quantization
+ACMMM,,2018,Previewer for Multiple-Scale Object Detector
+ACMMM,,2018,QARC: Video Quality Aware Rate Control for Real-Time Video Streaming based on Deep Reinforcement Learning
+ACMMM,,2018,What dress fits me best? Fashion Recommendation on the Clothing Style for Personal Body Shape
+ACMMM,,2018,SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval
+ACMMM,,2018,OSMO: Online Specific Models for Occlusion in Multiple Object Tracking under Surveillance Scene
+ACMMM,,2018,Cross-modal Moment Localization in Videos
+ACMMM,,2018,Attribute-Aware Attention Model for Fine-grained Representation Learning
+ACMMM,,2018,Video Forecasting with Forward-Backward-Net: Delving Deeper into Spatiotemporal Consistency
+ACMMM,,2018,Learning Discriminative Features with Multiple Granularities for Person Re-Identification
+ACMMM,,2018,StripNet: Towards Topology Consistent Strip Structure Segmentation
+ACMMM,,2018,Attention-based Multi-Patch Aggregation for Image Aesthetic Assessment
+ACMMM,,2018,An End-to-End Quadrilateral Regression Network for Comic Panel Extraction
+ACMMM,,2018,CLS: A Cross-user Learning based System for Improving QoE in 360-degree Video Adaptive Streaming
+ACMMM,,2018,Only Learn One Sample: Fine-Grained Visual Categorization with One Sample Training
+ACMMM,,2018,Life-long Cross-media Correlation Learning
+ACMMM,,2018,Text-to-image Synthesis via Symmetrical Distillation Networks
+ACMMM,,2018,Multi-Scale Correlation for Sequential Cross-modal Hashing Learning
+ACMMM,,2018,Jaguar: Low Latency Mobile Augmented Reality with Flexible Tracking
+ACMMM,,2018,Feature Constrained by Pixel: Hierarchical Adversarial Deep Domain Adaptation
+ACMMM,,2018,Explore Multi-Step Reasoning in Video Question Answering
+ACMMM,,2018,Monocular Camera Based Real-Time Dense Mapping Using Generative Adversarial Network
+ACMMM,,2018,Learning Collaborative Generation Correction Modules for Blind Image Deblurring and Beyond
+ACMMM,,2018,Watch, Think and Attend: End-to-End Video Classification via Dynamic Knowledge Evolution Modeling
+ACMMM,,2018,Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection
+ACMMM,,2018,Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations
+ACMMM,,2018,Unregularized Auto-Encoder with Generative Adversarial Networks for Image Generation
+ACMMM,,2018,Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset
+ACMMM,,2018,Attention and Language Ensemble for Scene Text Recognition with Convolutional Sequence Modeling
+ACMMM,,2018,Participation-Contributed Temporal Dynamic Model for Group Activity Recognition
+ACMMM,,2018,A Unified Generative Adversarial Framework for Image Generation and Person Re-identification
+ACMMM,,2018,Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach
+ACMMM,,2018,Inferring User Emotive State Changes in Realistic Human-Computer Conversational Dialogs
+ACMMM,,2018,Mining Semantics-Preserving Attention for Group Activity Recognition
+ACMMM,,2018,Causally Regularized Learning on Data with Agnostic Bias
+ACMMM,,2018,I read, I saw, I tell: Texts Assisted Fine-Grained Visual Classification
+ACMMM,,2018,Context-Aware Unsupervised Text Stylization
+ACMMM,,2018,Bridge The Gap Between VQA and Human Behavior on Omnidirectional Video: A Large-Scale Database and A Deep Learning Model
+ACMMM,,2018,When to Learn What: Deep Cognitive Subspace Clustering
+ACMMM,,2018,Look Deeper See Richer: Depth-aware Image Paragraph Captioning
+ACMMM,,2018,Depth Structure Preserving Scene Image Generation
+ACMMM,,2018,CA3Net: Contextual-Attentional Attribute-Appearance Network for Person Re-Identification
+ACMMM,,2018,Learning Multimodal Taxonomy via Variational Deep Graph Embedding and Clustering
+ACMMM,,2018,Beyond Narrative Description: Generating Poetry from Images by Multi-Adversarial Training
+ACMMM,,2018,GNAS: A Greedy Neural Architecture Search Method for Multi-Attribute Learning
+ACMMM,,2018,A Distributed Approach for Bitrate Selection in HTTP Adaptive Streaming
+ACMMM,,2018,Generative Adversarial Product Quantisation
+ACMMM,,2018,EmotionGAN: Unsupervised Domain Adaptation for Learning Discrete Probability Distributions of Image Emotions
+ACMMM,,2018,Few-Shot Adaptation for Video Semantic Indexing
+ACMMM,,2018,Historical Context-based Style Classification of Painting Images via Label Distribution Learning
+ACMMM,,2018,Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation
+ACMMM,,2018,High-Quality Exposure Correction of Underexposed Photos
+ACMMM,,2018,Fashion Sensitive Clothing Recommendation using Hierarchical Collocation Model
+ACMMM,,2018,A Margin-based MLE for Crowdsourced Partial Ranking
+ACMMM,,2018,Personalized Serious Games for Cognitive Intervention with Lifelog Visual Analytics
+ACMMM,,2018,PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation
+ACMMM,,2018,iHuman3D: Intelligent Human Body 3D Reconstruction using a Single Flying Camera
+ACMMM,,2018,Face-Voice Matching using Cross-modal Embeddings
+ACMMM,,2018,Multi-Scale Context Attention Network for Image Retrieval
+ACMMM,,2018,When Deep Fool Meets Deep Prior: Adversarial Attack on Image Super-Resolution
+ACMMM,,2018,Musicality-Novelty Generative Adversarial Nets for Algorithmic Composition
+ACMMM,,2018,Knowledge-aware Multimodal Dialogue Systems
+ACMMM,,2018,Cross-Domain Adversarial Feature Learning for Sketch Re-identification
+ACMMM,,2018,Comprehensive Distance-Preserving Autoencoders for Cross-Modal Retrieval
+ACMMM,,2018,Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning
+ACMMM,,2018,CSAN: Contextual Self-Attention Network for User Sequential Recommendation
+ACMMM,,2018,Semantic Human Matting
+ACMMM,,2018,Visual Spatial Attention Network for Relationship Detection
+ACMMM,,2018,Geometry Guided Adversarial Facial Expression Synthesis
+ACMMM,,2018,Personalized multiple facial action unit recognition through generative adversarial recognition network
+ACMMM,,2018,Learning Joint Multimodal Representation with Adversarial Attention Networks
+ACMMM,,2018,Detecting Abnormality without Knowing Normality: A Two-stage Approach for Unsupervised Video Abnormal Event Detection
+ACMMM,,2018,WildFish: A Large Benchmark for Fish Recognition in the Wild
+ACMMM,,2018,Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction
+ACMMM,,2018,BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
+ACMMM,,2018,Songle Sync: A Large-Scale Web-based Platform for Controlling Various Devices in Synchronization with Music
+ACMMM,,2018,CloudVR: Cloud Accelerated Interactive Mobile Virtual Reality
+ACMMM,,2018,RGCNN: Regularized Graph CNN for Point Cloud Segmentation
+ACMMM,,2018,Video-based Person Re-identification via Self-Paced Learning and Deep Reinforcement Learning Framework
+ACMMM,,2018,Photo Squarization by Deep Multi-Operator Retargeting
+ACMMM,,2018,Predicting Visual Context for Unsupervised Event Segmentation in Continuous Photo-streams
+ACMMM,,2018,Semantic Image Inpainting with Progressive Generative Networks
+ACMMM,,2018,Attentive Interactive Convolutional Matching for Community Question Answering in Social Multimedia
+ACMMM,,2018,Deep Understanding of Cooking Procedure for Cross-modal Recipe Retrieval
+ACMMM,,2018,LA-Net: Layout-Aware Dense Network for Monocular Depth Estimation
+ACMMM,,2018,Direction-aware Neural Style Transfer
+ACMMM,,2018,Reconfigurable Inverted Index
+ACMMM,,2018,Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization
+ACMMM,,2018,Context-Aware Visual Policy Network for Sequence-Level Image Captioning
+ACMMM,,2018,A Unified Framework for Multimodal Domain Adaptation
+ACMMM,,2018,Trusted Guidance Pyramid Network for Human Parsing
+ACMMM,,2018,USAR: an interactive user-specific aesthetic ranking framework for images
+ACMMM,,2018,Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining
+ACMMM,,2018,Structure Guided Photorealistic Style Transfer
+ACMMM,,2018,Tracking-assisted Weakly Supervised Online Visual Object Segmentation in Unconstrained Videos
+ACMMM,,2018,An ADMM-Based Universal Framework for Adversarial Attacks on Deep Neural Networks
+ACMMM,,2018,Decoupled Novel Object Captioner
+ACMMM,,2018,ThoughtViz: Visualizing Human Thoughts Using Generative Adversarial Network
+ACMMM,,2018,Optimizing Personalized Interaction Experience in Crowd-Interactive Livecast: A Cloud-Edge Approach
+ACMMM,,2018,End-to-End Blind Quality Assessment of Compressed Video Using Deep Neural Networks
+ACMMM,,2018,Dynamic Sound Field Synthesis for Speech and Music Optimization
+ACMMM,,2018,Local Convolutional Neural Networks for Person Re-Identification
+ACMMM,,2018,Interpretable Multimodal Retrieval for Fashion Products
+ACMMM,,2018,Conditional Expression Synthesis with Face Parsing Transformation
+ACMMM,,2018,A Feature-Adaptive Semi-Supervised Framework for Co-Saliency Detection
+ACMMM,,2018,Attentive Recurrent Neural Network for Weak-supervised Multi-label Image Classification
+ACMMM,,2018,iSPA-Net: Iterative Semantic Pose Alignment Network
+ACMMM,,2018,Extractive Video Summarizer with Memory Augmented Neural Networks
+ACMMM,,2018,ModaNet: A Large-Scale Street Fashion Dataset with Polygon Annotations
+ACMMM,,2018,Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images
+ACMMM,,2018,From data to knowledge: deep learning model compression, transmission and communication
+ACMMM,,2018,ChipGAN: A Generative Adversarial Network for Chinese Ink Wash Painting Style Transfer
+ACMMM,,2018,Dest-ResNet: a Deep Spatiotemporal Residual Network for Hotspot Traffic Speed Prediction
+ACMMM,,2018,Boosting Scene Parsing Performance via Reliable Scale Prediction
+ACMMM,,2018,Deep Cross modal learning for Caricature Verification and Identification (CaVINet)
+ACMMM,,2018,Online Action Tube Detection via Resolving the Spatio-temporal Context Pattern
+ACMMM,,2018,Adaptive Temporal Encoding Network for Video Instance-level Human Parsing
+ACMMM,,2018,User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks
+ACMMM,,2018,Enhancing Visual Question Answering Using Dropout
+ACMMM,,2018,Online Inter-Camera Trajectory Association Exploiting Person Re-Identification and Camera Topology
+ACMMM,,2018,Improving QoE of ABR Streaming Sessions through QUIC Retransmissions
+ACMMM,,2018,Temporal Cross-Media SubSpaces Learning with Soft-Constraints
+ACMMM,,2018,Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches
+ACMMM,,2018,SibNet: Sibling Convolutional Encoder for Video Captioning
+ACMMM,,2018,Context-Dependent Diffusion Network for Visual Relationship Detection
+ACMMM,,2018,Your Attention is Unique: Detecting 360-Degree Video Saliency in Head-Mounted Display for Head Movement Prediction
+ACMMM,,2018,Generating Defensive Plays in Basketball Games
+ACMMM,,2018,Connectionist temporal fusion for Sign Language Translation
+ACMMM,,2018,JPEG Decompression in the Homomorphic Encryption Domain
+ACMMM,,2018,BitStream: Efficient Computing Architecture for Real-Time Low-Power Inference of Binary Neural Networks on CPUs
+ACMMM,,2018,Support Neighbor Loss for Person Re-Identification
+ACMMM,,2018,A Large Scale RGB-D Database for Arbitrary-view Human Action Recognition
+ACMMM,,2018,FlexStream: Towards Flexible Adaptive Video Streaming on End Devices using Extreme SDN
+ACMMM,,2018,Spotting and Aggregating Salient Regions for Video Captioning
+ACMMM,,2018,Structural inpainting
+ACMMM,,2018,Partial Multi-View Subspace Clustering
+ACMMM,,2018,FoV-Aware Edge Caching for Adaptive 360° Video Streaming
+ACMMM,,2018,Attentive LSTM Crowd Flow Machines
+ACMMM,,2018,Perceptual Temporal Incoherence Aware Stereo Video Retargeting
+ACMMM,,2018,Fast Discrete Cross-modal Hashing With Regressing From Semantic Labels
+ACMMM,,2018,Dense Auto-Encoder Hashing for Robust Cross-Modality Retrieval
+ACMMM,,2018,Investigation of Small Group Social Interactions using Deep Visual Activity-Based Nonverbal Features
+ACMMM,,2018,Dissimilarity Representation Learning for Generalized Zero-Shot Recognition
+ACMMM,,2018,Examine before You Answer: Multi-task Learning with Adaptive-attentions for Multiple-choice VQA
+ACMMM,,2018,Cumulative Nets for Edge Detection
+ACMMM,,2018,Beyond the Product: Discovering Image Posts for Brands in Social Media
+ACMMM,,2018,Robustness and Discrimination Oriented Hashing Combining Texture and Invariant Vector Distance
+ACMMM,,2018,SLIONS: A Karaoke Application to Enhance Foreign Language Learning
+ACMMM,,2018,Drawing in a Virtual 3D Space – Introducing VR Drawing in Elementary School Art Education
+ACMMM,,2018,Semi-Supervised DFF: Decoupling Detection and Feature Flow for Video Object Detectors
+ACMMM,,2018,Residual-Guide Feature Fusion Network for Single Image Deraining
+ACMMM,,2018,Paragraph generation network with visual relationship detection
+ACMMM,,2018,Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction
+ACMMM,,2018,CIRCE: Real-Time Caching for Instance Recognition on Cloud Environments and Multi-Core Architectures
+ACMMM,,2018,From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition
+ACMMM,,2018,Unsupervised Learning of 3D Model Reconstruction from Hand-Drawn Sketches
+ACMMM,,2018,Learning to Synthesize 3D Indoor Scenes from Monocular Images
+ACMMM,,2018,DASH for 3D Networked Virtual Environment
+ACMMM,,2018,PVNet: A Joint Convolutional Network of Point Cloud and Multi-View for 3D Shape Recognition
+ACMMM,,2018,The Effect of Foveation on High Dynamic Range Video Perception
+ACMMM,,2018,GestureGAN for Hand Gesture-to-Gesture Translation in the Wild
+ACMMM,,2018,MiniView Layout for Bandwidth-Efficient 360-Degree Video
+ACMMM,,2018,An Efficient Deep Quantized Compressed Sensing Coding Framework of Natural Images
+ACMMM,,2018,Deep Multimodal Image-Repurposing Detection
+ACMMM,,2018,Video-to-Video Translation with Global Temporal Consistency
+ACMMM,,2018,Robust Correlation Filter Tracking with Shepherded Instance-Aware Proposals
+ACMMM,,2018,Cross-Species Learning: A Low-Cost Approach to Learning Human Fight from Animal Fight
+ACMMM,,2018,PoB: Toward Reasoning Patterns of Beauty in Image Data
+ACMMM,,2018,Webly Supervised Joint Embedding for Cross-Modal Image-Text Retrieval
+ACMMM,,2018,Deep Adaptive Temporal Pooling for Activity Recognition
+ACMMM,,2018,Human Conversation Analysis Using Attentive Multimodal Networks with Hierarchical Encoder-Decoder
+ACMMM,,2018,Pseudo Transfer with Marginalized Corrupted Attribute for Zero-shot Learning
+ACMMM,,2018,Crossing-Domain Generative Adversarial Networks for Unsupervised Multi-Domain Image-to-Image Translation
+ACMMM,,2018,Person Re-identification with Hierarchical Deep Learning Feature and efficient XQDA Metric
+ACMMM,,2018,EmoCeleb: Emotion recognition in speech using Cross-Modal Transfer in the wild
 ACMMM,mm2017,2017,Proceedings of the 2017 ACM on Multimedia Conference, MM 2017, Mountain View, CA, USA, October 23-27, 2017.
 ACMMM,mm2017,2017,Attention Transfer from Web Images for Video Recognition.
 ACMMM,mm2017,2017,SketchParse: Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks.
