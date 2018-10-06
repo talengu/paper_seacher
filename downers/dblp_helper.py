@@ -63,6 +63,8 @@ class BaseDowner(object):
         # fun_main_page_to_list must return search_url_list
 
     def _write_to_txt(self, out_txt_path, search_url_list):
+        if not os.path.exists(down_root):
+            os.makedirs(down_root)
         f = open(out_txt_path, 'w')
         for items in search_url_list:
             f.write("%s,%s,%s,%s\n" % (items[0], items[1], items[2], items[3]))

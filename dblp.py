@@ -20,7 +20,12 @@ from downers.dblp_helper import get_titles
 from downers.ai import main as aimain
 from downers.nips import main as nipsmain
 
+from downers.acmmm import main as acmmmain
+from downers.eccv import main as eccvmain
+
 if __name__ == "__main__":
     # aimain()
-    nipsmain()
+    # nipsmain()
+    # acmmmain()
+    eccvmain()
 

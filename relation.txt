@@ -65,6 +65,19 @@ IJCV,,2017,Generating Fluttering Patterns with Low Autocorrelation for Coded Exp
 AI,,2017,Cost-optimal constrained correlation clustering via weighted partial Maximum Satisfiability.
 AI,,2017,Relational linear programming.
 AI,,2017,Relational reinforcement learning with guided demonstrations.
+ACMMM,mm2017,2017,Multi-Modal Knowledge Representation Learning via Webly-Supervised Relationships Mining.
+ACMMM,mm2017,2017,RGB-D Scene Recognition with Object-to-Object Relation.
+ACMMM,mm2017,2017,Video Visual Relation Detection.
+ACMMM,tw2017,2017,Relational Variational Autoencoder for Link Prediction with Multimedia Data.
+ACMMM,tw2017,2017,Towards Improving Canonical Correlation Analysis for Cross-modal Retrieval.
+ECCV,eccv2016-1,2016,Improving Multi-label Learning with Missing Labels by Structured Semantic Correlations.
+ECCV,eccv2016-1,2016,Visual Relationship Detection with Language Priors.
+ECCV,eccv2016-5,2016,Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking.
+ECCV,eccv2016-6,2016,Target Response Adaptation for Correlation Filter Tracking.
+ECCV,eccv2016-8,2016,Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning.
+ECCV,eccv2016-8,2016,Deep Self-correlation Descriptor for Dense Cross-Modal Correspondence.
+ECCV,eccv2016w2,2016,Human-Drone-Interaction: A Case Study to Investigate the Relation Between Autonomy and User Experience.
+ECCV,eccv2016w3,2016,Deep CORAL: Correlation Alignment for Deep Domain Adaptation.
 NIPS,nips2016,2016,Efficient Globally Convergent Stochastic Optimization for Canonical Correlation Analysis.
 NIPS,nips2016,2016,Interaction Networks for Learning about Objects Relations and Physics.
 NIPS,coco2015,2016,Lifted Relational Neural Networks.
@@ -83,6 +96,11 @@ PAMI,,2016,Making Trillion Correlations Feasible in Feature Grouping and Selecti
 IJCV,,2016,Learning Mutual Visibility Relationship for Pedestrian Detection with a Deep Model.
 AI,,2016,Construction of system of spheres-based transitively relational partial meet multiple contractions: An impossibility result.
 AI,,2016,Extracting qualitative relations from categorical data.
+ACMMM,mm2016,2016,Deep Correlation Features for Image Style Classification.
+ACMMM,mm2016,2016,Deep Multi-task Learning with Label Correlation Constraint for Video Concept Detection.
+ECCV,eccv2014w1,2015,Relationship Between Visual Complexity and Aesthetics: Application to Beauty Prediction of Photos.
+ECCV,eccv2014w1,2015,Mode-Driven Volume Analysis Based on Correlation of Time Series.
+ECCV,eccv2014w2,2015,A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration.
 NIPS,nips2015,2015,Parallel Correlation Clustering on Big Graphs.
 ICCV,,2015,Learning Query and Image Similarities with Ranking Canonical Correlation Analysis.
 ICCV,,2015,Learning Ordinal Relationships for Mid-Level Vision.
@@ -116,6 +134,17 @@ PAMI,,2015,Zero-Aliasing Correlation Filters for Object Recognition.
 AI,,2015,Inducing semantic relations from conceptual spaces: A data-driven approach to plausible reasoning.
 AI,,2015,Feature assembly method for extracting relations in Chinese.
 AI,,2015,Modelling structured societies: A multi-relational approach to context permeability.
+ACMMM,mm2015,2015,Probabilistic Semi-Canonical Correlation Analysis.
+ACMMM,mm2015,2015,Learning Semantic Correlation of Web Images and Text with Mixture of Local Linear Mappings.
+ACMMM,mm2015,2015,About Events Objects and their Relationships: Human-centered Event Understanding from Multimedia.
+ACMMM,asm2015,2015,Prediction of User Ratings of Oral Presentations using Label Relations.
+ECCV,eccv2014-1,2014,Large-Scale Object Classification Using Label Relation Graphs.
+ECCV,eccv2014-1,2014,Activity Group Localization by Modeling the Relations among Participants.
+ECCV,eccv2014-2,2014,Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.
+ECCV,eccv2014-3,2014,Local Estimation of High Velocity Optical Flow with Correlation Image Sensor.
+ECCV,eccv2014-3,2014,Learning to Hash with Partial Tags: Exploring Correlation between Tags and Hashing Bits for Large Scale Image Retrieval.
+ECCV,eccv2014-3,2014,Which Looks Like Which: Exploring Inter-class Relationships in Fine-Grained Visual Categorization.
+ECCV,eccv2014-5,2014,Video Action Detection with Relational Dynamic-Poselets.
 NIPS,nips2014,2014,large scale canonical correlation analysis with iterative least squares.
 NIPS,nips2014,2014,Local Decorrelation For Improved Pedestrian Detection.
 NIPS,nips2014,2014,Discovering Structure in High-Dimensional Data Through Correlation Explanation.
@@ -132,6 +161,8 @@ PAMI,,2014,Image Segmentation UsingHigher-Order Correlation Clustering.
 AI,,2014,Modeling the complex dynamics and changing correlations of epileptic events.
 AI,,2014,Relations of epistemic proximity for belief change.
 AI,,2014,kLog: A language for logical and relational learning with kernels.
+ACMMM,mm2014,2014,Exploring Inter-feature and Inter-class Relationships with Deep Neural Networks for Video Classification.
+ACMMM,mm2014,2014,Exploiting Correlation Consensus: Towards Subspace Clustering for Multi-modal Data.
 NIPS,nips2013,2013,Correlations strike back (again): the case of associative memory retrieval.
 NIPS,nips2013,2013,Efficient Online Inference for Bayesian Nonparametric Relational Models.
 NIPS,nips2013,2013,Flexible sampling of discrete data correlations without the marginal distributions.
@@ -154,6 +185,18 @@ PAMI,,2013,Automatic Generation of Co-Embeddings from Relational Data with Adapt
 PAMI,,2013,Calibration by Correlation Using Metric Embedding from Nonmetric Similarities.
 PAMI,,2013,Sparse Canonical Correlation Analysis: New Formulation and Algorithm.
 AI,,2013,Type Extension Trees for feature construction and learning in relational domains.
+ACMMM,mm2013,2013,Multi-feature canonical correlation analysis for face photo-sketch image retrieval.
+ACMMM,mm2013,2013,Picture tags and world knowledge: learning tag relations from visual semantic sources.
+ECCV,eccv2012-2,2012,Learning Discriminative Spatial Relations for Detector Dictionaries: An Application to Pedestrian Detection.
+ECCV,eccv2012-3,2012,Group Tracking: Exploring Mutual Relations for Multiple Object Tracking.
+ECCV,eccv2012-3,2012,Learning to Match Appearances by Correlations in a Covariance Metric Space.
+ECCV,eccv2012-4,2012,Detecting Actions Poses and Objects with Relational Phraselets.
+ECCV,eccv2012-4,2012,Discriminative Decorrelation for Clustering and Classification.
+ECCV,eccv2012-5,2012,Patch Complexity Finite Pixel Correlations and Optimal Denoising.
+ECCV,eccv2012-6,2012,Minimal Correlation Classification.
+ECCV,eccv2012-6,2012,Fast Planar Correlation Clustering for Image Segmentation.
+ECCV,eccv2012-6,2012,Simultaneous Image Classification and Annotation via Biased Random Walk on Tri-relational Graph.
+ECCV,eccv2010w1,2012,Middle-Level Representation for Human Activities Recognition: The Role of Spatio-Temporal Relationships.
 NIPS,nips2012,2012,Random function priors for exchangeable arrays with applications to graphs and relational data.
 NIPS,nips2012,2012,Modelling Reciprocating Relationships with Hawkes Processes.
 NIPS,nips2012,2012,A latent factor model for highly multi-relational data.
@@ -164,6 +207,12 @@ CVPR,,2012,Bridging the past present and future: Modeling scene activities from 
 CVPR,,2012,Small sample scene categorization from perceptual relations.
 CVPR,,2012,Learning object relationships via graph-based context model.
 PAMI,,2012,Flickr Distance: A Relationship Measure for Visual Concepts.
+ACMMM,mm2012,2012,Right buddy makes the difference: an early exploration of social relation analysis in multimedia applications.
+ACMMM,mm2012,2012,Discovering informative social subgraphs and predicting pairwise relationships from group photos.
+ACMMM,mm2012,2012,Correlation-based burstiness for logo retrieval.
+ACMMM,mm2012,2012,Extending the lifelog to non-human subjects: ambient storytelling for human-object relationships.
+ACMMM,mirum2012,2012,Exploring the relationship between categorical and dimensional emotion semantics of music.
+ACMMM,sam2012,2012,Qualitative assessment of contemporary media sharing practices and their relationship to the sMS platform.
 NIPS,nips2011,2011,Higher-Order Correlation Clustering for Image Segmentation.
 ICCV,W,2011,Information theoretic methods for learning generative models for relational structures.
 ICCV,W,2011,Relational HOG feature with wild-card for object detection.
@@ -178,3 +227,5 @@ PAMI,,2011,Robust Stereo Matching Using Adaptive Normalized Cross-Correlation.
 AI,,2011,Computing the minimal relations in point-based qualitative temporal reasoning through metagraph closure.
 AI,,2011,Contracting preference relations for database applications.
 AI,,2011,Relational preference rules for control.
+ACMMM,mm2011,2011,Mining concept relationship in temporal context for effective video annotation.
+ACMMM,mm2011,2011,Consensus-based cross-correlation.
