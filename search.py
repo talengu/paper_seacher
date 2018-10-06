@@ -1,3 +1,9 @@
+import glob
+import argparse
+import sys
+import os
+
+sys.path.append("./seachers")
 from seachers.search_helper import SearchHelper
 
 
@@ -33,6 +39,18 @@ def write(res_list, txt_out_name):
     f.close()
 
 
+def generate_my_list(key="", out_path=""):
+    res_list = []
+    for key_year in range(2018, 2010, -1):
+        for txt_path in glob.glob(r"paper_list/*.txt"):
+            tmp_list = search_one_txt(key, key_year, txt_path)
+            res_list += tmp_list
+            # print(key_year, len(res_list))
+
+    print(key, len(res_list))
+    write(res_list, "%s/%s.txt" % (out_path, key))
+
+
 def generate(first_name="ECCV"):  # some 2018 year has not in the list
     res_list = []
     for line in open("ddd", 'r').readlines():
@@ -41,19 +59,21 @@ def generate(first_name="ECCV"):  # some 2018 year has not in the list
     write(res_list, "tmp")
 
 
-import glob
+parser = argparse.ArgumentParser(description='manual to this script')
+parser.add_argument('--keys', type=str, default="relation,attention,object detection")
+parser.add_argument('--outpath', type=str, default="my_lists")
+args = parser.parse_args()
+
+
+def main():
+    print("key: "+args.keys,"outpath: "+args.outpath)
+    for key in args.keys.strip().split(','):
+        if not os.path.exists(args.outpath):
+            os.makedirs(args.outpath)
+        generate_my_list(key, args.outpath)
+
+        # generate()
+
 
 if __name__ == '__main__':
-
-    key = 'relation'
-    res_list = []
-    for key_year in range(2018, 2010, -1):
-        for txt_path in glob.glob(r"paper_list/*.txt"):
-            tmp_list = search_one_txt(key, key_year, txt_path)
-            res_list += tmp_list
-        print(key_year, len(res_list))
-
-    print(len(res_list))
-    write(res_list, "relation.txt")
-
-    # generate()
+    main()
