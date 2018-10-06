@@ -96,3 +96,58 @@ https://dblp.uni-trier.de/search/publ?q={keyword} venue:CVPR|ICCV year:2018|2017
 | 3    | IEEE VIS | IEEE Visualization Conference              | IEEE   | <http://dblp.uni-trier.de/db/conf/visualization/index.html> |
 | 4    | VR       | IEEE Virtual Reality                       | IEEE   | <http://dblp.uni-trier.de/db/conf/vr/>                      |
 
+
+
+### How to use this project
+
+....
+
+```bash
+tree -L 2 --dirsfirst
+.
+├── downers
+│   ├── __pycache__
+│   ├── aaai.py
+│   ├── acmmm.py
+│   ├── ai.py
+│   ├── cvpr.py
+│   ├── dblp_helper.py    # base downloader
+│   ├── eccv.py
+│   ├── for_test.ipynb
+│   ├── iccv.py
+│   ├── ijcv.py
+│   ├── __init__.py
+│   ├── nips.py
+│   ├── pami.py
+│   └── tip.py
+├── down_pages
+│   ├── eccv
+│   ├── mir
+│   ├── mm
+│   ├── acmmm.txt
+│   └── eccv.txt
+├── paper_list
+│   ├── acmmm_papers.txt
+│   ├── ai_papers.txt
+│   ├── cvpr_papers.txt
+│   ├── eccv_papers.txt
+│   ├── iccv_papers.txt
+│   ├── ijcv_papers.txt
+│   ├── nips_papers.txt
+│   └── pami_papers.txt
+├── seachers
+│   ├── __pycache__
+│   └── search_helper.py
+├── ccf.md
+├── dblp.py            # main func
+├── README.md
+├── relation.txt
+└── search.py          # main search
+
+9 directories, 29 files
+```
+
+
+
+#### Thanks for python module [beautifulsoup](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
+
