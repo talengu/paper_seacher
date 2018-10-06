@@ -3,7 +3,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-from downers.dblphelper import down_all
+from downers.dblp_helper import down_all
 
 down_root = 'down_pages'
 

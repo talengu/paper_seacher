@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from downers.dblphelper import BaseDowner, get_titles
+from downers.dblp_helper import BaseDowner, get_titles
 
 
 def main_page_to_list(main_url='', first_name='', second_name=''):
