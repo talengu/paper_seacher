@@ -1,13 +1,10 @@
-Paper Seacher
+## Paper Seacher
 
 where where where papers
 
-## Where Good
-[CCF 人工智能](https://www.ccf.org.cn/xspj/rgzn/)
-[CCF 计算机图形学与多媒体 ](https://www.ccf.org.cn/xspj/jsjtxxydmt/)
-[CCF 人机交互与普适计算](https://www.ccf.org.cn/xspj/rjjhypsjs/)
+This project is used for get names of papers of CCf-A, and a simple search function.
 
-[CCF-A](ccf.md)
+
 
 ## List of Papers
 
@@ -23,6 +20,14 @@ where where where papers
 |ECCV|[2018-1990](paper_list/eccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/eccv/)  [2018](http://openaccess.thecvf.com/ECCV2018.py)|
 |AAAI|[2018-1980](paper_list/aaai_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/aaai/)|
 
+## My List
+
+keyword="relation" year>=2011
+
+- [relation.txt](my_lists/relation.txt)
+- [attention.txt](my_lists/attention.txt)
+- [object detection.txt](my_lists/object_detection.txt)
+- [gan.txt](my_lists/gan.txt)
 
 
 ### How to use this project
@@ -34,16 +39,7 @@ $ python search.py --keys attentions,relations --outpath my_lists/
 # --outpath to save papers_list
 ```
 
-## My List
 
-keyword="relation" year>=2011
-[relation.txt](my_lists/relation.txt)
-
-[attention.txt](my_lists/attention.txt)
-
-[object detection.txt](my_lists/object_detection.txt)
-
-[gan.txt](my_lists/gan.txt)
 
 ### Maybe there is a simple way? wahaha . . .
 
@@ -53,7 +49,12 @@ https://dblp.uni-trier.de/search/publ?q={keyword} venue:CVPR|ICCV year:2018|2017
 ```
 
 
+## Where Good
+[CCF 人工智能](https://www.ccf.org.cn/xspj/rgzn/)
+[CCF 计算机图形学与多媒体 ](https://www.ccf.org.cn/xspj/jsjtxxydmt/)
+[CCF 人机交互与普适计算](https://www.ccf.org.cn/xspj/rjjhypsjs/)
 
+[CCF-A](ccf.md)
 
 
 #### [中国计算机学会推荐 (人工智能)](https://www.ccf.org.cn/xspj/rgzn/)
