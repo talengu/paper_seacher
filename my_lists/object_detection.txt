@@ -1,33 +1,7 @@
-ECCV,,2018,Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground
-ECCV,,2018,SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network
-ECCV,,2018,Reverse Attention for Salient Object Detection
-ECCV,,2018,Unsupervised Hard Example Mining from Videos for Improved Object Detection
-ECCV,,2018,DetNet: Design Backbone for Object Detection
-ECCV,,2018,Visual-Inertial Object Detection and Mapping
-ECCV,,2018,Zero-Shot Object Detection
-ECCV,,2018,Contour Knowledge Transfer for Salient Object Detection
-ECCV,,2018,Weakly Supervised Region Proposal Network and Object Detection
-ECCV,,2018,Zero-Annotation Object Detection with Web Knowledge Transfer
-ECCV,,2018,Fully Motion-Aware Network for Video Object Detection
-ECCV,,2018,Deep Feature Pyramid Reconfiguration for Object Detection
-ECCV,,2018,Receptive Field Block Net for Accurate and Fast Object Detection
-ECCV,,2018,Parallel Feature Pyramid Network for Object Detection
-ECCV,,2018,TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection
-ECCV,,2018,SAN: Learning Relationship between Convolutional Features for Multi-Scale Object Detection
-ECCV,,2018,Acquisition of Localization Confidence for Accurate Object Detection
-ECCV,,2018,Localization Recall Precision (LRP): A New Performance Metric for Object Detection
-ECCV,,2018,Eliminating the Blind Spot: Adapting 3D Object Detection and Monocular Depth Estimation to 360Â° Panoramic Imagery
-ECCV,,2018,Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection
-ECCV,,2018,Deep Regionlets for Object Detection
-ECCV,,2018,Context Refinement for Object Detection
-ECCV,,2018,Quantization Mimic: Towards Very Tiny CNN for Object Detection
-ECCV,,2018,The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking
-ECCV,,2018,Object Detection in Video with Spatiotemporal Sampling Networks
-ECCV,,2018,Modeling Visual Context is Key to Augmenting Object Detection Datasets
-ECCV,,2018,Learning Region Features for Object Detection
-ECCV,,2018,Video Object Detection with an Aligned Spatial-Temporal Memory
-ECCV,,2018,Implicit 3D Orientation Learning for 6D Object Detection from RGB Images
-ECCV,,2018,Deep Continuous Fusion for Multi-Sensor 3D Object Detection
+AAAI,aaai2018,2018,LSTD: A Low-Shot Transfer Detector for Object Detection.
+AAAI,aaai2018,2018,Recurrently Aggregating Deep Features for Salient Object Detection.
+AAAI,aaai2018,2018,Weakly Supervised Salient Object Detection Using Image Labels.
+AAAI,aaai2018,2018,R-FCN++: Towards Accurate Region-Based Fully Convolutional Networks for Object Detection.
 CVPR,,2018,Frustum PointNets for 3D Object Detection from RGB-D Data
 CVPR,,2018,Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships
 CVPR,,2018,Zigzag Learning for Weakly Supervised Object Detection
@@ -62,8 +36,61 @@ CVPR,,2018,Multi-Level Fusion based 3D Object Detection from Monocular Images
 CVPR,,2018,Flow Guided Recurrent Neural Encoder for Video Salient Object Detection
 CVPR,,2018,Pixar: Real-time 3D Object Detection from Point Clouds
 CVPR,,2018,Mobile Video Object Detection with Temporally-Aware Feature Maps
+ECCV,,2018,Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground
+ECCV,,2018,SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network
+ECCV,,2018,Reverse Attention for Salient Object Detection
+ECCV,,2018,Unsupervised Hard Example Mining from Videos for Improved Object Detection
+ECCV,,2018,DetNet: Design Backbone for Object Detection
+ECCV,,2018,Visual-Inertial Object Detection and Mapping
+ECCV,,2018,Zero-Shot Object Detection
+ECCV,,2018,Contour Knowledge Transfer for Salient Object Detection
+ECCV,,2018,Weakly Supervised Region Proposal Network and Object Detection
+ECCV,,2018,Zero-Annotation Object Detection with Web Knowledge Transfer
+ECCV,,2018,Fully Motion-Aware Network for Video Object Detection
+ECCV,,2018,Deep Feature Pyramid Reconfiguration for Object Detection
+ECCV,,2018,Receptive Field Block Net for Accurate and Fast Object Detection
+ECCV,,2018,Parallel Feature Pyramid Network for Object Detection
+ECCV,,2018,TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection
+ECCV,,2018,SAN: Learning Relationship between Convolutional Features for Multi-Scale Object Detection
+ECCV,,2018,Acquisition of Localization Confidence for Accurate Object Detection
+ECCV,,2018,Localization Recall Precision (LRP): A New Performance Metric for Object Detection
+ECCV,,2018,Eliminating the Blind Spot: Adapting 3D Object Detection and Monocular Depth Estimation to 360Â° Panoramic Imagery
+ECCV,,2018,Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection
+ECCV,,2018,Deep Regionlets for Object Detection
+ECCV,,2018,Context Refinement for Object Detection
+ECCV,,2018,Quantization Mimic: Towards Very Tiny CNN for Object Detection
+ECCV,,2018,The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking
+ECCV,,2018,Object Detection in Video with Spatiotemporal Sampling Networks
+ECCV,,2018,Modeling Visual Context is Key to Augmenting Object Detection Datasets
+ECCV,,2018,Learning Region Features for Object Detection
+ECCV,,2018,Video Object Detection with an Aligned Spatial-Temporal Memory
+ECCV,,2018,Implicit 3D Orientation Learning for 6D Object Detection from RGB Images
+ECCV,,2018,Deep Continuous Fusion for Multi-Sensor 3D Object Detection
 PAMI,,2018,Boosted Random Ferns for Object Detection.
-NIPS,nips2017,2017,Learning Efficient Object Detection Models with Knowledge Distillation.
+ACMMM,mm2017,2017,A Dual-Network Progressive Approach to Weakly Supervised Object Detection.
+ACMMM,mm2017,2017,Multi-Scale Cascade Network for Salient Object Detection.
+ACMMM,mm2017,2017,Salient Object Detection with Chained Multi-Scale Fully Convolutional Network.
+ACMMM,tw2017,2017,Multispectral Object Detection for Autonomous Vehicles.
+CVPR,,2017,Deep Level Sets for Salient Object Detection.
+CVPR,,2017,Object Detection in Videos with Tubelet Proposal Networks.
+CVPR,,2017,Feature Pyramid Networks for Object Detection.
+CVPR,,2017,Perceptual Generative Adversarial Networks for Small Object Detection.
+CVPR,,2017,A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection.
+CVPR,,2017,Visual-Inertial-Semantic Scene Representation for 3D Object Detection.
+CVPR,,2017,Polyhedral Conic Classifiers for Visual Object Detection and Classification.
+CVPR,,2017,Spatio-Temporal Self-Organizing Map Deep Network for Dynamic Object Detection from Videos.
+CVPR,,2017,Minimum Delay Moving Object Detection.
+CVPR,,2017,RON: Reverse Connection with Objectness Prior Networks for Object Detection.
+CVPR,,2017,Deeply Supervised Salient Object Detection with Short Connections.
+CVPR,,2017,Multi-view 3D Object Detection Network for Autonomous Driving.
+CVPR,,2017,Non-local Deep Features for Salient Object Detection.
+CVPR,,2017,Mimicking Very Efficient Network for Object Detection.
+CVPR,,2017,YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video.
+CVPR,W,2017,A Logarithmic X-Ray Imaging Model for Baggage Inspection: Simulation and Object Detection.
+CVPR,W,2017,LCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems.
+CVPR,W,2017,SqueezeDet: Unified Small Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving.
+CVPR,W,2017,Efficient Scene Layout Aware Object Detection for Traffic Surveillance.
+CVPR,W,2017,Probabilistic Global Scale Estimation for MonoSLAM Based on Generic Object Detection.
 ICCV,,2017,Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection.
 ICCV,,2017,Flow-Guided Feature Aggregation for Video Object Detection.
 ICCV,,2017,DeNet: Scalable Real-Time Object Detection with Directed Sparse Sampling.
@@ -85,44 +112,15 @@ ICCV,W,2017,Feature-Based Efficient Moving Object Detection for Low-Altitude Aer
 ICCV,W,2017,Symmetry Aware Evaluation of 3D Object Detection and Pose Estimation in Scenes of Many Parts in Bulk.
 ICCV,W,2017,Learning RGB-D Salient Object Detection Using Background Enclosure Depth Contrast and Top-Down Features.
 ICCV,W,2017,A Three-Pathway Psychobiological Framework of Salient Object Detection Using Stereoscopic Technology.
-CVPR,,2017,Deep Level Sets for Salient Object Detection.
-CVPR,,2017,Object Detection in Videos with Tubelet Proposal Networks.
-CVPR,,2017,Feature Pyramid Networks for Object Detection.
-CVPR,,2017,Perceptual Generative Adversarial Networks for Small Object Detection.
-CVPR,,2017,A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection.
-CVPR,,2017,Visual-Inertial-Semantic Scene Representation for 3D Object Detection.
-CVPR,,2017,Polyhedral Conic Classifiers for Visual Object Detection and Classification.
-CVPR,,2017,Spatio-Temporal Self-Organizing Map Deep Network for Dynamic Object Detection from Videos.
-CVPR,,2017,Minimum Delay Moving Object Detection.
-CVPR,,2017,RON: Reverse Connection with Objectness Prior Networks for Object Detection.
-CVPR,,2017,Deeply Supervised Salient Object Detection with Short Connections.
-CVPR,,2017,Multi-view 3D Object Detection Network for Autonomous Driving.
-CVPR,,2017,Non-local Deep Features for Salient Object Detection.
-CVPR,,2017,Mimicking Very Efficient Network for Object Detection.
-CVPR,,2017,YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video.
-CVPR,W,2017,A Logarithmic X-Ray Imaging Model for Baggage Inspection: Simulation and Object Detection.
-CVPR,W,2017,LCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems.
-CVPR,W,2017,SqueezeDet: Unified Small Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving.
-CVPR,W,2017,Efficient Scene Layout Aware Object Detection for Traffic Surveillance.
-CVPR,W,2017,Probabilistic Global Scale Estimation for MonoSLAM Based on Generic Object Detection.
+IJCV,,2017,Salient Object Detection: A Discriminative Regional Feature Integration Approach.
+IJCV,,2017,Visual Object Detection Using Cascades of Binary and One-Class Classifiers.
+NIPS,nips2017,2017,Learning Efficient Object Detection Models with Knowledge Distillation.
 PAMI,,2017,Salient Object Detection via Structured Matrix Decomposition.
 PAMI,,2017,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.
 PAMI,,2017,DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks.
 PAMI,,2017,Object Detection Networks on Convolutional Feature Maps.
-IJCV,,2017,Salient Object Detection: A Discriminative Regional Feature Integration Approach.
-IJCV,,2017,Visual Object Detection Using Cascades of Binary and One-Class Classifiers.
-ACMMM,mm2017,2017,A Dual-Network Progressive Approach to Weakly Supervised Object Detection.
-ACMMM,mm2017,2017,Multi-Scale Cascade Network for Salient Object Detection.
-ACMMM,mm2017,2017,Salient Object Detection with Chained Multi-Scale Fully Convolutional Network.
-ACMMM,tw2017,2017,Multispectral Object Detection for Autonomous Vehicles.
-ECCV,eccv2016-3,2016,Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation.
-ECCV,eccv2016-4,2016,A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection.
-ECCV,eccv2016-4,2016,A Shape-Based Approach for Salient Object Detection Using Deep Learning.
-ECCV,eccv2016-7,2016,Gated Bi-directional CNN for Object Detection.
-ECCV,eccv2016-7,2016,Carried Object Detection Based on an Ensemble of Contour Exemplars.
-ECCV,eccv2016w1,2016,Interactive Feature Growing for Accurate Object Detection in Megapixel Images.
-ECCV,eccv2016w2,2016,Perfect Accuracy with Human-in-the-Loop Object Detection.
-NIPS,nips2016,2016,R-FCN: Object Detection via Region-based Fully Convolutional Networks.
+AAAI,aaai2016,2016,Submodular Asymmetric Feature Selection in Cascade Object Detection.
+ACMMM,mm2016,2016,UnitBox: An Advanced Object Detection Network.
 CVPR,,2016,Deep Contrast Learning for Salient Object Detection.
 CVPR,,2016,DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection.
 CVPR,,2016,You Only Look Once: Unified Real-Time Object Detection.
@@ -145,26 +143,19 @@ CVPR,,2016,Track and Transfer: Watching Videos to Simulate Strong Human Supervis
 CVPR,,2016,Unconstrained Salient Object Detection via Proposal Subset Optimization.
 CVPR,W,2016,Differential Geometry Boosts Convolutional Neural Networks for Object Detection.
 CVPR,W,2016,Deeply Exploit Depth Information for Object Detection.
+ECCV,eccv2016-3,2016,Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation.
+ECCV,eccv2016-4,2016,A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection.
+ECCV,eccv2016-4,2016,A Shape-Based Approach for Salient Object Detection Using Deep Learning.
+ECCV,eccv2016-7,2016,Gated Bi-directional CNN for Object Detection.
+ECCV,eccv2016-7,2016,Carried Object Detection Based on an Ensemble of Contour Exemplars.
+ECCV,eccv2016w1,2016,Interactive Feature Growing for Accurate Object Detection in Megapixel Images.
+ECCV,eccv2016w2,2016,Perfect Accuracy with Human-in-the-Loop Object Detection.
+IJCV,,2016,Visualizing Object Detection Features.
+NIPS,nips2016,2016,R-FCN: Object Detection via Region-based Fully Convolutional Networks.
 PAMI,,2016,Region-Based Convolutional Networks for Accurate Object Detection and Segmentation.
 PAMI,,2016,Lifting Object Detection Datasets into 3D.
 PAMI,,2016,Analysing Domain Shift Factors between Videos and Images for Object Detection.
-IJCV,,2016,Visualizing Object Detection Features.
-ACMMM,mm2016,2016,UnitBox: An Advanced Object Detection Network.
-ECCV,eccv2014w2,2015,Fast 3-D Urban Object Detection on Streaming Point Clouds.
-NIPS,nips2015,2015,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.
-ICCV,,2015,Object Detection Using Generalization and Efficiency Balanced Co-Occurrence Features.
-ICCV,,2015,Generic Promotion of Diffusion-Based Salient Object Detection.
-ICCV,,2015,HARF: Hierarchy-Associated Rich Features for Salient Object Detection.
-ICCV,,2015,Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection.
-ICCV,,2015,Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model.
-ICCV,,2015,Cascaded Sparse Spatial Bins for Efficient and Effective Generic Object Detection.
-ICCV,,2015,Minimum Barrier Salient Object Detection at 80 FPS.
-ICCV,,2015,Spatial Semantic Regularisation for Large Scale Object Detection.
-ICCV,,2015,Real-Time Pose Estimation Piggybacked on Object Detection.
-ICCV,,2015,Square Localization for Efficient and Accurate Object Detection.
-ICCV,,2015,Box Aggregation for Proposal Decimation: Last Mile of Object Detection.
-ICCV,,2015,AttentionNet: Aggregating Weak Directions for Accurate Object Detection.
-ICCV,,2015,A Novel Representation of Parts for Accurate 3D Object Detection and Tracking in Monocular Images.
+AAAI,aaai2015,2015,Salient Object Detection via Objectness Proposals.
 CVPR,,2015,Expanding object detector's Horizon: Incremental learning framework for object detection in videos.
 CVPR,,2015,Improving object detection with deep convolutional networks via Bayesian optimization and structured prediction.
 CVPR,,2015,Adaptive region pooling for object detection.
@@ -178,12 +169,38 @@ CVPR,,2015,Towards 3D object detection with bimodal deep Boltzmann machines over
 CVPR,,2015,Scalable object detection by filter compression with regularized sparse coding.
 CVPR,,2015,segDeepM: Exploiting segmentation and context in deep neural networks for object detection.
 CVPR,,2015,Object detection by labeling superpixels.
-PAMI,,2015,Contextualizing Object Detection and Classification.
-PAMI,,2015,Learning Near-Optimal Cost-Sensitive Decision Policy for Object Detection.
-PAMI,,2015,Regionlets for Generic Object Detection.
+ECCV,eccv2014w2,2015,Fast 3-D Urban Object Detection on Streaming Point Clouds.
+ICCV,,2015,Object Detection Using Generalization and Efficiency Balanced Co-Occurrence Features.
+ICCV,,2015,Generic Promotion of Diffusion-Based Salient Object Detection.
+ICCV,,2015,HARF: Hierarchy-Associated Rich Features for Salient Object Detection.
+ICCV,,2015,Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection.
+ICCV,,2015,Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model.
+ICCV,,2015,Cascaded Sparse Spatial Bins for Efficient and Effective Generic Object Detection.
+ICCV,,2015,Minimum Barrier Salient Object Detection at 80 FPS.
+ICCV,,2015,Spatial Semantic Regularisation for Large Scale Object Detection.
+ICCV,,2015,Real-Time Pose Estimation Piggybacked on Object Detection.
+ICCV,,2015,Square Localization for Efficient and Accurate Object Detection.
+ICCV,,2015,Box Aggregation for Proposal Decimation: Last Mile of Object Detection.
+ICCV,,2015,AttentionNet: Aggregating Weak Directions for Accurate Object Detection.
+ICCV,,2015,A Novel Representation of Parts for Accurate 3D Object Detection and Tracking in Monocular Images.
 IJCV,,2015,An Elastic Deformation Field Model for Object Detection and Tracking.
 IJCV,,2015,Indoor Scene Understanding with RGB-D Images: Bottom-up Segmentation Object Detection and Semantic Segmentation.
 IJCV,,2015,SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection.
+NIPS,nips2015,2015,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.
+PAMI,,2015,Contextualizing Object Detection and Classification.
+PAMI,,2015,Learning Near-Optimal Cost-Sensitive Decision Policy for Object Detection.
+PAMI,,2015,Regionlets for Generic Object Detection.
+AAAI,aaai2014,2014,Efficient Object Detection via Adaptive Online Selection of Sensor-Array Elements.
+CVPR,,2014,Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.
+CVPR,,2014,The Role of Context for Object Detection and Semantic Segmentation in the Wild.
+CVPR,,2014,Accurate Object Detection with Joint Classification-Regression Random Forests.
+CVPR,,2014,Scalable Object Detection Using Deep Neural Networks.
+CVPR,,2014,Confidence-Rated Multiple Instance Boosting for Object Detection.
+CVPR,,2014,The Fastest Deformable Part Model for Object Detection.
+CVPR,,2014,Learning Optimal Seeds for Diffusion-Based Salient Object Detection.
+CVPR,W,2014,Fast and Robust Object Detection Using Visual Subcategories.
+CVPR,W,2014,Static and Moving Object Detection Using Flux Tensor with Split Gaussian Models.
+CVPR,W,2014,2D/3D Sensor Exploitation and Fusion for Enhanced Object Detection.
 ECCV,eccv2014-1,2014,30Hz Object Detection with DPM V5.
 ECCV,eccv2014-3,2014,Comparing Salient Object Detection Results without Ground Truth.
 ECCV,eccv2014-3,2014,RGBD Salient Object Detection: A Benchmark and Algorithms.
@@ -196,36 +213,18 @@ ECCV,eccv2014-6,2014,Latent-Class Hough Forests for 3D Object Detection and Pose
 ECCV,eccv2014-6,2014,GIS-Assisted Object Detection and Geospatial Localization.
 ECCV,eccv2014-6,2014,Sliding Shapes for 3D Object Detection in Depth Images.
 ECCV,eccv2014-7,2014,Learning Rich Features from RGB-D Images for Object Detection and Segmentation.
+IJCV,,2014,Branch&Rank for Efficient Object Detection.
+IJCV,,2014,A Shape Reconstructability Measure of Object Part Importance with Applications to Object Detection and Localization.
 NIPS,nips2014,2014,Multi-Resolution Cascades for Multiclass Object Detection.
-CVPR,,2014,Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.
-CVPR,,2014,The Role of Context for Object Detection and Semantic Segmentation in the Wild.
-CVPR,,2014,Accurate Object Detection with Joint Classification-Regression Random Forests.
-CVPR,,2014,Scalable Object Detection Using Deep Neural Networks.
-CVPR,,2014,Confidence-Rated Multiple Instance Boosting for Object Detection.
-CVPR,,2014,The Fastest Deformable Part Model for Object Detection.
-CVPR,,2014,Learning Optimal Seeds for Diffusion-Based Salient Object Detection.
-CVPR,W,2014,Fast and Robust Object Detection Using Visual Subcategories.
-CVPR,W,2014,Static and Moving Object Detection Using Flux Tensor with Split Gaussian Models.
-CVPR,W,2014,2D/3D Sensor Exploitation and Fusion for Enhanced Object Detection.
 PAMI,,2014,Non-Rigid Object Detection with LocalInterleaved Sequential Alignment (LISA).
 PAMI,,2014,Fast Feature Pyramids for Object Detection.
 PAMI,,2014,Occlusion Reasoning for Object Detectionunder Arbitrary Viewpoint.
 PAMI,,2014,Structured Labels in Random Forests for Semantic Labelling and Object Detection.
-IJCV,,2014,Branch&Rank for Efficient Object Detection.
-IJCV,,2014,A Shape Reconstructability Measure of Object Part Importance with Applications to Object Detection and Localization.
-NIPS,nips2013,2013,Deep Neural Networks for Object Detection.
-ICCV,,2013,HOGgles: Visualizing Object Detection Features.
-ICCV,,2013,Regionlets for Generic Object Detection.
-ICCV,,2013,From Subcategories to Visual Composites: A Multi-level Framework for Object Detection.
-ICCV,,2013,Alternating Regression Forests for Object Detection and Pose Estimation.
-ICCV,,2013,Learning Near-Optimal Cost-Sensitive Decision Policy for Object Detection.
-ICCV,,2013,Shufflets: Shared Mid-level Parts for Fast Object Detection.
-ICCV,,2013,Holistic Scene Understanding for 3D Object Detection with RGBD Cameras.
-ICCV,,2013,Discriminatively Trained Templates for 3D Object Detection: A Real Time Scalable Approach.
-ICCV,,2013,Coherent Object Detection with 3D Geometric Context from a Single Image.
-ICCV,,2013,Relative Attributes for Large-Scale Abandoned Object Detection.
-ICCV,,2013,Segmentation Driven Object Detection with Fisher Vectors.
-ICCV,,2013,Contextual Hypergraph Modeling for Salient Object Detection.
+AAAI,aaai2013,2013,Salient Object Detection via Low-Rank and Structured Sparse Matrix Decomposition.
+ACMMM,mm2013,2013,Real-time salient object detection.
+ACMMM,mm2013,2013,Salient object detection in videos by optimal spatio-temporal path discovery.
+ACMMM,mm2013,2013,Real-time privacy-preserving moving object detection in the cloud.
+ACMMM,mm2013,2013,Weakly-supervised multi-class object detection using multi-type 3D features.
 CVPR,,2013,Efficient Object Detection and Segmentation for Fine-Grained Recognition.
 CVPR,,2013,Fast Multiple-Part Based Object Detection Using KD-Ferns.
 CVPR,,2013,Semi-supervised Learning of Feature Hierarchies for Object Detection in a Video.
@@ -239,24 +238,24 @@ CVPR,,2013,Fast Object Detection with Entropy-Driven Evaluation.
 CVPR,,2013,Discriminatively Trained And-Or Tree Models for Object Detection.
 CVPR,,2013,Learning SURF Cascade for Fast and Accurate Object Detection.
 CVPR,W,2013,Generation of Ground Truth for Object Detection While Playing an Online Game: Productive Gaming or Recreational Working?
+ICCV,,2013,HOGgles: Visualizing Object Detection Features.
+ICCV,,2013,Regionlets for Generic Object Detection.
+ICCV,,2013,From Subcategories to Visual Composites: A Multi-level Framework for Object Detection.
+ICCV,,2013,Alternating Regression Forests for Object Detection and Pose Estimation.
+ICCV,,2013,Learning Near-Optimal Cost-Sensitive Decision Policy for Object Detection.
+ICCV,,2013,Shufflets: Shared Mid-level Parts for Fast Object Detection.
+ICCV,,2013,Holistic Scene Understanding for 3D Object Detection with RGBD Cameras.
+ICCV,,2013,Discriminatively Trained Templates for 3D Object Detection: A Real Time Scalable Approach.
+ICCV,,2013,Coherent Object Detection with 3D Geometric Context from a Single Image.
+ICCV,,2013,Relative Attributes for Large-Scale Abandoned Object Detection.
+ICCV,,2013,Segmentation Driven Object Detection with Fisher Vectors.
+ICCV,,2013,Contextual Hypergraph Modeling for Salient Object Detection.
+NIPS,nips2013,2013,Deep Neural Networks for Object Detection.
 PAMI,,2013,Simultaneous Video Stabilization and Moving Object Detection in Turbulence.
 PAMI,,2013,Moving Object Detection by Detecting Contiguous Outliers in the Low-Rank Representation.
-ACMMM,mm2013,2013,Real-time salient object detection.
-ACMMM,mm2013,2013,Salient object detection in videos by optimal spatio-temporal path discovery.
-ACMMM,mm2013,2013,Real-time privacy-preserving moving object detection in the cloud.
-ACMMM,mm2013,2013,Weakly-supervised multi-class object detection using multi-type 3D features.
-ECCV,eccv2012-1,2012,Object Detection Using Strongly-Supervised Deformable Part Models.
-ECCV,eccv2012-1,2012,Monocular Object Detection Using 3D Geometric Primitives.
-ECCV,eccv2012-2,2012,Salient Object Detection: A Benchmark.
-ECCV,eccv2012-2,2012,Sparselet Models for Efficient Multiclass Object Detection.
-ECCV,eccv2012-3,2012,Latent Hough Transform for Object Detection.
-ECCV,eccv2012-3,2012,Abnormal Object Detection by Canonical Scene-Based Contextual Model.
-ECCV,eccv2012-4,2012,Multi-component Models for Object Detection.
-ECCV,eccv2012-6,2012,Contextual Object Detection Using Set-Based Classification.
-ECCV,eccv2012w1,2012,Ask'nSeek: A New Game for Object Detection and Labeling.
-ECCV,eccv2012w2,2012,3D Object Detection with Multiple Kinects.
-NIPS,nips2012,2012,Context-Sensitive Decision Forests for Object Detection.
-NIPS,nips2012,2012,3D Object Detection and Viewpoint Estimation with a Deformable 3D Cuboid Model.
+AAAI,hcomp2012,2012,Crowdsourcing Annotations for Visual Object Detection.
+ACMMM,mm2012,2012,Detection bank: an object detection based video representation for multimedia event recognition.
+ACMMM,maed2012,2012,Quantitative performance analysis of object detection algorithms on underwater video footage.
 CVPR,,2012,Fan Shape Model for object detection.
 CVPR,,2012,Describing the scene as a whole: Joint object detection scene classification and semantic segmentation.
 CVPR,,2012,A unified approach to salient object detection via low rank matrix recovery.
@@ -268,20 +267,25 @@ CVPR,,2012,Shrink boost for selecting multi-LBP histogram features in object det
 CVPR,,2012,Mobile object detection through client-server based vote transfer.
 CVPR,,2012,Unsupervised incremental learning for improved object detection in a video.
 CVPR,,2012,Color attributes for object detection.
+ECCV,eccv2012-1,2012,Object Detection Using Strongly-Supervised Deformable Part Models.
+ECCV,eccv2012-1,2012,Monocular Object Detection Using 3D Geometric Primitives.
+ECCV,eccv2012-2,2012,Salient Object Detection: A Benchmark.
+ECCV,eccv2012-2,2012,Sparselet Models for Efficient Multiclass Object Detection.
+ECCV,eccv2012-3,2012,Latent Hough Transform for Object Detection.
+ECCV,eccv2012-3,2012,Abnormal Object Detection by Canonical Scene-Based Contextual Model.
+ECCV,eccv2012-4,2012,Multi-component Models for Object Detection.
+ECCV,eccv2012-6,2012,Contextual Object Detection Using Set-Based Classification.
+ECCV,eccv2012w1,2012,Ask'nSeek: A New Game for Object Detection and Labeling.
+ECCV,eccv2012w2,2012,3D Object Detection with Multiple Kinects.
+IJCV,,2012,Shape-Based Object Detection via Boundary Structure Segmentation.
+IJCV,,2012,Object Detection using Geometrical Context Feedback.
+NIPS,nips2012,2012,Context-Sensitive Decision Forests for Object Detection.
+NIPS,nips2012,2012,3D Object Detection and Viewpoint Estimation with a Deformable 3D Cuboid Model.
 PAMI,,2012,Quantifying and Transferring Contextual Information in Object Detection.
 PAMI,,2012,Multistage Particle Windows for Fast and Accurate Object Detection.
 PAMI,,2012,Detachable Object Detection: Segmentation and Depth Ordering from Short-Baseline Video.
-IJCV,,2012,Shape-Based Object Detection via Boundary Structure Segmentation.
-IJCV,,2012,Object Detection using Geometrical Context Feedback.
-ACMMM,mm2012,2012,Detection bank: an object detection based video representation for multimedia event recognition.
-ACMMM,maed2012,2012,Quantitative performance analysis of object detection algorithms on underwater video footage.
-NIPS,nips2011,2011,Transfer Learning by Borrowing Examples for Multiclass Object Detection.
-NIPS,nips2011,2011,Object Detection with Grammar Models.
-NIPS,nips2011,2011,Rapid Deformable Object Detection using Dual-Tree Branch-and-Bound.
-ICCV,W,2011,Object detection grammars.
-ICCV,W,2011,Efficient object detection and segmentation with a cascaded Hough Forest ISM.
-ICCV,W,2011,Relational HOG feature with wild-card for object detection.
-ICCV,W,2011,Unsupervised sub-categorization for object detection: Finding cars from a driving vehicle.
+ACMMM,mm2011,2011,Fusing object detection and region appearance for image-text alignment.
+ACMMM,mm2011,2011,Multiclass object detection by combining local appearances and context.
 CVPR,,2011,Feature context for image classification and object detection.
 CVPR,,2011,Effective 3D object detection and regression using probabilistic segmentation features in CT images.
 CVPR,,2011,A coarse-to-fine approach for fast deformable object detection.
@@ -295,7 +299,12 @@ CVPR,,2011,Contextualizing object detection and classification.
 CVPR,W,2011,Passive infrared technique for buried object detection and classification.
 CVPR,W,2011,Multi-object detection and behavior recognition from motion 3D data.
 CVPR,W,2011,Energy-efficient foreground object detection on embedded smart cameras by hardware-level operations.
-PAMI,,2011,Hough Forests for Object Detection Tracking and Action Recognition.
+ICCV,W,2011,Object detection grammars.
+ICCV,W,2011,Efficient object detection and segmentation with a cascaded Hough Forest ISM.
+ICCV,W,2011,Relational HOG feature with wild-card for object detection.
+ICCV,W,2011,Unsupervised sub-categorization for object detection: Finding cars from a driving vehicle.
 IJCV,,2011,Model-Based Multiple Rigid Object Detection and Registration in Unstructured Range Data.
-ACMMM,mm2011,2011,Fusing object detection and region appearance for image-text alignment.
-ACMMM,mm2011,2011,Multiclass object detection by combining local appearances and context.
+NIPS,nips2011,2011,Transfer Learning by Borrowing Examples for Multiclass Object Detection.
+NIPS,nips2011,2011,Object Detection with Grammar Models.
+NIPS,nips2011,2011,Rapid Deformable Object Detection using Dual-Tree Branch-and-Bound.
+PAMI,,2011,Hough Forests for Object Detection Tracking and Action Recognition.

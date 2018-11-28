@@ -31,7 +31,7 @@ def search_one_txt(key, key_year, txt_path):
 
 
 def write(res_list, txt_out_name):
-    f = open(txt_out_name, 'w')
+    f = open(txt_out_name, 'w', encoding='UTF-8')
     for item in res_list:
         [first_name, second_name, year, name] = item
 
@@ -53,14 +53,14 @@ def generate_my_list(key="", out_path=""):
 
 def generate(first_name="ECCV"):  # some 2018 year has not in the list
     res_list = []
-    for line in open("ddd", 'r').readlines():
+    for line in open("ddd", 'r', encoding='UTF-8').readlines():
         name = line.strip()
         res_list.append([first_name, "", 2018, name])
     write(res_list, "tmp")
 
 
 parser = argparse.ArgumentParser(description='manual to this script')
-parser.add_argument('--keys', type=str, default="relation,attention,object detection")
+parser.add_argument('--keys', type=str, default="relation,attention,object detection,generate,gan")
 parser.add_argument('--outpath', type=str, default="my_lists")
 args = parser.parse_args()
 

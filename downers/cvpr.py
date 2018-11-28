@@ -33,7 +33,7 @@ def main_page_to_list(dblp_tip="https://dblp.uni-trier.de/db/conf/cvpr/", first_
 
 def write_to_txt(out_txt_path, search_url_list):
     # 保存的一行可能错误
-    f = open(out_txt_path, 'w')
+    f = open(out_txt_path, 'w', encoding='UTF-8')
     for items in search_url_list:
         f.write("%s,%s,%s,%s\n" % (items[0], items[1], items[2], items[3]))
     f.close()
@@ -43,7 +43,7 @@ def read_from_txt():
     txt_path = os.path.join(down_root, 'cvpr.txt')
     search_url_list = []
     if os.path.isfile(txt_path):
-        f = open(txt_path, 'r')
+        f = open(txt_path, 'r', encoding='UTF-8')
         for line in f.readlines():
             items = line.split(',')
             search_url_list.append([items[0], items[1], items[2], items[3]])

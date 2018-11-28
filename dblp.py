@@ -22,10 +22,12 @@ from downers.nips import main as nipsmain
 
 from downers.acmmm import main as acmmmain
 from downers.eccv import main as eccvmain
+from downers.aaai import main as aaaimain
 
 if __name__ == "__main__":
     # aimain()
     # nipsmain()
     # acmmmain()
-    eccvmain()
+    # eccvmain()
+    aaaimain()
 

@@ -10,7 +10,7 @@ class SearchHelper(object):
         self.paper_list = self._read_txt(in_txt_name)
 
     def _read_txt(self, txt):
-        lines = open(txt, 'r').readlines()
+        lines = open(txt, 'r', encoding='UTF-8').readlines()
         res_list = []
         for line in lines:
             items = line.strip().split(',')
@@ -26,7 +26,7 @@ class SearchHelper(object):
         result_lis = []
         for items in self.paper_list:
             # 将单词变为low 方便索引
-            #print(items)
+            # print(items)
             [first_name, second_name, year, name] = items
             if name.lower().find(key) != -1:
                 result_lis.append(items)

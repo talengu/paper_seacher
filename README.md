@@ -21,6 +21,7 @@ where where where papers
 |NIPS|[2017-1988](paper_list/nips_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/nips/)|
 |ACMMM|[2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/) [2018](http://www.acmmm.org/2018/accepted-papers/)|
 |ECCV|[2018-1990](paper_list/eccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/eccv/)  [2018](http://openaccess.thecvf.com/ECCV2018.py)|
+|AAAI|[2018-1980](paper_list/aaai_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/aaai/)|
 
 
 
@@ -41,6 +42,8 @@ keyword="relation" year>=2011
 [attention.txt](my_lists/attention.txt)
 
 [object detection.txt](my_lists/object_detection.txt)
+
+[gan.txt](my_lists/gan.txt)
 
 ### Maybe there is a simple way? wahaha . . .
 

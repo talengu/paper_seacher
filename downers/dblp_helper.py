@@ -65,7 +65,7 @@ class BaseDowner(object):
     def _write_to_txt(self, out_txt_path, search_url_list):
         if not os.path.exists(down_root):
             os.makedirs(down_root)
-        f = open(out_txt_path, 'w')
+        f = open(out_txt_path, 'w', encoding='UTF-8')
         for items in search_url_list:
             f.write("%s,%s,%s,%s\n" % (items[0], items[1], items[2], items[3]))
         f.close()
@@ -74,7 +74,7 @@ class BaseDowner(object):
         txt_path = os.path.join(down_root, self.name + '.txt')
         search_url_list = []
         if os.path.isfile(txt_path):
-            f = open(txt_path, 'r')
+            f = open(txt_path, 'r', encoding='UTF-8')
             for line in f.readlines():
                 items = line.split(',')
                 search_url_list.append([items[0], items[1], items[2], items[3]])
@@ -115,7 +115,7 @@ def singe_page(url):
 def get_titles(name):
     txt_path = os.path.join(down_root, name + '.txt')
     res_list = []
-    f = open(txt_path, 'r')
+    f = open(txt_path, 'r', encoding='UTF-8')
     fw = open('paper_list/' + name + '_papers.txt', 'w', encoding='utf-8')
     for line in f.readlines():
         items = line.split(',')

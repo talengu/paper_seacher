@@ -3,57 +3,50 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-from downers.dblp_helper import down_all
-
-down_root = 'down_pages'
+from downers.dblp_helper import BaseDowner, get_titles
 
 
-## it has problem here
-def main_page_to_list(dblp_tip="https://dblp.uni-trier.de/db/conf/aaai/", first_name='AAAI'):
+
+
+def main_page_to_list(main_url='', first_name='', second_name=''):
     # 返回对于这个主界面的子页面的东西
     # search_url_list [url, first_name , second_name ,year]
     search_url_list = []
-    req = requests.get(url=dblp_tip)
+    req = requests.get(url=main_url)
     html = req.text
     bf = BeautifulSoup(html)
 
-    texts = bf.find_all('div', class_='data')
-    for text in texts:
-        url = text.a['href']
+    #####
+    tags = bf.find_all('div', class_='data')
+    for tag in tags:
+        spans = tag.find_all('span')
+        year = 0
+        for span in spans:
+            if span['itemprop'] == 'datePublished':
+                year = span.string
+        url = tag.find_all('a')[-1]['href']
 
-        year = url.split('/')[-1].split('.')[0][-4:]
-        key = url.split('/')[-1].split('.')[0][-5]
-        second_name = ''
-        if key == 'w':
-            second_name = 'W'
-        print(year, second_name)
+        html_name = url.split('/')[-1]
+        second_name = html_name.split('.')[0]
+
         search_url_list.append([url, first_name, second_name, year])
+    #####
 
     return search_url_list
 
+def main():
+    main_page_url = 'https://dblp.uni-trier.de/db/conf/aaai/'
+    name = 'aaai'
 
-def write_to_txt(out_txt_path, search_url_list):
-    # 保存的一行可能错误
-    f = open(out_txt_path, 'w')
-    for items in search_url_list:
-        f.write("%s,%s,%s,%s\n" % (items[0], items[1], items[2], items[3]))
-    f.close()
+    search_url_list = main_page_to_list(main_url=main_page_url,
+                                        first_name=name.upper())
+    aiDowner = BaseDowner(name, search_url_list)
+    aiDowner.start_down_all()
+
+    get_titles(name)
 
 
-def read_from_txt():
-    txt_path = os.path.join(down_root, 'aaai.txt')
-    search_url_list = []
-    if os.path.isfile(txt_path):
-        f = open(txt_path, 'r')
-        for line in f.readlines():
-            items = line.split(',')
-            search_url_list.append([items[0], items[1], items[2], items[3]])
-    else:
-        search_url_list = main_page_to_list()
-        write_to_txt(txt_path, search_url_list)
-
-    return search_url_list
 
 
 if __name__ == '__main__':
-    down_all(read_from_txt())
+    main()
