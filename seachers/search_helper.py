@@ -28,6 +28,8 @@ class SearchHelper(object):
             # 将单词变为low 方便索引
             # print(items)
             [first_name, second_name, year, name] = items
+
+
             if name.lower().find(key) != -1:
                 result_lis.append(items)
 

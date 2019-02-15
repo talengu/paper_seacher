@@ -8,21 +8,58 @@ This project is used for get names of papers of CCf-A, and a simple search funct
 
 ## List of Papers
 
-| Name | papers_lists | dblp|
-|--------|--------|--------|
-| CVPR |   [2018-1988](paper_list/cvpr_papers.txt)    | [link](http://dblp.uni-trier.de/db/conf/cvpr/)  [2018](https://github.com/kaluo-zZ/CVPR2018-papers) |
-| PAMI |   [2018-1979](paper_list/pami_papers.txt)   |[link](http://dblp.uni-trier.de/db/journals/pami/)|
-|IJCV|[2018-1987](paper_list/ijcv_papers.txt)|[link](http://dblp.uni-trier.de/db/journals/ijcv/)|
-| AI |[2018-1970](paper_list/ai_papers.txt)|[link](https://dblp.uni-trier.de/db/journals/ai/)|
-|ICCV|[2017-1988](paper_list/iccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/iccv/)|
-|NIPS|[2017-1988](paper_list/nips_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/nips/)|
-|ACMMM|[2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/) [2018](http://www.acmmm.org/2018/accepted-papers/)|
-|ECCV|[2018-1990](paper_list/eccv_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/eccv/)  [2018](http://openaccess.thecvf.com/ECCV2018.py)|
-|AAAI|[2018-1980](paper_list/aaai_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/aaai/)|
+### CV Focus
+
+*Conference*
+	- CVPR: International Conference on Computer Vision and Pattern Recognition
+	- ICCV: International Conference on Computer Vision
+	- ECCV: European Conference on Computer Vision
+	- AAAI: AAAI Conference on Artificial Intelligence
+	- ICML: International Conference on Machine Learning
+	- NIPS: Annual Conference on Neural Information Processing Systems
+	- ACM MM: ACM International Conference on Multimedia
+	- IJCAI: International Joint Conference on Artificial Intelligence
+
+| Name | papers_lists | dblp link |status|
+|--------|--------|--------|--------|
+| CVPR |   [2018-1988](paper_list/cvpr_papers.txt)    | [link](http://dblp.uni-trier.de/db/conf/cvpr/)  [2018](https://github.com/kaluo-zZ/CVPR2018-papers) | OK |
+| ICCV |   [2017-1988](paper_list/iccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/iccv/) | OK |
+| ECCV |   [2018-1990](paper_list/eccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/eccv/)  [2018](http://openaccess.thecvf.com/ECCV2018.py)| OK |
+| AAAI |   [2018-1980](paper_list/aaai_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/aaai/) | OK |
+| ICML |   [2018-1988](paper_list/icml_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/icml/) | OK  |
+| NIPS |   [2017-1988](paper_list/nips_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/nips/) | OK |
+| ACM MM |   [2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/) [2018](http://www.acmmm.org/2018/accepted-papers/)| OK |
+| IJCAI |   [2018-1969](paper_list/ijcai_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/ijcai/) | OK  |
+
+*Journal*
+	- TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence
+	- IJCV: International Journal of Computer Vision
+	- TIP: IEEE Transactions on Image Processing
+
+| Name | papers_lists | dblp link |status|
+|--------|--------|--------|--------|
+| PAMI |   [2018-1979](paper_list/pami_papers.txt)    | [link](http://dblp.uni-trier.de/db/journals/pami/) | OK |
+| IJCV |   [2018-1987](paper_list/ijcv_papers.txt)    | [link](http://dblp.uni-trier.de/db/journals/ijcv/) | OK |
+| TIP |   [2019-1992](paper_list/tip_papers.txt)    | [link](https://dblp.uni-trier.de/db/journals/tip/) |  OK |
+
+
+
+
+*[Departed]*
+
+| Name | papers_lists | dblp link | status|
+|--------|--------|--------|--------|
+| AI |   [2018-1970](paper_list/ai_papers.txt) | [link](https://dblp.uni-trier.de/db/journals/ai/) | del |
+
+
+
+## TODO
+- [ ] can auto download papers 
+- [ ] can search the context of papers
 
 ## My List
 
-keyword="relation" year>=2011
+keyword="relation" year>=2017
 
 - [relation.txt](my_lists/relation.txt)
 - [attention.txt](my_lists/attention.txt)
@@ -45,7 +82,7 @@ $ python search.py --keys attentions,relations --outpath my_lists/
 
 ```
 keyword=?????
-https://dblp.uni-trier.de/search/publ?q={keyword} venue:CVPR|ICCV year:2018|2017|2016|2015
+https://dblp.uni-trier.de/search/publ?q={keyword} venue:CVPR|ICCV|ECCV|AAAI|ICML|NIPS|IJCAI year:2019|2018|2017
 ```
 
 

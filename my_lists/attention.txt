@@ -1,3 +1,7 @@
+TIP,,2019,Attention CoupleNet: Fully Convolutional Attention Coupling Network for Object Detection.
+TIP,,2019,SeqViews2SeqLabels: Learning 3D Global Features via Aggregating Sequential Views by RNN With Attention.
+TIP,,2019,Cross-Modal Attentional Context Learning for RGB-D Object Detection.
+TIP,,2019,Bi-Directional Spatial-Semantic Attention Networks for Image-Text Matching.
 AAAI,aaai2018,2018,Attention-via-Attention Neural Machine Translation.
 AAAI,aaai2018,2018,A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.
 AAAI,aaai2018,2018,Attention-Based Transactional Context Embedding for Next-Item Recommendation.
@@ -122,6 +126,49 @@ ECCV,,2018,Multi-Attention Multi-Class Constraint for Fine-grained Image Recogni
 ECCV,,2018,Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection
 ECCV,,2018,Mancs: A Multi-task Attentional Network with Curriculum Sampling for Person Re-identification
 ECCV,,2018,Generative Adversarial Network with Spatial Attention for Face Attribute Editing
+ICML,icml2018,2018,Attention-based Deep Multiple Instance Learning.
+ICML,icml2018,2018,Differentiable Dynamic Programming for Structured Prediction and Attention.
+ICML,icml2018,2018,Overcoming Catastrophic Forgetting with Hard Attention to the Task.
+IJCAI,ijcai2018,2018,Show Observe and Tell: Attribute-driven Attention Model for Image Captioning.
+IJCAI,ijcai2018,2018,Scanpath Prediction for Visual Attention using IOR-ROI LSTM.
+IJCAI,ijcai2018,2018,Co-attention CNNs for Unsupervised Object Co-segmentation.
+IJCAI,ijcai2018,2018,Cross-media Multi-level Alignment with Relation Attention Network.
+IJCAI,ijcai2018,2018,From Pixels to Objects: Cubic Visual Attention for Visual Question Answering.
+IJCAI,ijcai2018,2018,Memory Attention Networks for Skeleton-based Action Recognition.
+IJCAI,ijcai2018,2018,Neural Machine Translation with Key-Value Memory-Augmented Attention.
+IJCAI,ijcai2018,2018,Multi-modality Sensor Data Classification with Selective Attention.
+IJCAI,ijcai2018,2018,Attentional Image Retweet Modeling via Multi-Faceted Ranking Network Learning.
+IJCAI,ijcai2018,2018,Learning to Recognize Transient Sound Events using Attentional Supervision.
+IJCAI,ijcai2018,2018,GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction.
+IJCAI,ijcai2018,2018,Multi-Turn Video Question Answering via Multi-Stream Hierarchical Attention Context Network.
+IJCAI,ijcai2018,2018,A^3NCF: An Adaptive Aspect Attention Model for Rating Prediction.
+IJCAI,ijcai2018,2018,Sequential Recommender System based on Hierarchical Attention Networks.
+IJCAI,ijcai2018,2018,A Brand-level Ranking System with the Customized Attention-GRU Model.
+IJCAI,ijcai2018,2018,Medical Concept Embedding with Time-Aware Attention.
+IJCAI,ijcai2018,2018,Attention-Fused Deep Matching Network for Natural Language Inference.
+IJCAI,ijcai2018,2018,Multi-modal Sentence Summarization with Modality Attention and Image Filtering.
+IJCAI,ijcai2018,2018,Code Completion with Neural Attention and Pointer Networks.
+IJCAI,ijcai2018,2018,Aspect Term Extraction with History Attention and Selective Transformation.
+IJCAI,ijcai2018,2018,Feature Enhancement in Attention for Visual Question Answering.
+IJCAI,ijcai2018,2018,Beyond Polarity: Interpretable Financial Sentiment Analysis with Hierarchical Query-driven Attention.
+IJCAI,ijcai2018,2018,Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism.
+IJCAI,ijcai2018,2018,Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling.
+IJCAI,ijcai2018,2018,Listen Think and Listen Again: Capturing Top-down Auditory Attention for Speaker-independent Speech Separation.
+IJCAI,ijcai2018,2018,Multiway Attention Networks for Modeling Sentence Pairs.
+IJCAI,ijcai2018,2018,Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism.
+IJCAI,ijcai2018,2018,Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains.
+IJCAI,ijcai2018,2018,Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks.
+IJCAI,ijcai2018,2018,Densely Connected CNN with Multi-scale Feature Attention for Text Classification.
+IJCAI,ijcai2018,2018,Same Representation Different Attentions: Shareable Sentence Representation Learning from Multiple Tasks.
+IJCAI,ijcai2018,2018,Commonsense Knowledge Aware Conversation Generation with Graph Attention.
+IJCAI,caid2017,2018,Modeling Spatial Auditory Attention: Handling Equiprobable Attended Locations.
+TIP,,2018,Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos.
+TIP,,2018,Object-Part Attention Model for Fine-Grained Image Classification.
+TIP,,2018,Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks.
+TIP,,2018,Deep Visual Attention Prediction.
+TIP,,2018,Spatio-Temporal Attention-Based LSTM Networks for 3D Action Recognition and Detection.
+TIP,,2018,A Better Way to Attend: Attention With Trees for Video Question Answering.
+TIP,,2018,Modality-Specific Cross-Modal Similarity Measurement With Recurrent Attention Network.
 AAAI,aaai2017,2017,Let Your Photos Talk: Generating Narrative Paragraph for Photo Stream via Bidirectional Attention Recurrent Neural Networks.
 AAAI,aaai2017,2017,Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions.
 AAAI,aaai2017,2017,Recurrent Attentional Topic Model.
@@ -200,6 +247,24 @@ ICCV,W,2017,Dynamic Computational Time for Visual Attention.
 ICCV,W,2017,Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Videos.
 ICCV,W,2017,Spatial Attention Improves Object Localization: A Biologically Plausible Neuro-Computational Model for Use in Virtual Reality.
 ICCV,W,2017,Two-Stream Flow-Guided Convolutional Attention Networks for Action Recognition.
+ICML,icml2017,2017,Image-to-Markup Generation with Coarse-to-Fine Attention.
+ICML,icml2017,2017,Online and Linear-Time Attention by Enforcing Monotonic Alignments.
+IJCAI,ijcai2017,2017,Inferring Human Attention by Learning Latent Intentions.
+IJCAI,ijcai2017,2017,MAM-RNN: Multi-level Attention Model Based RNN for Video Captioning.
+IJCAI,ijcai2017,2017,Completely Heterogeneous Transfer Learning with Attention - What And What Not To Transfer.
+IJCAI,ijcai2017,2017,A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.
+IJCAI,ijcai2017,2017,Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning.
+IJCAI,ijcai2017,2017,Cascade Dynamics Modeling with Attention-based Recurrent Neural Network.
+IJCAI,ijcai2017,2017,Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks.
+IJCAI,ijcai2017,2017,Predicting Human Interaction via Relative Attention Model.
+IJCAI,ijcai2017,2017,Learning to Read Irregular Text with Attention Mechanisms.
+IJCAI,ijcai2017,2017,Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network.
+IJCAI,ijcai2017,2017,Video Question Answering via Hierarchical Spatio-Temporal Attention Networks.
+IJCAI,ijcai2017,2017,Link Prediction via Ranking Metric Dual-Level Attention Network Learning.
+IJCAI,ijcai2017,2017,Stance Classification with Target-specific Neural Attention.
+IJCAI,ijcai2017,2017,An Attention-based Regression Model for Grounding Textual Phrases in Images.
+IJCAI,ijcai2017,2017,Interactive Attention Networks for Aspect-Level Sentiment Classification.
+IJCAI,ijcai2017,2017,Learning Sentence Representation with Guidance of Human Attention.
 NIPS,nips2017,2017,Attentional Pooling for Action Recognition.
 NIPS,nips2017,2017,VAIN: Attentional Multi-agent Predictive Modeling.
 NIPS,nips2017,2017,A Regularized Framework for Sparse and Structured Neural Attention.
@@ -211,70 +276,7 @@ NIPS,nips2017,2017,Saliency-based Sequential Image Attention with Multiset Predi
 NIPS,nips2017,2017,Attention is All you Need.
 NIPS,nips2017,2017,Attend and Predict: Understanding Gene Regulation by Selective Attention on Chromatin.
 PAMI,,2017,Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts.
-AAAI,cognitive2016,2016,Artificial Attention at Scale.
-ACMMM,mm2016,2016,Attention-based LSTM with Semantic Consistency for Videos Captioning.
-ACMMM,mm2016,2016,Detecting Arbitrary Oriented Text in the Wild with a Visual Attention Model.
-ACMMM,mm2016,2016,Multi-modal Conditional Attention Fusion for Dimensional Emotion Prediction.
-ACMMM,mm2016,2016,Robust Visual-Textual Sentiment Analysis: When Attention meets Tree-structured Recursive Neural Networks.
-CVPR,,2016,Stacked Attention Networks for Image Question Answering.
-CVPR,,2016,Recurrent Attention Models for Depth-Based Person Identification.
-CVPR,,2016,Recursive Recurrent Nets with Attention Modeling for OCR in the Wild.
-CVPR,,2016,Attention to Scale: Scale-Aware Semantic Image Segmentation.
-CVPR,,2016,Recurrent Attentional Networks for Saliency Detection.
-CVPR,,2016,Visual Tracking Using Attention-Modulated Disintegration and Integration.
-CVPR,,2016,Image Captioning with Semantic Attention.
-CVPR,W,2016,DR(eye)VE: A Dataset for Attention-Based Tasks with Applications to Autonomous and Assisted Driving.
-CVPR,W,2016,DeepGender: Occlusion and Low Resolution Robust Facial Gender Classification via Progressively Trained Convolutional Neural Networks with Attention.
-CVPR,W,2016,Discovering Objects of Joint Attention via First-Person Sensing.
-CVPR,W,2016,A Visual Attention Algorithm Designed for Coupled Oscillator Acceleration.
-ECCV,eccv2016-4,2016,Top-Down Neural Attention by Excitation Backprop.
-ECCV,eccv2016-7,2016,Ask Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering.
-ECCV,eccv2016-8,2016,Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation.
-NIPS,nips2016,2016,Hierarchical Question-Image Co-Attention for Visual Question Answering.
-NIPS,nips2016,2016,Learned Region Sparsity and Diversity Also Predicts Visual Attention.
-NIPS,nips2016,2016,RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism.
-NIPS,nips2016,2016,Can Active Memory Replace Attention?
-NIPS,nips2016,2016,Latent Attention For If-Then Program Synthesis.
-ACMMM,asm2015,2015,What Makes a Beautiful Landscape Beautiful: Adjective Noun Pairs Attention by Eye-Tracking and Gaze Analysis.
-CVPR,,2015,The application of two-level attention models in deep convolutional neural network for fine-grained image classification.
-CVPR,,2015,Eye tracking assisted extraction of attentionally important objects from videos.
-ECCV,eccv2014w2,2015,Integrating Object Affordances with Artificial Visual Attention.
-ICCV,,2015,AttentionNet: Aggregating Weak Directions for Accurate Object Detection.
-ICCV,,2015,Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks.
-ICCV,W,2015,Visual Attention-Guided Approach to Monitoring of Medication Dispensing Using Multi-location Feature Saliency Patterns.
-IJCV,,2015,A Neural Autoregressive Approach to Attention-based Recognition.
-NIPS,nips2015,2015,Attention-Based Models for Speech Recognition.
-NIPS,nips2015,2015,Learning Wake-Sleep Recurrent Attention Models.
-AAAI,aaai2014,2014,A Model Attention and Selection Framework for Estimation of Many Variables with Applications to Estimating Object States in Large Spatial Environments.
-ACMMM,mm2014,2014,Impact of Ultra High Definition on Visual Attention.
-ACMMM,pivp2014,2014,Attention Retargeting by Color Manipulation in Images.
-ACMMM,pivp2014,2014,Can Subliminal Flicker Guide Attention in Natural Images?
-ACMMM,pivp2014,2014,Effect of Subliminal Cueing on In-attentional Blindness.
-CVPR,,2014,Context Driven Scene Parsing with Attention to Rare Classes.
-CVPR,W,2014,Detecting Social Groups in Crowded Surveillance Videos Using Visual Attention.
-CVPR,W,2014,An Attention-Based Activity Recognition for Egocentric Video.
-IJCV,,2014,Visual Focus of Attention in Non-calibrated Environments using Gaze Estimation.
-NIPS,nips2014,2014,A State-Space Model for Decoding Auditory Attentional Modulation from MEG in a Competing-Speaker Environment.
-NIPS,nips2014,2014,Learning Generative Models with Visual Attention.
-NIPS,nips2014,2014,Attentional Neural Network: Feature Selection Using Cognitive Feedback.
-NIPS,nips2014,2014,Recurrent Models of Visual Attention.
-NIPS,nips2014,2014,Deep Networks with Internal Selective Attention through Feedback Connections.
-AAAI,aaai2013,2013,Video Saliency Detection via Dynamic Consistent Spatio-Temporal Attention Modelling.
-AAAI,aaai2013,2013,LA-CTR: A Limited Attention Collaborative Topic Regression for Social Media.
-CVPR,W,2013,Visual Attention-Driven Spatial Pooling for Image Memorability.
-IJCV,,2013,Attention Based Detection and Recognition of Hand Postures Against Complex Backgrounds.
-PAMI,,2013,State-of-the-Art in Visual Attention Modeling.
-PAMI,,2013,A Visual-Attention Model Using Earth Mover's Distance-Based Saliency Measurement and Nonlinear Feature Combination.
-AAAI,aaai2012,2012,Content Recommendation for Attention Management in Unified Social Messaging.
-AAAI,aaai2012,2012,An Object-Based Bayesian Framework for Top-Down Visual Attention.
-CVPR,,2012,Probabilistic learning of task-specific visual attention.
-CVPR,,2012,Learning attention map from images.
-CVPR,,2012,Active attentional sampling for speed-up of background subtraction.
-CVPR,W,2012,Reinforcement learning based visual attention with application to face detection.
-IJCV,,2012,Modulating Shape Features by Color Attention for Object Recognition.
-NIPS,mlini2011,2012,Covert Attention as a Paradigm for Subject-Independent Brain-Computer Interfacing.
-CVPR,W,2011,Fast recurrent attentional modulation improves saliency representation and scene recognition.
-CVPR,W,2011,Automatic initialization and tracking using attentional mechanisms.
-ICCV,W,2011,Robust validation of Visual Focus of Attention using adaptive fusion of head and eye gaze patterns.
-ICCV,W,2011,Operator attention based video surveillance.
-PAMI,,2011,Multiperson Visual Focus of Attention from Head Pose and Meeting Contextual Cues.
+TIP,,2017,End-to-End Comparative Attention Networks for Person Re-Identification.
+TIP,,2017,Visual Attention Modeling for Stereoscopic Video: A Benchmark and Computational Model.
+TIP,,2017,Visual Attention Saccadic Models Learn to Emulate Gaze Patterns From Childhood to Adulthood.
+TIP,,2017,Unifying the Video and Question Attentions for Open-Ended Video Question Answering.

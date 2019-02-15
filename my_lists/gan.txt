@@ -1,3 +1,6 @@
+TIP,,2019,Improved ArtGAN for Conditional Synthesis of Natural Image and Artwork.
+TIP,,2019,Gated-GAN: Adversarial Gated Networks for Multi-Collection Style Transfer.
+TIP,,2019,Online Data Organizer: Micro-Video Categorization by Structure-Guided Multimodal Dictionary Learning.
 AAAI,aaai2018,2018,MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment.
 AAAI,aaai2018,2018,On Organizing Online Soirees with Live Multi-Streaming.
 AAAI,aaai2018,2018,Incorporating GAN for Negative Sampling in Knowledge Representation Learning.
@@ -69,6 +72,35 @@ ECCV,,2018,Transferring GANs: generating images from limited data
 ECCV,,2018,PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities
 ECCV,,2018,RefocusGAN: Scene Refocusing using a Single Image
 ECCV,,2018,ExplainGAN: Model Explanation via Decision Boundary Crossing Transformations
+ICML,icml2018,2018,Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data.
+ICML,icml2018,2018,MAGAN: Aligning Biological Manifolds.
+ICML,icml2018,2018,NetGAN: Generating Graphs via Random Walks.
+ICML,icml2018,2018,Mixed batches and symmetric discriminators for GAN training.
+ICML,icml2018,2018,On the Limitations of First-Order Approximation in GAN Dynamics.
+ICML,icml2018,2018,A Two-Step Computation of the Exact GAN Wasserstein Distance.
+ICML,icml2018,2018,Which Training Methods for GANs do actually Converge?
+ICML,icml2018,2018,Is Generator Conditioning Causally Related to GAN Performance?
+ICML,icml2018,2018,JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets.
+ICML,icml2018,2018,A Classification-Based Study of Covariate Shift in GAN Distributions.
+ICML,icml2018,2018,RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks.
+IJCAI,ijcai2018,2018,MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation.
+IJCAI,ijcai2018,2018,Dual Conditional GANs for Face Aging and Rejuvenation.
+IJCAI,ijcai2018,2018,CR-GAN: Learning Complete Representations for Multi-view Generation.
+IJCAI,ijcai2018,2018,Visual Data Synthesis via GAN for Zero-Shot Video Classification.
+IJCAI,ijcai2018,2018,DehazeGAN: When Image Dehazing Meets Differential Programming.
+IJCAI,ijcai2018,2018,MIXGAN: Learning Concepts from Different Domains for Mixture Generation.
+IJCAI,ijcai2018,2018,Unpaired Multi-Domain Image Generation via Regularized Conditional GANs.
+IJCAI,ijcai2018,2018,CAGAN: Consistent Adversarial Training Enhanced GANs.
+IJCAI,ijcai2018,2018,Mixture of GANs for Clustering.
+IJCAI,ijcai2018,2018,Cascaded SR-GAN for Scale-Adaptive Low Resolution Person Re-identification.
+IJCAI,ijcai2018,2018,EZLearn: Exploiting Organic Supervision in Automated Data Annotation.
+IJCAI,ijcai2018,2018,SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks.
+IJCAI,ijcai2018,2018,Organizing Experience: a Deeper Look at Replay Mechanisms for Sample-Based Planning in Continuous State Domains.
+IJCAI,madima2018,2018,SRGAN for super-resolving low-resolution food images.
+IJCAI,madima2018,2018,Food category transfer with conditional cycleGAN and a large-scale food image dataset.
+IJCAI,madima2018,2018,Food image generation using a large amount of food images with conditional GAN: ramenGAN and recipeGAN.
+IJCAI,aih2018,2018,Proceedings of the First Joint Workshop on AI in Health organized as part of the Federated AI Meeting (FAIM 2018) co-located with AAMAS 2018 ICML 2018 IJCAI 2018 and ICCBR 2018 Stockholm Sweden July 13-14 2018.
+TIP,,2018,Multi-Organ Plant Classification Based on Convolutional and Recurrent Neural Networks.
 AAAI,aaai2017,2017,Contextual RNN-GANs for Abstract Reasoning Diagram Generation.
 AAAI,aaai2017,2017,Personalized Donor-Recipient Matching for Organ Transplantation.
 AAAI,aaai2017,2017,SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.
@@ -99,6 +131,11 @@ ICCV,W,2017,Max-Boost-GAN: Max Operation to Boost Generative Ability of Generati
 ICCV,W,2017,Doppelganger Mining for Face Representation Learning.
 ICCV,W,2017,ARIGAN: Synthetic Arabidopsis Plants Using Generative Adversarial Network.
 ICCV,W,2017,The Conditional Analogy GAN: Swapping Fashion Articles on People Images.
+ICML,icml2017,2017,Generalization and Equilibrium in Generative Adversarial Nets (GANs).
+ICML,icml2017,2017,Learning Texture Manifolds with the Periodic Spatial GAN.
+ICML,icml2017,2017,McGan: Mean and Covariance Feature Matching GAN.
+ICML,icml2017,2017,Conditional Image Synthesis with Auxiliary Classifier GANs.
+IJCAI,ijcai2017,2017,Mechanisms for Online Organ Matching.
 NIPS,nips2017,2017,Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis.
 NIPS,nips2017,2017,f-GANs in an Information Geometric Nutshell.
 NIPS,nips2017,2017,The Numerics of GANs.
@@ -118,52 +155,4 @@ NIPS,nips2017,2017,Improved Training of Wasserstein GANs.
 NIPS,nips2017,2017,Generalizing GANs: A Turing Perspective.
 NIPS,nips2017,2017,Good Semi-supervised Learning That Requires a Bad GAN.
 NIPS,nips2017,2017,GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.
-AAAI,ma2016,2016,Measuring Synergy from Benevolence in a Network Organization.
-ACMMM,lta2016,2016,Organizing Egocentric Videos for Daily Living Monitoring.
-NIPS,nips2016,2016,f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.
-NIPS,nips2016,2016,InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
-NIPS,nips2016,2016,Improved Techniques for Training GANs.
-AAAI,aaai2015,2015,A Succinct Conceptualization of the Foundations for a Network Organization Paradigm.
-AAAI,aaai2015,2015,Self-Organized Collective Decision-Making in a 100-Robot Swarm.
-ACMMM,mm2015,2015,Multimedia COMMONS - Community-Organized Multimodal Mining: Opportunities for Novel Solutions (MMCommons Workshop 2015).
-ACMMM,mmcommons2015,2015,Proceedings of the 2015 Workshop on Community-Organized Multimodal Mining: Opportunities for Novel Solutions MMCommons 2015 Brisbane Australia October 30 2015.
-CVPR,,2015,Superpixel-based video object segmentation using perceptual organization and location prior.
-ECCV,eccv2014w2,2015,Some Faces are More Equal than Others: Hierarchical Organization for Accurate and Efficient Large-Scale Identity-Based Face Retrieval.
-ECCV,eccv2014w4,2015,Multiple Alignment of Spatiotemporal Deformable Objects for the Average-Organ Computation.
-NIPS,nips2015,2015,Recognizing retinal ganglion cells in the dark.
-AAAI,aaai2014,2014,Multi-Organ Exchange: The Whole Is Greater than the Sum of its Parts.
-AAAI,aaai2014,2014,Multiagent Metareasoning through Organizational Design.
-AAAI,aaai2014,2014,Social Capital in Network Organizations.
-AAAI,maiha2014,2014,Organizers.
-AAAI,stat2014,2014,Organizers.
-AAAI,mpref2014,2014,Organizers.
-ACMMM,mm2014,2014,Self-Organized Inter-Destination Multimedia Synchronization For Adaptive Media Streaming.
-ACMMM,mm2014,2014,Organizing Video Search Results to Adapted Semantic Hierarchies for Topic-based Browsing.
-CVPR,,2014,Multimodal Learning in Loosely-Organized Web Images.
-CVPR,W,2014,Variational Deformation Method for the Computation of the Average Shape of Organs.
-NIPS,nips2014,2014,A Bayesian model for identifying hierarchically organised states in neural population activity.
-AAAI,aaai2013,2013,AAAI Organization.
-AAAI,learning2013,2013,Organizers.
-AAAI,plan2013,2013,Organizers.
-AAAI,space2013,2013,Organizers.
-AAAI,trading2013,2013,Organizers.
-AAAI,stat2013,2013,Organizers.
-ACMMM,mm2013,2013,GamingAnywhere: an open-source cloud gaming testbed.
-CVPR,,2013,Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images.
-CVPR,W,2013,Self-Organizing Maps for Fingerprint Image Quality Assessment.
-NIPS,nips2013,2013,A Gang of Bandits.
-PAMI,,2013,Stacked Autoencoders for Unsupervised Feature Learning and Multiple Organ Detection in a Pilot Study Using 4D Patient Data.
-AAAI,hcomp2012,2012,Organizers.
-AAAI,cities2012,2012,Organizers.
-AAAI,mapf2012,2012,Organizers.
-AAAI,cogrob2012,2012,Organizers.
-ACMMM,mm2012,2012,State-based steganography in low bit rate speech.
-ACMMM,maed2012,2012,Multi-organ plant identification.
-CVPR,W,2012,3D landmark model discovery from a registered set of organic shapes.
-ECCV,eccv2012-1,2012,Bottom-Up Perceptual Organization of Images into Object Part Hypotheses.
-ECCV,eccv2010w2,2012,Region Graphs for Organizing Image Collections.
-ECCV,eccv2010w2,2012,Fast Organization of Large Photo Collections Using CUDA.
-IJCV,,2012,Pre-organizing Shape Instances for Landmark-Based Shape Correspondence.
-ACMMM,immpd2011,2011,Using ephemeral clustering and query logs to organize web image search results on mobile devices.
-ICCV,W,2011,A GPU-assisted personal video organizing system.
-PAMI,,2011,Unsupervised Organization of Image Collections: Taxonomies and Beyond.
+TIP,,2017,Comments on "Steganography Using Reversible Texture Synthesis".

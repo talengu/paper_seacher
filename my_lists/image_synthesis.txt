@@ -1,0 +1,21 @@
+ACMMM,,2018,Text-to-image Synthesis via Symmetrical Distillation Networks
+CVPR,,2018,Unsupervised Person Image Synthesis in Arbitrary Poses
+CVPR,,2018,Multistage Adversarial Losses for Pose-Based Human Image Synthesis
+CVPR,,2018,Semi-parametric Image Synthesis
+CVPR,,2018,Generative Adversarial Image Synthesis with Decision Tree Latent Controller
+CVPR,,2018,A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation
+CVPR,,2018,Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network
+CVPR,,2018,SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis
+CVPR,,2018,TextureGAN: Controlling Deep Image Synthesis with Texture Patches
+CVPR,,2018,High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+CVPR,,2018,Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis
+CVPR,,2018,Cross-View Image Synthesis using Conditional Generative Adversarial Nets
+ECCV,,2018,Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes
+TIP,,2018,Example-Based Image Synthesis via Randomized Patch-Matching.
+TIP,,2018,Region-Adaptive Deformable Registration of CT/MRI Pelvic Images via Learning-Based Image Synthesis.
+CVPR,,2017,Scribbler: Controlling Deep Image Synthesis with Sketch and Color.
+ICCV,,2017,Photographic Image Synthesis with Cascaded Refinement Networks.
+ICCV,,2017,GANs for Biological Image Synthesis.
+ICCV,,2017,Semantic Image Synthesis via Adversarial Learning.
+ICCV,,2017,StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks.
+ICML,icml2017,2017,Conditional Image Synthesis with Auxiliary Classifier GANs.

@@ -9,7 +9,13 @@ from seachers.search_helper import SearchHelper
 
 def fliter_year(item, key_year):
     [first_name, second_name, year, name] = item
-    year = int(year)
+
+    # 防止ValueError: invalid literal for int() with base 10: '1988/1989'
+    if len(year) > 4:
+        m_years = year.split('/')
+        year = int(m_years[0])
+    else:
+        year = int(year)
 
     if year == key_year:
         return 1
@@ -41,14 +47,14 @@ def write(res_list, txt_out_name):
 
 def generate_my_list(key="", out_path=""):
     res_list = []
-    for key_year in range(2018, 2010, -1):
+    for key_year in range(2020, 2016, -1):
         for txt_path in glob.glob(r"paper_list/*.txt"):
             tmp_list = search_one_txt(key, key_year, txt_path)
             res_list += tmp_list
             # print(key_year, len(res_list))
 
     print(key, len(res_list))
-    write(res_list, "%s/%s.txt" % (out_path, key))
+    write(res_list, "%s/%s.txt" % (out_path, key.replace(' ', '_')))
 
 
 def generate(first_name="ECCV"):  # some 2018 year has not in the list
@@ -60,13 +66,13 @@ def generate(first_name="ECCV"):  # some 2018 year has not in the list
 
 
 parser = argparse.ArgumentParser(description='manual to this script')
-parser.add_argument('--keys', type=str, default="relation,attention,object detection,generate,gan")
+parser.add_argument('--keys', type=str, default="relation,attention,object detection,generate,gan,image,expression,image synthesis,image generate,facial expression")
 parser.add_argument('--outpath', type=str, default="my_lists")
 args = parser.parse_args()
 
 
 def main():
-    print("key: "+args.keys,"outpath: "+args.outpath)
+    print("key: " + args.keys, "outpath: " + args.outpath)
     for key in args.keys.strip().split(','):
         if not os.path.exists(args.outpath):
             os.makedirs(args.outpath)

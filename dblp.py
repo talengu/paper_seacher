@@ -15,19 +15,11 @@ http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690839
 http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690320
 """
 
-from downers.dblp_helper import get_titles
-
-from downers.ai import main as aimain
-from downers.nips import main as nipsmain
-
-from downers.acmmm import main as acmmmain
-from downers.eccv import main as eccvmain
-from downers.aaai import main as aaaimain
+from downers.downer import main as downloader
 
 if __name__ == "__main__":
-    # aimain()
-    # nipsmain()
-    # acmmmain()
-    # eccvmain()
-    aaaimain()
+    downloader(name='tip',
+               main_page_url='https://dblp.uni-trier.de/db/journals/tip/',
+               isjournal=True)
+
 

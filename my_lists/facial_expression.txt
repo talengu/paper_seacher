@@ -1,0 +1,27 @@
+TIP,,2019,Reliable Crowdsourcing and Deep Locality-Preserving Learning for Unconstrained Facial Expression Recognition.
+AAAI,aaai2018,2018,ExprGAN: Facial Expression Editing With Controllable Expression Intensity.
+AAAI,aaai2018,2018,Relating Children's Automatically Detected Facial Expressions to Their Behavior in RoboTutor.
+AAAI,aaai2018w,2018,Predicting Engagement Breakdown in HRI Using Thin-Slices of Facial Expressions.
+ACMMM,,2018,Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations
+ACMMM,,2018,Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach
+ACMMM,,2018,Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning
+ACMMM,,2018,Geometry Guided Adversarial Facial Expression Synthesis
+CVPR,,2018,4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications
+CVPR,,2018,Facial Expression Recognition by De-expression Residue Learning
+CVPR,,2018,Joint Pose and Expression Modeling for Facial Expression Recognition
+ECCV,,2018,Facial Expression Recognition with Inconsistently Annotated Datasets
+ECCV,,2018,Deep Multi-Task Learning to Recognise Subtle Facial Expressions of Mental States
+IJCV,,2018,From Facial Expression Recognition to Interpersonal Relation Prediction.
+CVPR,W,2017,Adaptive Deep Metric Learning for Identity-Aware Facial Expression Recognition.
+CVPR,W,2017,DyadGAN: Generating Facial Expressions in Dyadic Interactions.
+CVPR,W,2017,Facial Expression Recognition Using Enhanced Deep 3D Convolutional Neural Networks.
+CVPR,W,2017,Personalized Automatic Estimation of Self-Reported Pain Intensity from Facial Expressions.
+ICCV,,2017,A Novel Space-Time Representation on the Positive Semidefinite Cone for Facial Expression Recognition.
+ICCV,W,2017,Using Synthetic Data to Improve Facial Expression Analysis with 3D Convolutional Networks.
+ICCV,W,2017,Facial Expression Recognition Using Visual Saliency and Deep Learning.
+ICCV,W,2017,Towards Automated Recognition of Facial Expressions in Animal Models.
+ICCV,W,2017,Facial Expression Recognition via Joint Deep Learning of RGB-Depth Map Latent Representations.
+PAMI,,2017,Selective Transfer Machine for Personalized Facial Expression Analysis.
+TIP,,2017,Learning Bases of Activity for Facial Expression Recognition.
+TIP,,2017,Facial Expression Recognition Based on Deep Evolutional Spatial-Temporal Networks.
+TIP,,2017,Local Directional Ternary Pattern for Facial Expression Recognition.
