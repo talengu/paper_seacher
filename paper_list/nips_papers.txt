@@ -1,3 +1,1014 @@
+NIPS,nips2018,2018,Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montréal, Canada.
+NIPS,nips2018,2018,Efficient Algorithms for Non-convex Isotonic Regression through Submodular Optimization.
+NIPS,nips2018,2018,Structure-Aware Convolutional Neural Networks.
+NIPS,nips2018,2018,Kalman Normalization: Normalizing Internal Representations Across Network Layers.
+NIPS,nips2018,2018,HOGWILD!-Gibbs can be PanAccurate.
+NIPS,nips2018,2018,Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language.
+NIPS,nips2018,2018,IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis.
+NIPS,nips2018,2018,Doubly Robust Bayesian Inference for Non-Stationary Streaming Data with \beta-Divergences.
+NIPS,nips2018,2018,Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning.
+NIPS,nips2018,2018,Generalized Inverse Optimization through Online Learning.
+NIPS,nips2018,2018,An Off-policy Policy Gradient Theorem Using Emphatic Weightings.
+NIPS,nips2018,2018,Supervised autoencoders: Improving generalization performance with unsupervised regularizers.
+NIPS,nips2018,2018,Visual Object Networks: Image Generation with Disentangled 3D Representations.
+NIPS,nips2018,2018,Understanding Weight Normalized Deep Neural Networks with Rectified Linear Units.
+NIPS,nips2018,2018,Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems.
+NIPS,nips2018,2018,Learning long-range spatial dependencies with horizontal gated recurrent units.
+NIPS,nips2018,2018,Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution.
+NIPS,nips2018,2018,Fast Similarity Search via Optimal Sparse Lifting.
+NIPS,nips2018,2018,Learning Deep Disentangled Embeddings With the F-Statistic Loss.
+NIPS,nips2018,2018,Geometrically Coupled Monte Carlo Sampling.
+NIPS,nips2018,2018,Cooperative Holistic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation.
+NIPS,nips2018,2018,An Efficient Pruning Algorithm for Robust Isotonic Regression.
+NIPS,nips2018,2018,PAC-learning in the presence of adversaries.
+NIPS,nips2018,2018,Sparse DNNs with Improved Adversarial Robustness.
+NIPS,nips2018,2018,Snap ML: A Hierarchical Framework for Machine Learning.
+NIPS,nips2018,2018,See and Think: Disentangling Semantic Scene Completion.
+NIPS,nips2018,2018,Chain of Reasoning for Visual Question Answering.
+NIPS,nips2018,2018,Sigsoftmax: Reanalysis of the Softmax Bottleneck.
+NIPS,nips2018,2018,Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation.
+NIPS,nips2018,2018,Bayesian Pose Graph Optimization via Bingham Distributions and Tempered Geodesic MCMC.
+NIPS,nips2018,2018,MetaAnchor: Learning to Detect Objects with Customized Anchors.
+NIPS,nips2018,2018,Image Inpainting via Generative Multi-column Convolutional Neural Networks.
+NIPS,nips2018,2018,On Misinformation Containment in Online Social Networks.
+NIPS,nips2018,2018,A^2-Nets: Double Attention Networks.
+NIPS,nips2018,2018,Self-Supervised Generation of Spatial Audio for 360° Video.
+NIPS,nips2018,2018,How Many Samples are Needed to Estimate a Convolutional Neural Network?
+NIPS,nips2018,2018,Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced.
+NIPS,nips2018,2018,Optimization for Approximate Submodularity.
+NIPS,nips2018,2018,(Probably) Concave Graph Matching.
+NIPS,nips2018,2018,Deep Defense: Training DNNs with Improved Adversarial Robustness.
+NIPS,nips2018,2018,Rest-Katyusha: Exploiting the Solution's Structure via Scheduled Restart Schemes.
+NIPS,nips2018,2018,Implicit Reparameterization Gradients.
+NIPS,nips2018,2018,Training DNNs with Hybrid Block Floating Point.
+NIPS,nips2018,2018,A Model for Learned Bloom Filters and Optimizing by Sandwiching.
+NIPS,nips2018,2018,Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis.
+NIPS,nips2018,2018,Deep Functional Dictionaries: Learning Consistent Semantic Structures on 3D Models from Functions.
+NIPS,nips2018,2018,Nonlocal Neural Networks, Nonlocal Diffusion and Nonlocal Modeling.
+NIPS,nips2018,2018,Are ResNets Provably Better than Linear Predictors?
+NIPS,nips2018,2018,Learning to Decompose and Disentangle Representations for Video Prediction.
+NIPS,nips2018,2018,Multi-Task Learning as Multi-Objective Optimization.
+NIPS,nips2018,2018,Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.
+NIPS,nips2018,2018,Self-Erasing Network for Integral Object Attention.
+NIPS,nips2018,2018,LinkNet: Relational Embedding for Scene Graph.
+NIPS,nips2018,2018,How to Start Training: The Effect of Initialization and Architecture.
+NIPS,nips2018,2018,Which Neural Net Architectures Give Rise to Exploding and Vanishing Gradients?
+NIPS,nips2018,2018,Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives.
+NIPS,nips2018,2018,HitNet: Hybrid Ternary Recurrent Neural Network.
+NIPS,nips2018,2018,A Unified Framework for Extensive-Form Game Abstraction with Bounds.
+NIPS,nips2018,2018,Removing the Feature Correlation Effect of Multiplicative Noise.
+NIPS,nips2018,2018,Maximum-Entropy Fine Grained Classification.
+NIPS,nips2018,2018,On Learning Markov Chains.
+NIPS,nips2018,2018,A Neural Compositional Paradigm for Image Captioning.
+NIPS,nips2018,2018,Quantifying Learning Guarantees for Convex but Inconsistent Surrogates.
+NIPS,nips2018,2018,Dialog-based Interactive Image Retrieval.
+NIPS,nips2018,2018,SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator.
+NIPS,nips2018,2018,Are GANs Created Equal? A Large-Scale Study.
+NIPS,nips2018,2018,Learning Disentangled Joint Continuous and Discrete Representations.
+NIPS,nips2018,2018,TADAM: Task dependent adaptive metric for improved few-shot learning.
+NIPS,nips2018,2018,Do Less, Get More: Streaming Submodular Maximization with Subsampling.
+NIPS,nips2018,2018,Sparse Covariance Modeling in High Dimensions with Gaussian Processes.
+NIPS,nips2018,2018,Deep Neural Nets with Interpolating Function as Output Activation.
+NIPS,nips2018,2018,FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction.
+NIPS,nips2018,2018,Visual Memory for Robust Path Following.
+NIPS,nips2018,2018,KDGAN: Knowledge Distillation with Generative Adversarial Networks.
+NIPS,nips2018,2018,Long short-term memory and Learning-to-learn in networks of spiking neurons.
+NIPS,nips2018,2018,Greedy Hash: Towards Fast Optimization for Accurate Hash Coding in CNN.
+NIPS,nips2018,2018,Informative Features for Model Comparison.
+NIPS,nips2018,2018,PointCNN: Convolution On X-Transformed Points.
+NIPS,nips2018,2018,Connectionist Temporal Classification with Maximum Entropy Regularization.
+NIPS,nips2018,2018,Large Margin Deep Networks for Classification.
+NIPS,nips2018,2018,Generalizing Graph Matching beyond Quadratic Assignment Model.
+NIPS,nips2018,2018,Solving Large Sequential Games with the Excessive Gap Technique.
+NIPS,nips2018,2018,Discrimination-aware Channel Pruning for Deep Neural Networks.
+NIPS,nips2018,2018,On the Dimensionality of Word Embedding.
+NIPS,nips2018,2018,Reinforced Continual Learning.
+NIPS,nips2018,2018,Uncertainty-Aware Attention for Reliable Interpretation and Prediction.
+NIPS,nips2018,2018,DropMax: Adaptive Variational Softmax.
+NIPS,nips2018,2018,Posterior Concentration for Sparse Deep Learning.
+NIPS,nips2018,2018,A flexible model for training action localization with varying levels of supervision.
+NIPS,nips2018,2018,A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents.
+NIPS,nips2018,2018,Empirical Risk Minimization in Non-interactive Local Differential Privacy Revisited.
+NIPS,nips2018,2018,Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks.
+NIPS,nips2018,2018,Learning semantic similarity in a continuous space.
+NIPS,nips2018,2018,MetaReg: Towards Domain Generalization using Meta-Regularization.
+NIPS,nips2018,2018,Boosted Sparse and Low-Rank Tensor Regression.
+NIPS,nips2018,2018,Domain-Invariant Projection Learning for Zero-Shot Recognition.
+NIPS,nips2018,2018,Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding.
+NIPS,nips2018,2018,Frequency-Domain Dynamic Pruning for Convolutional Neural Networks.
+NIPS,nips2018,2018,Quadratic Decomposable Submodular Function Minimization.
+NIPS,nips2018,2018,A Block Coordinate Ascent Algorithm for Mean-Variance Optimization.
+NIPS,nips2018,2018,\ell_1-regression with Heavy-tailed Distributions.
+NIPS,nips2018,2018,Neural Nearest Neighbors Networks.
+NIPS,nips2018,2018,Efficient nonmyopic batch active search.
+NIPS,nips2018,2018,A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers.
+NIPS,nips2018,2018,Interactive Structure Learning with Structural Query-by-Committee.
+NIPS,nips2018,2018,Global Geometry of Multichannel Sparse Blind Deconvolution on the Sphere.
+NIPS,nips2018,2018,Video-to-Video Synthesis.
+NIPS,nips2018,2018,How To Make the Gradients Small Stochastically: Even Faster Convex and Nonconvex SGD.
+NIPS,nips2018,2018,Synthesize Policies for Transfer and Adaptation across Tasks and Environments.
+NIPS,nips2018,2018,Adversarial vulnerability for any classifier.
+NIPS,nips2018,2018,Evolution-Guided Policy Gradient in Reinforcement Learning.
+NIPS,nips2018,2018,Toddler-Inspired Visual Object Learning.
+NIPS,nips2018,2018,Alternating optimization of decision trees, with application to learning sparse oblique trees.
+NIPS,nips2018,2018,FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification.
+NIPS,nips2018,2018,New Insight into Hybrid Stochastic Gradient Descent: Beyond With-Replacement Sampling and Convexity.
+NIPS,nips2018,2018,The Lingering of Gradients: How to Reuse Gradients Over Time.
+NIPS,nips2018,2018,Unsupervised Learning of View-invariant Action Representations.
+NIPS,nips2018,2018,Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making.
+NIPS,nips2018,2018,Global Gated Mixture of Second-order Pooling for Improving Deep Convolutional Neural Networks.
+NIPS,nips2018,2018,Image-to-image translation for cross-domain disentanglement.
+NIPS,nips2018,2018,Gradient Sparsification for Communication-Efficient Distributed Optimization.
+NIPS,nips2018,2018,Revisiting Multi-Task Learning with ROCK: a Deep Residual Auxiliary Block for Visual Detection.
+NIPS,nips2018,2018,Adaptive Online Learning in Dynamic Environments.
+NIPS,nips2018,2018,FRAGE: Frequency-Agnostic Word Representation.
+NIPS,nips2018,2018,Generative Neural Machine Translation.
+NIPS,nips2018,2018,Found Graph Data and Planted Vertex Covers.
+NIPS,nips2018,2018,Joint Active Feature Acquisition and Classification with Variable-Size Set Encoding.
+NIPS,nips2018,2018,Regularization Learning Networks: Deep Learning for Tabular Datasets.
+NIPS,nips2018,2018,Multitask Boosting for Survival Analysis with Competing Risks.
+NIPS,nips2018,2018,Geometry Based Data Generation.
+NIPS,nips2018,2018,SLAYER: Spike Layer Error Reassignment in Time.
+NIPS,nips2018,2018,On Oracle-Efficient PAC RL with Rich Observations.
+NIPS,nips2018,2018,Gradient Descent for Spiking Neural Networks.
+NIPS,nips2018,2018,Generalizing Tree Probability Estimation via Bayesian Networks.
+NIPS,nips2018,2018,Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior.
+NIPS,nips2018,2018,Designing by Training: Acceleration Neural Network for Fast High-Dimensional Convolution.
+NIPS,nips2018,2018,Understanding the Role of Adaptivity in Machine Teaching: The Case of Version Space Learners.
+NIPS,nips2018,2018,A loss framework for calibrated anomaly detection.
+NIPS,nips2018,2018,PacGAN: The power of two samples in generative adversarial networks.
+NIPS,nips2018,2018,Variational Memory Encoder-Decoder.
+NIPS,nips2018,2018,Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities.
+NIPS,nips2018,2018,Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation.
+NIPS,nips2018,2018,Overcoming Language Priors in Visual Question Answering with Adversarial Regularization.
+NIPS,nips2018,2018,Hybrid Knowledge Routed Modules for Large-scale Object Detection.
+NIPS,nips2018,2018,Bilinear Attention Networks.
+NIPS,nips2018,2018,Parsimonious Quantile Regression of Financial Asset Tail Dynamics via Sequential Learning.
+NIPS,nips2018,2018,Multi-Class Learning: From Theory to Algorithm.
+NIPS,nips2018,2018,Multivariate Time Series Imputation with Generative Adversarial Networks.
+NIPS,nips2018,2018,Learning Versatile Filters for Efficient Convolutional Neural Networks.
+NIPS,nips2018,2018,Accelerated Stochastic Matrix Inversion: General Theory and Speeding up BFGS Rules for Faster Second-Order Optimization.
+NIPS,nips2018,2018,DifNet: Semantic Segmentation by Diffusion Networks.
+NIPS,nips2018,2018,Conditional Adversarial Domain Adaptation.
+NIPS,nips2018,2018,Neighbourhood Consensus Networks.
+NIPS,nips2018,2018,Relating Leverage Scores and Density using Regularized Christoffel Functions.
+NIPS,nips2018,2018,Non-Local Recurrent Network for Image Restoration.
+NIPS,nips2018,2018,Bayesian Semi-supervised Learning with Graph Gaussian Processes.
+NIPS,nips2018,2018,Foreground Clustering for Joint Segmentation and Localization in Videos and Images.
+NIPS,nips2018,2018,Video Prediction via Selective Sampling.
+NIPS,nips2018,2018,Distilled Wasserstein Learning for Word Embedding and Topic Modeling.
+NIPS,nips2018,2018,Learning to Exploit Stability for 3D Scene Parsing.
+NIPS,nips2018,2018,Neural Guided Constraint Logic Programming for Program Synthesis.
+NIPS,nips2018,2018,Genetic-Gated Networks for Deep Reinforcement Learning.
+NIPS,nips2018,2018,Fighting Boredom in Recommender Systems with Linear Reinforcement Learning.
+NIPS,nips2018,2018,Enhancing the Accuracy and Fairness of Human Decision Making.
+NIPS,nips2018,2018,Temporal Regularization for Markov Decision Process.
+NIPS,nips2018,2018,The Pessimistic Limits and Possibilities of Margin-based Losses in Semi-supervised Learning.
+NIPS,nips2018,2018,Simple random search of static linear policies is competitive for reinforcement learning.
+NIPS,nips2018,2018,Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization.
+NIPS,nips2018,2018,Entropy and mutual information in models of deep neural networks.
+NIPS,nips2018,2018,Collaborative Learning for Deep Neural Networks.
+NIPS,nips2018,2018,High Dimensional Linear Regression using Lattice Basis Reduction.
+NIPS,nips2018,2018,Symbolic Graph Reasoning Meets Convolutions.
+NIPS,nips2018,2018,DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors.
+NIPS,nips2018,2018,Partially-Supervised Image Captioning.
+NIPS,nips2018,2018,3D-Aware Scene Manipulation via Inverse Graphics.
+NIPS,nips2018,2018,Random Feature Stein Discrepancies.
+NIPS,nips2018,2018,Distributed Stochastic Optimization via Adaptive SGD.
+NIPS,nips2018,2018,Precision and Recall for Time Series.
+NIPS,nips2018,2018,Deep Attentive Tracking via Reciprocative Learning.
+NIPS,nips2018,2018,Virtual Class Enhanced Discriminative Embedding Learning.
+NIPS,nips2018,2018,Attention in Convolutional LSTM for Gesture Recognition.
+NIPS,nips2018,2018,Pelee: A Real-Time Object Detection System on Mobile Devices.
+NIPS,nips2018,2018,Universal Growth in Production Economies.
+NIPS,nips2018,2018,Bayesian Model Selection Approach to Boundary Detection with Non-Local Priors.
+NIPS,nips2018,2018,Efficient Stochastic Gradient Hard Thresholding.
+NIPS,nips2018,2018,SplineNets: Continuous Neural Decision Graphs.
+NIPS,nips2018,2018,Generalized Zero-Shot Learning with Deep Calibration Network.
+NIPS,nips2018,2018,Neural Architecture Search with Bayesian Optimisation and Optimal Transport.
+NIPS,nips2018,2018,Embedding Logical Queries on Knowledge Graphs.
+NIPS,nips2018,2018,Learning Optimal Reserve Price against Non-myopic Bidders.
+NIPS,nips2018,2018,Sequential Context Encoding for Duplicate Removal.
+NIPS,nips2018,2018,Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning.
+NIPS,nips2018,2018,Nonparametric learning from Bayesian models with randomized objective functions.
+NIPS,nips2018,2018,SEGA: Variance Reduction via Gradient Sketching.
+NIPS,nips2018,2018,Automatic Program Synthesis of Long Programs with a Learned Garbage Collector.
+NIPS,nips2018,2018,One-Shot Unsupervised Cross Domain Translation.
+NIPS,nips2018,2018,Regularizing by the Variance of the Activations' Sample-Variances.
+NIPS,nips2018,2018,Overlapping Clustering Models, and One (class) SVM to Bind Them All.
+NIPS,nips2018,2018,Algorithmic Linearly Constrained Gaussian Processes.
+NIPS,nips2018,2018,DeepExposure: Learning to Expose Photos with Asynchronously Reinforced Adversarial Learning.
+NIPS,nips2018,2018,Norm matters: efficient and accurate normalization schemes in deep networks.
+NIPS,nips2018,2018,Dual Principal Component Pursuit: Improved Analysis and Efficient Algorithms.
+NIPS,nips2018,2018,MULAN: A Blind and Off-Grid Method for Multichannel Echo Retrieval.
+NIPS,nips2018,2018,Mixture Matrix Completion.
+NIPS,nips2018,2018,Trajectory Convolution for Action Recognition.
+NIPS,nips2018,2018,The Description Length of Deep Learning models.
+NIPS,nips2018,2018,A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem.
+NIPS,nips2018,2018,Revisiting Decomposable Submodular Function Minimization with Incidence Relations.
+NIPS,nips2018,2018,A Practical Algorithm for Distributed Clustering and Outlier Detection.
+NIPS,nips2018,2018,Learning to Reconstruct Shapes from Unseen Classes.
+NIPS,nips2018,2018,BourGAN: Generative Networks with Metric Embeddings.
+NIPS,nips2018,2018,Smoothed analysis of the low-rank approach for smooth semidefinite programs.
+NIPS,nips2018,2018,Zero-Shot Transfer with Deictic Object-Oriented Representation in Reinforcement Learning.
+NIPS,nips2018,2018,Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate.
+NIPS,nips2018,2018,Breaking the Span Assumption Yields Fast Finite-Sum Minimization.
+NIPS,nips2018,2018,Structured Local Minima in Sparse Blind Deconvolution.
+NIPS,nips2018,2018,GIANT: Globally Improved Approximate Newton Method for Distributed Optimization.
+NIPS,nips2018,2018,Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data.
+NIPS,nips2018,2018,Non-monotone Submodular Maximization in Exponentially Fewer Iterations.
+NIPS,nips2018,2018,MetaGAN: An Adversarial Approach to Few-Shot Learning.
+NIPS,nips2018,2018,Local Differential Privacy for Evolving Data.
+NIPS,nips2018,2018,Gaussian Process Conditional Density Estimation.
+NIPS,nips2018,2018,Meta-Gradient Reinforcement Learning.
+NIPS,nips2018,2018,Modular Networks: Learning to Decompose Neural Computation.
+NIPS,nips2018,2018,Learning to Navigate in Cities Without a Map.
+NIPS,nips2018,2018,Query Complexity of Bayesian Private Learning.
+NIPS,nips2018,2018,A theory on the absence of spurious solutions for nonconvex and nonsmooth optimization.
+NIPS,nips2018,2018,Recurrent World Models Facilitate Policy Evolution.
+NIPS,nips2018,2018,Ridge Regression and Provable Deterministic Ridge Leverage Score Sampling.
+NIPS,nips2018,2018,Wasserstein Variational Inference.
+NIPS,nips2018,2018,How Does Batch Normalization Help Optimization?
+NIPS,nips2018,2018,Verifiable Reinforcement Learning via Policy Extraction.
+NIPS,nips2018,2018,Leveraged volume sampling for linear regression.
+NIPS,nips2018,2018,Model Agnostic Supervised Local Explanations.
+NIPS,nips2018,2018,A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication.
+NIPS,nips2018,2018,Active Learning for Non-Parametric Regression Using Purely Random Trees.
+NIPS,nips2018,2018,Tree-to-tree Neural Networks for Program Translation.
+NIPS,nips2018,2018,Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks.
+NIPS,nips2018,2018,Structural Causal Bandits: Where to Intervene?
+NIPS,nips2018,2018,Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog.
+NIPS,nips2018,2018,A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation.
+NIPS,nips2018,2018,Online Learning with an Unknown Fairness Metric.
+NIPS,nips2018,2018,Isolating Sources of Disentanglement in Variational Autoencoders.
+NIPS,nips2018,2018,Contextual bandits with surrogate losses: Margin bounds and efficient algorithms.
+NIPS,nips2018,2018,Representation Learning for Treatment Effect Estimation from Observational Data.
+NIPS,nips2018,2018,Representation Balancing MDPs for Off-policy Policy Evaluation.
+NIPS,nips2018,2018,Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering.
+NIPS,nips2018,2018,Causal Discovery from Discrete Data using Hidden Compact Representation.
+NIPS,nips2018,2018,Natasha 2: Faster Non-Convex Optimization Than SGD.
+NIPS,nips2018,2018,Minimax Statistical Learning with Wasserstein distances.
+NIPS,nips2018,2018,Provable Variational Inference for Constrained Log-Submodular Models.
+NIPS,nips2018,2018,Learning Hierarchical Semantic Image Manipulation through Structured Representations.
+NIPS,nips2018,2018,Processing of missing data by neural networks.
+NIPS,nips2018,2018,Safe Active Learning for Time-Series Modeling with Gaussian Processes.
+NIPS,nips2018,2018,Optimal Algorithms for Non-Smooth Distributed Optimization in Networks.
+NIPS,nips2018,2018,Computing Higher Order Derivatives of Matrix and Tensor Expressions.
+NIPS,nips2018,2018,Paraphrasing Complex Network: Network Compression via Factor Transfer.
+NIPS,nips2018,2018,Analytic solution and stationary phase approximation for the Bayesian lasso and elastic net.
+NIPS,nips2018,2018,Demystifying excessively volatile human learning: A Bayesian persistent prior and a neural approximation.
+NIPS,nips2018,2018,Empirical Risk Minimization Under Fairness Constraints.
+NIPS,nips2018,2018,Unsupervised Learning of Shape and Pose with Differentiable Point Clouds.
+NIPS,nips2018,2018,Continuous-time Value Function Approximation in Reproducing Kernel Hilbert Spaces.
+NIPS,nips2018,2018,Gradient Descent Meets Shift-and-Invert Preconditioning for Eigenvector Computation.
+NIPS,nips2018,2018,Factored Bandits.
+NIPS,nips2018,2018,Delta-encoder: an effective sample synthesis method for few-shot object recognition.
+NIPS,nips2018,2018,Metric on Nonlinear Dynamical Systems with Perron-Frobenius Operators.
+NIPS,nips2018,2018,Learning a High Fidelity Pose Invariant Model for High-resolution Face Frontalization.
+NIPS,nips2018,2018,Mirrored Langevin Dynamics.
+NIPS,nips2018,2018,Moonshine: Distilling with Cheap Convolutions.
+NIPS,nips2018,2018,Stochastic Cubic Regularization for Fast Nonconvex Optimization.
+NIPS,nips2018,2018,Adaptation to Easy Data in Prediction with Limited Advice.
+NIPS,nips2018,2018,Differentially Private Bayesian Inference for Exponential Families.
+NIPS,nips2018,2018,Playing hard exploration games by watching YouTube.
+NIPS,nips2018,2018,Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base.
+NIPS,nips2018,2018,Norm-Ranging LSH for Maximum Inner Product Search.
+NIPS,nips2018,2018,Optimization over Continuous and Multi-dimensional Decisions with Observational Data.
+NIPS,nips2018,2018,Fast Estimation of Causal Interactions using Wold Processes.
+NIPS,nips2018,2018,When do random forests fail?
+NIPS,nips2018,2018,Near Optimal Exploration-Exploitation in Non-Communicating Markov Decision Processes.
+NIPS,nips2018,2018,Optimistic optimization of a Brownian.
+NIPS,nips2018,2018,Practical Methods for Graph Two-Sample Testing.
+NIPS,nips2018,2018,NAIS-Net: Stable Deep Networks from Non-Autonomous Differential Equations.
+NIPS,nips2018,2018,On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport.
+NIPS,nips2018,2018,Constructing Deep Neural Networks by Bayesian Network Structure Learning.
+NIPS,nips2018,2018,Weakly Supervised Dense Event Captioning in Videos.
+NIPS,nips2018,2018,Faithful Inversion of Generative Models for Effective Amortized Inference.
+NIPS,nips2018,2018,From Stochastic Planning to Marginal MAP.
+NIPS,nips2018,2018,On Binary Classification in Extreme Regions.
+NIPS,nips2018,2018,Near-Optimal Policies for Dynamic Multinomial Logit Assortment Selection Models.
+NIPS,nips2018,2018,Q-learning with Nearest Neighbors.
+NIPS,nips2018,2018,Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization.
+NIPS,nips2018,2018,Asymptotic optimality of adaptive importance sampling.
+NIPS,nips2018,2018,Learning latent variable structured prediction models with Gaussian perturbations.
+NIPS,nips2018,2018,The Nearest Neighbor Information Estimator is Adaptively Near Minimax Rate-Optimal.
+NIPS,nips2018,2018,Deep Reinforcement Learning of Marked Temporal Point Processes.
+NIPS,nips2018,2018,Evidential Deep Learning to Quantify Classification Uncertainty.
+NIPS,nips2018,2018,Parsimonious Bayesian deep networks.
+NIPS,nips2018,2018,Single-Agent Policy Tree Search With Guarantees.
+NIPS,nips2018,2018,Semi-crowdsourced Clustering with Deep Generative Models.
+NIPS,nips2018,2018,The committee machine: Computational to statistical gaps in learning a two-layers neural network.
+NIPS,nips2018,2018,Realistic Evaluation of Deep Semi-Supervised Learning Algorithms.
+NIPS,nips2018,2018,Contextual Combinatorial Multi-armed Bandits with Volatile Arms and Submodular Reward.
+NIPS,nips2018,2018,Training deep learning based denoisers without ground truth data.
+NIPS,nips2018,2018,Re-evaluating evaluation.
+NIPS,nips2018,2018,Deep, complex, invertible networks for inversion of transmission effects in multimode optical fibres.
+NIPS,nips2018,2018,Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals.
+NIPS,nips2018,2018,Data-Efficient Hierarchical Reinforcement Learning.
+NIPS,nips2018,2018,Speaker-Follower Models for Vision-and-Language Navigation.
+NIPS,nips2018,2018,Inequity aversion improves cooperation in intertemporal social dilemmas.
+NIPS,nips2018,2018,Learning Gaussian Processes by Minimizing PAC-Bayesian Generalization Bounds.
+NIPS,nips2018,2018,Probabilistic Matrix Factorization for Automated Machine Learning.
+NIPS,nips2018,2018,Stochastic Spectral and Conjugate Descent Methods.
+NIPS,nips2018,2018,Recurrent Relational Networks.
+NIPS,nips2018,2018,But How Does It Work in Theory? Linear SVM with Random Features.
+NIPS,nips2018,2018,Learning to Optimize Tensor Programs.
+NIPS,nips2018,2018,Boosting Black Box Variational Inference.
+NIPS,nips2018,2018,Nearly tight sample complexity bounds for learning mixtures of Gaussians via sample compression schemes.
+NIPS,nips2018,2018,Actor-Critic Policy Optimization in Partially Observable Multiagent Environments.
+NIPS,nips2018,2018,Step Size Matters in Deep Learning.
+NIPS,nips2018,2018,Derivative Estimation in Random Design.
+NIPS,nips2018,2018,Zeroth-order (Non)-Convex Stochastic Optimization via Conditional Gradient and Gradient Updates.
+NIPS,nips2018,2018,Latent Gaussian Activity Propagation: Using Smoothness and Structure to Separate and Localize Sounds in Large Noisy Environments.
+NIPS,nips2018,2018,Hybrid-MST: A Hybrid Active Sampling Strategy for Pairwise Preference Aggregation.
+NIPS,nips2018,2018,Infinite-Horizon Gaussian Processes.
+NIPS,nips2018,2018,Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization.
+NIPS,nips2018,2018,Sequence-to-Segment Networks for Segment Detection.
+NIPS,nips2018,2018,Scaling the Poisson GLM to massive neural datasets through polynomial approximations.
+NIPS,nips2018,2018,Multiplicative Weights Updates with Constant Step-Size in Graphical Constant-Sum Games.
+NIPS,nips2018,2018,Why Is My Classifier Discriminatory?
+NIPS,nips2018,2018,Multi-Layered Gradient Boosting Decision Trees.
+NIPS,nips2018,2018,Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning.
+NIPS,nips2018,2018,Communication Efficient Parallel Algorithms for Optimization on Manifolds.
+NIPS,nips2018,2018,Neural Code Comprehension: A Learnable Representation of Code Semantics.
+NIPS,nips2018,2018,Tight Bounds for Collaborative PAC Learning via Multiplicative Weights.
+NIPS,nips2018,2018,BinGAN: Learning Compact Binary Descriptors with a Regularized GAN.
+NIPS,nips2018,2018,Modern Neural Networks Generalize on Small Data Sets.
+NIPS,nips2018,2018,Escaping Saddle Points in Constrained Optimization.
+NIPS,nips2018,2018,Adversarial Attacks on Stochastic Bandits.
+NIPS,nips2018,2018,Optimal Subsampling with Influence Functions.
+NIPS,nips2018,2018,A Bandit Approach to Sequential Experimental Design with False Discovery Control.
+NIPS,nips2018,2018,Equality of Opportunity in Classification: A Causal Approach.
+NIPS,nips2018,2018,Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization.
+NIPS,nips2018,2018,Unsupervised Attention-guided Image-to-Image Translation.
+NIPS,nips2018,2018,Inferring Networks From Random Walk-Based Node Similarities.
+NIPS,nips2018,2018,NEON2: Finding Local Minima via First-Order Oracles.
+NIPS,nips2018,2018,Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization.
+NIPS,nips2018,2018,Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting.
+NIPS,nips2018,2018,DeepProbLog: Neural Probabilistic Logic Programming.
+NIPS,nips2018,2018,Convergence of Cubic Regularization for Nonconvex Optimization under KL Property.
+NIPS,nips2018,2018,Direct Estimation of Differences in Causal Graphs.
+NIPS,nips2018,2018,Sublinear Time Low-Rank Approximation of Distance Matrices.
+NIPS,nips2018,2018,Variational PDEs for Acceleration on Manifolds and Application to Diffeomorphisms.
+NIPS,nips2018,2018,Bayesian Inference of Temporal Task Specifications from Demonstrations.
+NIPS,nips2018,2018,Data center cooling using model-predictive control.
+NIPS,nips2018,2018,Acceleration through Optimistic No-Regret Dynamics.
+NIPS,nips2018,2018,Lipschitz regularity of deep neural networks: analysis and efficient estimation.
+NIPS,nips2018,2018,Minimax Estimation of Neural Net Distance.
+NIPS,nips2018,2018,Leveraging the Exact Likelihood of Deep Latent Variable Models.
+NIPS,nips2018,2018,Bipartite Stochastic Block Models with Tiny Clusters.
+NIPS,nips2018,2018,Learning sparse neural networks via sensitivity-driven regularization.
+NIPS,nips2018,2018,Faster Online Learning of Optimal Threshold for Consistent F-measure Optimization.
+NIPS,nips2018,2018,Direct Runge-Kutta Discretization Achieves Acceleration.
+NIPS,nips2018,2018,Adversarial Examples that Fool both Computer Vision and Time-Limited Humans.
+NIPS,nips2018,2018,Stochastic Nested Variance Reduced Gradient Descent for Nonconvex Optimization.
+NIPS,nips2018,2018,Faster Neural Networks Straight from JPEG.
+NIPS,nips2018,2018,TopRank: A practical algorithm for online stochastic ranking.
+NIPS,nips2018,2018,Learning from discriminative feature feedback.
+NIPS,nips2018,2018,RetGK: Graph Kernels based on Return Probabilities of Random Walks.
+NIPS,nips2018,2018,Deep Generative Markov State Models.
+NIPS,nips2018,2018,Early Stopping for Nonparametric Testing.
+NIPS,nips2018,2018,Solving Non-smooth Constrained Programs with Lower Complexity than \mathcal{O}(1/\varepsilon): A Primal-Dual Homotopy Smoothing Approach.
+NIPS,nips2018,2018,Heterogeneous Bitwidth Binarization in Convolutional Neural Networks.
+NIPS,nips2018,2018,Unsupervised Learning of Object Landmarks through Conditional Image Generation.
+NIPS,nips2018,2018,Probabilistic Neural Programmed Networks for Scene Generation.
+NIPS,nips2018,2018,The streaming rollout of deep networks - towards fully model-parallel execution.
+NIPS,nips2018,2018,KONG: Kernels for ordered-neighborhood graphs.
+NIPS,nips2018,2018,GumBolt: Extending Gumbel trick to Boltzmann priors.
+NIPS,nips2018,2018,Neural Networks Trained to Solve Differential Equations Learn General Representations.
+NIPS,nips2018,2018,Beauty-in-averageness and its contextual modulations: A Bayesian statistical account.
+NIPS,nips2018,2018,Distributed Weight Consolidation: A Brain Segmentation Case Study.
+NIPS,nips2018,2018,Efficient Projection onto the Perfect Phylogeny Model.
+NIPS,nips2018,2018,TETRIS: TilE-matching the TRemendous Irregular Sparsity.
+NIPS,nips2018,2018,Cooperative neural networks (CoNN): Exploiting prior independence structure for improved classification.
+NIPS,nips2018,2018,Differentially Private Robust Low-Rank Approximation.
+NIPS,nips2018,2018,Meta-Learning MCMC Proposals.
+NIPS,nips2018,2018,An Information-Theoretic Analysis for Thompson Sampling with Many Actions.
+NIPS,nips2018,2018,Flexible and accurate inference and learning for deep generative models.
+NIPS,nips2018,2018,The Price of Privacy for Low-rank Factorization.
+NIPS,nips2018,2018,Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator.
+NIPS,nips2018,2018,Bilevel Distance Metric Learning for Robust Image Recognition.
+NIPS,nips2018,2018,Differentially Private Uniformly Most Powerful Tests for Binomial Data.
+NIPS,nips2018,2018,Scalable Coordinated Exploration in Concurrent Reinforcement Learning.
+NIPS,nips2018,2018,Integrated accounts of behavioral and neuroimaging data using flexible recurrent neural network models.
+NIPS,nips2018,2018,BML: A High-performance, Low-cost Gradient Synchronization Algorithm for DML Training.
+NIPS,nips2018,2018,Inexact trust-region algorithms on Riemannian manifolds.
+NIPS,nips2018,2018,Can We Gain More from Orthogonality Regularizations in Training Deep Networks?
+NIPS,nips2018,2018,Binary Rating Estimation with Graph Side Information.
+NIPS,nips2018,2018,SimplE Embedding for Link Prediction in Knowledge Graphs.
+NIPS,nips2018,2018,Differentially Private Contextual Linear Bandits.
+NIPS,nips2018,2018,Submodular Field Grammars: Representation, Inference, and Application to Image Parsing.
+NIPS,nips2018,2018,A Bridging Framework for Model Optimization and Deep Propagation.
+NIPS,nips2018,2018,Completing State Representations using Spectral Learning.
+NIPS,nips2018,2018,Optimization of Smooth Functions with Noisy Observations: Local Minimax Rates.
+NIPS,nips2018,2018,Adding One Neuron Can Eliminate All Bad Local Minima.
+NIPS,nips2018,2018,Mean-field theory of graph neural networks in graph partitioning.
+NIPS,nips2018,2018,The Physical Systems Behind Optimization Algorithms.
+NIPS,nips2018,2018,Mallows Models for Top-k Lists.
+NIPS,nips2018,2018,Amortized Inference Regularization.
+NIPS,nips2018,2018,Maximum Causal Tsallis Entropy Imitation Learning.
+NIPS,nips2018,2018,Limited Memory Kelley's Method Converges for Composite Convex and Submodular Objectives.
+NIPS,nips2018,2018,Semi-Supervised Learning with Declaratively Specified Entropy Constraints.
+NIPS,nips2018,2018,End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems.
+NIPS,nips2018,2018,Sparsified SGD with Memory.
+NIPS,nips2018,2018,Exponentiated Strongly Rayleigh Distributions.
+NIPS,nips2018,2018,Importance Weighting and Variational Inference.
+NIPS,nips2018,2018,Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis.
+NIPS,nips2018,2018,Expanding Holographic Embeddings for Knowledge Completion.
+NIPS,nips2018,2018,Lifelong Inverse Reinforcement Learning.
+NIPS,nips2018,2018,Explaining Deep Learning Models - A Bayesian Non-parametric Approach.
+NIPS,nips2018,2018,Third-order Smoothness Helps: Faster Stochastic Optimization Algorithms for Finding Local Minima.
+NIPS,nips2018,2018,COLA: Decentralized Linear Learning.
+NIPS,nips2018,2018,MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare.
+NIPS,nips2018,2018,Adaptive Sampling Towards Fast Graph Representation Learning.
+NIPS,nips2018,2018,Hunting for Discriminatory Proxies in Linear Regression Models.
+NIPS,nips2018,2018,Towards Robust Detection of Adversarial Examples.
+NIPS,nips2018,2018,Active Matting.
+NIPS,nips2018,2018,Learning filter widths of spectral decompositions with wavelets.
+NIPS,nips2018,2018,Byzantine Stochastic Gradient Descent.
+NIPS,nips2018,2018,PG-TS: Improved Thompson Sampling for Logistic Contextual Bandits.
+NIPS,nips2018,2018,Spectral Filtering for General Linear Dynamical Systems.
+NIPS,nips2018,2018,On Learning Intrinsic Rewards for Policy Gradient Methods.
+NIPS,nips2018,2018,Boolean Decision Rules via Column Generation.
+NIPS,nips2018,2018,Adversarial Text Generation via Feature-Mover's Distance.
+NIPS,nips2018,2018,Fast Rates of ERM and Stochastic Approximation: Adaptive to Error Bound Conditions.
+NIPS,nips2018,2018,Learning Bounds for Greedy Approximation with Explicit Feature Maps from Multiple Kernels.
+NIPS,nips2018,2018,A Mathematical Model For Optimal Decisions In A Representative Democracy.
+NIPS,nips2018,2018,Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making.
+NIPS,nips2018,2018,Non-metric Similarity Graphs for Maximum Inner Product Search.
+NIPS,nips2018,2018,Recurrently Controlled Recurrent Networks.
+NIPS,nips2018,2018,Fast greedy algorithms for dictionary selection with generalized sparsity constraints.
+NIPS,nips2018,2018,Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models.
+NIPS,nips2018,2018,A Smoother Way to Train Structured Prediction Models.
+NIPS,nips2018,2018,Context-dependent upper-confidence bounds for directed exploration.
+NIPS,nips2018,2018,A Unified View of Piecewise Linear Neural Network Verification.
+NIPS,nips2018,2018,Hierarchical Graph Representation Learning with Differentiable Pooling.
+NIPS,nips2018,2018,Non-Ergodic Alternating Proximal Augmented Lagrangian Algorithms with Optimal Rates.
+NIPS,nips2018,2018,Information-based Adaptive Stimulus Selection to Optimize Communication Efficiency in Brain-Computer Interfaces.
+NIPS,nips2018,2018,Porcupine Neural Networks: Approximating Neural Network Landscapes.
+NIPS,nips2018,2018,Fairness Through Computationally-Bounded Awareness.
+NIPS,nips2018,2018,Adaptive Negative Curvature Descent with Applications in Non-convex Optimization.
+NIPS,nips2018,2018,Is Q-Learning Provably Efficient?
+NIPS,nips2018,2018,Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections.
+NIPS,nips2018,2018,Measures of distortion for machine learning.
+NIPS,nips2018,2018,On the Local Minima of the Empirical Risk.
+NIPS,nips2018,2018,Densely Connected Attention Propagation for Reading Comprehension.
+NIPS,nips2018,2018,Bandit Learning with Positive Externalities.
+NIPS,nips2018,2018,Learning Confidence Sets using Support Vector Machines.
+NIPS,nips2018,2018,Efficient Neural Network Robustness Certification with General Activation Functions.
+NIPS,nips2018,2018,Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.
+NIPS,nips2018,2018,Neural Edit Operations for Biological Sequences.
+NIPS,nips2018,2018,Objective and efficient inference for couplings in neuronal networks.
+NIPS,nips2018,2018,Learning from Group Comparisons: Exploiting Higher Order Interactions.
+NIPS,nips2018,2018,Supervising Unsupervised Learning.
+NIPS,nips2018,2018,Nonparametric Bayesian Lomax delegate racing for survival analysis with competing risks.
+NIPS,nips2018,2018,Adversarially Robust Generalization Requires More Data.
+NIPS,nips2018,2018,Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents.
+NIPS,nips2018,2018,Practical exact algorithm for trembling-hand equilibrium refinements in games.
+NIPS,nips2018,2018,LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning.
+NIPS,nips2018,2018,Scalable Robust Matrix Factorization with Nonconvex Loss.
+NIPS,nips2018,2018,Power-law efficient neural codes provide general link between perceptual bias and discriminability.
+NIPS,nips2018,2018,Geometry-Aware Recurrent Neural Networks for Active Visual Recognition.
+NIPS,nips2018,2018,Unsupervised Adversarial Invariance.
+NIPS,nips2018,2018,Content preserving text generation with attribute controls.
+NIPS,nips2018,2018,Multi-armed Bandits with Compensation.
+NIPS,nips2018,2018,GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training.
+NIPS,nips2018,2018,Learning in Games with Lossy Feedback.
+NIPS,nips2018,2018,Scalable methods for 8-bit training of neural networks.
+NIPS,nips2018,2018,Dropping Symmetry for Fast Symmetric Nonnegative Matrix Factorization.
+NIPS,nips2018,2018,Link Prediction Based on Graph Neural Networks.
+NIPS,nips2018,2018,Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task.
+NIPS,nips2018,2018,Near-Optimal Time and Sample Complexities for Solving Markov Decision Processes with a Generative Model.
+NIPS,nips2018,2018,ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions.
+NIPS,nips2018,2018,Causal Inference and Mechanism Clustering of A Mixture of Additive Noise Models.
+NIPS,nips2018,2018,Contour location via entropy reduction leveraging multiple information sources.
+NIPS,nips2018,2018,Assessing Generative Models via Precision and Recall.
+NIPS,nips2018,2018,Multiple-Step Greedy Policies in Approximate and Online Reinforcement Learning.
+NIPS,nips2018,2018,A Convex Duality Framework for GANs.
+NIPS,nips2018,2018,Horizon-Independent Minimax Linear Regression.
+NIPS,nips2018,2018,Exploiting Numerical Sparsity for Efficient Learning : Faster Eigenvector Computation and Regression.
+NIPS,nips2018,2018,Experimental Design for Cost-Aware Learning of Causal Graphs.
+NIPS,nips2018,2018,Task-Driven Convolutional Recurrent Models of the Visual System.
+NIPS,nips2018,2018,Meta-Reinforcement Learning of Structured Exploration Strategies.
+NIPS,nips2018,2018,Sample Efficient Stochastic Gradient Iterative Hard Thresholding Method for Stochastic Sparse Linear Regression with Limited Attribute Observation.
+NIPS,nips2018,2018,Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance.
+NIPS,nips2018,2018,Generalizing to Unseen Domains via Adversarial Data Augmentation.
+NIPS,nips2018,2018,Hyperbolic Neural Networks.
+NIPS,nips2018,2018,Breaking the Curse of Horizon: Infinite-Horizon Off-Policy Estimation.
+NIPS,nips2018,2018,Learning Task Specifications from Demonstrations.
+NIPS,nips2018,2018,Learning a latent manifold of odor representations from neural responses in piriform cortex.
+NIPS,nips2018,2018,Fully Understanding The Hashing Trick.
+NIPS,nips2018,2018,Evolved Policy Gradients.
+NIPS,nips2018,2018,The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network.
+NIPS,nips2018,2018,Learning Concave Conditional Likelihood Models for Improved Analysis of Tandem Mass Spectra.
+NIPS,nips2018,2018,Differentially Private k-Means with Constant Multiplicative Error.
+NIPS,nips2018,2018,Policy Optimization via Importance Sampling.
+NIPS,nips2018,2018,Estimating Learnability in the Sublinear Data Regime.
+NIPS,nips2018,2018,Algorithmic Assurance: An Active Approach to Algorithmic Testing using Bayesian Optimisation.
+NIPS,nips2018,2018,Community Exploration: From Offline Optimization to Online Learning.
+NIPS,nips2018,2018,A Dual Framework for Low-rank Tensor Completion.
+NIPS,nips2018,2018,Low-rank Interaction with Sparse Additive Effects Model for Large Data Frames.
+NIPS,nips2018,2018,Inference Aided Reinforcement Learning for Incentive Mechanism Design in Crowdsourcing.
+NIPS,nips2018,2018,Middle-Out Decoding.
+NIPS,nips2018,2018,First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time.
+NIPS,nips2018,2018,To Trust Or Not To Trust A Classifier.
+NIPS,nips2018,2018,Reparameterization Gradient for Non-differentiable Models.
+NIPS,nips2018,2018,A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization.
+NIPS,nips2018,2018,Multimodal Generative Models for Scalable Weakly-Supervised Learning.
+NIPS,nips2018,2018,How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?
+NIPS,nips2018,2018,Occam's razor is insufficient to infer the preferences of irrational agents.
+NIPS,nips2018,2018,Manifold Structured Prediction.
+NIPS,nips2018,2018,Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity.
+NIPS,nips2018,2018,Learning Others' Intentional Models in Multi-Agent Settings Using Interactive POMDPs.
+NIPS,nips2018,2018,Contextual Pricing for Lipschitz Buyers.
+NIPS,nips2018,2018,Online Improper Learning with an Approximation Oracle.
+NIPS,nips2018,2018,Bandit Learning in Concave N-Person Games.
+NIPS,nips2018,2018,On Fast Leverage Score Sampling and Optimal Learning.
+NIPS,nips2018,2018,Unsupervised Video Object Segmentation for Deep Reinforcement Learning.
+NIPS,nips2018,2018,Efficient inference for time-varying behavior during learning.
+NIPS,nips2018,2018,Learning convex polytopes with margin.
+NIPS,nips2018,2018,Critical initialisation for deep signal propagation in noisy rectifier neural networks.
+NIPS,nips2018,2018,Insights on representational similarity in neural networks with canonical correlation.
+NIPS,nips2018,2018,Variational Inference with Tail-adaptive f-Divergence.
+NIPS,nips2018,2018,Mental Sampling in Multimodal Representations.
+NIPS,nips2018,2018,Adversarially Robust Optimization with Gaussian Processes.
+NIPS,nips2018,2018,Learning to Multitask.
+NIPS,nips2018,2018,Loss Functions for Multiset Prediction.
+NIPS,nips2018,2018,Computing Kantorovich-Wasserstein Distances on d-dimensional histograms using (d+1)-partite graphs.
+NIPS,nips2018,2018,Neural Interaction Transparency (NIT): Disentangling Learned Interactions for Improved Interpretability.
+NIPS,nips2018,2018,CapProNet: Deep Feature Learning via Orthogonal Projections onto Capsule Subspaces.
+NIPS,nips2018,2018,Gamma-Poisson Dynamic Matrix Factorization Embedded with Metadata Influence.
+NIPS,nips2018,2018,Masking: A New Perspective of Noisy Supervision.
+NIPS,nips2018,2018,On GANs and GMMs.
+NIPS,nips2018,2018,Differential Properties of Sinkhorn Approximation for Learning with Wasserstein Distance.
+NIPS,nips2018,2018,Practical Deep Stereo (PDS): Toward applications-friendly deep stereo matching.
+NIPS,nips2018,2018,A Bayes-Sard Cubature Method.
+NIPS,nips2018,2018,Dual Swap Disentangling.
+NIPS,nips2018,2018,Diverse Ensemble Evolution: Curriculum Data-Model Marriage.
+NIPS,nips2018,2018,Binary Classification from Positive-Confidence Data.
+NIPS,nips2018,2018,Deep Generative Models for Distribution-Preserving Lossy Compression.
+NIPS,nips2018,2018,Exact natural gradient in deep linear networks and its application to the nonlinear case.
+NIPS,nips2018,2018,Constructing Fast Network through Deconstruction of Convolution.
+NIPS,nips2018,2018,Memory Replay GANs: Learning to Generate New Categories without Forgetting.
+NIPS,nips2018,2018,The Convergence of Sparsified Gradient Methods.
+NIPS,nips2018,2018,Automating Bayesian optimization with Bayesian optimization.
+NIPS,nips2018,2018,Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning.
+NIPS,nips2018,2018,Dirichlet-based Gaussian Processes for Large-scale Calibrated Classification.
+NIPS,nips2018,2018,Multi-Task Zipping via Layer-wise Neuron Sharing.
+NIPS,nips2018,2018,Dimensionally Tight Bounds for Second-Order Hamiltonian Monte Carlo.
+NIPS,nips2018,2018,Approximation algorithms for stochastic clustering.
+NIPS,nips2018,2018,Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks.
+NIPS,nips2018,2018,Learning to Infer Graphics Programs from Hand-Drawn Images.
+NIPS,nips2018,2018,Graphical Generative Adversarial Networks.
+NIPS,nips2018,2018,Variational Learning on Aggregate Outputs with Gaussian Processes.
+NIPS,nips2018,2018,MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models.
+NIPS,nips2018,2018,Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks.
+NIPS,nips2018,2018,Information Constraints on Auto-Encoding Variational Bayes.
+NIPS,nips2018,2018,Recurrent Transformer Networks for Semantic Correspondence.
+NIPS,nips2018,2018,Online convex optimization for cumulative constraints.
+NIPS,nips2018,2018,Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer.
+NIPS,nips2018,2018,Deep State Space Models for Unconditional Word Generation.
+NIPS,nips2018,2018,ResNet with one-neuron hidden layers is a Universal Approximator.
+NIPS,nips2018,2018,Transfer of Value Functions via Variational Methods.
+NIPS,nips2018,2018,The Cluster Description Problem - Complexity Results, Formulations and Approximations.
+NIPS,nips2018,2018,Sharp Bounds for Generalized Uniformity Testing.
+NIPS,nips2018,2018,Deep Neural Networks with Box Convolutions.
+NIPS,nips2018,2018,Learning towards Minimum Hyperspherical Energy.
+NIPS,nips2018,2018,LF-Net: Learning Local Features from Images.
+NIPS,nips2018,2018,SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient.
+NIPS,nips2018,2018,Tangent: Automatic differentiation using source-code transformation for dynamically typed array programming.
+NIPS,nips2018,2018,Multi-domain Causal Structure Learning in Linear Systems.
+NIPS,nips2018,2018,Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences.
+NIPS,nips2018,2018,Exponentially Weighted Imitation Learning for Batched Historical Data.
+NIPS,nips2018,2018,Algebraic tests of general Gaussian latent tree models.
+NIPS,nips2018,2018,Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models.
+NIPS,nips2018,2018,Deep Structured Prediction with Nonlinear Output Transformations.
+NIPS,nips2018,2018,Sequential Test for the Lowest Mean: From Thompson to Murphy Sampling.
+NIPS,nips2018,2018,Distributed Learning without Distress: Privacy-Preserving Empirical Risk Minimization.
+NIPS,nips2018,2018,A no-regret generalization of hierarchical softmax to extreme multi-label classification.
+NIPS,nips2018,2018,Efficient Formal Safety Analysis of Neural Networks.
+NIPS,nips2018,2018,Bayesian Distributed Stochastic Gradient Descent.
+NIPS,nips2018,2018,Visualizing the Loss Landscape of Neural Nets.
+NIPS,nips2018,2018,The Limits of Post-Selection Generalization.
+NIPS,nips2018,2018,Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation.
+NIPS,nips2018,2018,On Controllable Sparse Alternatives to Softmax.
+NIPS,nips2018,2018,L4: Practical loss-based stepsize adaptation for deep learning.
+NIPS,nips2018,2018,Learning Latent Subspaces in Variational Autoencoders.
+NIPS,nips2018,2018,Turbo Learning for CaptionBot and DrawingBot.
+NIPS,nips2018,2018,Learning to Teach with Dynamic Loss Functions.
+NIPS,nips2018,2018,Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation.
+NIPS,nips2018,2018,Size-Noise Tradeoffs in Generative Networks.
+NIPS,nips2018,2018,Online Adaptive Methods, Universality and Acceleration.
+NIPS,nips2018,2018,Compact Generalized Non-local Network.
+NIPS,nips2018,2018,On the Local Hessian in Back-propagation.
+NIPS,nips2018,2018,The Everlasting Database: Statistical Validity at a Fair Price.
+NIPS,nips2018,2018,Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks.
+NIPS,nips2018,2018,Proximal SCOPE for Distributed Sparse Learning.
+NIPS,nips2018,2018,On Coresets for Logistic Regression.
+NIPS,nips2018,2018,Neural Ordinary Differential Equations.
+NIPS,nips2018,2018,Unsupervised Learning of Artistic Styles with Archetypal Style Analysis.
+NIPS,nips2018,2018,Approximating Real-Time Recurrent Learning with Random Kronecker Factors.
+NIPS,nips2018,2018,Contamination Attacks and Mitigation in Multi-Party Machine Learning.
+NIPS,nips2018,2018,An Improved Analysis of Alternating Minimization for Structured Multi-Response Regression.
+NIPS,nips2018,2018,Incorporating Context into Language Encoding Models for fMRI.
+NIPS,nips2018,2018,CatBoost: unbiased boosting with categorical features.
+NIPS,nips2018,2018,Query K-means Clustering and the Double Dixie Cup Problem.
+NIPS,nips2018,2018,Training Neural Networks Using Features Replay.
+NIPS,nips2018,2018,Modeling Dynamic Missingness of Implicit Feedback for Recommendation.
+NIPS,nips2018,2018,Representation Learning of Compositional Data.
+NIPS,nips2018,2018,Model-based targeted dimensionality reduction for neuronal population data.
+NIPS,nips2018,2018,On gradient regularizers for MMD GANs.
+NIPS,nips2018,2018,Heterogeneous Multi-output Gaussian Process Prediction.
+NIPS,nips2018,2018,Large-Scale Stochastic Sampling from the Probability Simplex.
+NIPS,nips2018,2018,Policy Regret in Repeated Games.
+NIPS,nips2018,2018,A Theory-Based Evaluation of Nearest Neighbor Models Put Into Practice.
+NIPS,nips2018,2018,Banach Wasserstein GAN.
+NIPS,nips2018,2018,Provable Gaussian Embedding with One Observation.
+NIPS,nips2018,2018,BRITS: Bidirectional Recurrent Imputation for Time Series.
+NIPS,nips2018,2018,M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search.
+NIPS,nips2018,2018,Extracting Relationships by Multi-Domain Matching.
+NIPS,nips2018,2018,Efficient Gradient Computation for Structured Output Learning with Rational and Tropical Losses.
+NIPS,nips2018,2018,Generative Probabilistic Novelty Detection with Adversarial Autoencoders.
+NIPS,nips2018,2018,Diminishing Returns Shape Constraints for Interpretability and Regularization.
+NIPS,nips2018,2018,Scalable Hyperparameter Transfer Learning.
+NIPS,nips2018,2018,Stochastic Nonparametric Event-Tensor Decomposition.
+NIPS,nips2018,2018,Scaling Gaussian Process Regression with Derivatives.
+NIPS,nips2018,2018,Differentially Private Testing of Identity and Closeness of Discrete Distributions.
+NIPS,nips2018,2018,Bayesian Adversarial Learning.
+NIPS,nips2018,2018,Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms.
+NIPS,nips2018,2018,Maximizing Induced Cardinality Under a Determinantal Point Process.
+NIPS,nips2018,2018,Causal Inference with Noisy and Missing Covariates via Matrix Factorization.
+NIPS,nips2018,2018,rho-POMDPs have Lipschitz-Continuous epsilon-Optimal Value Functions.
+NIPS,nips2018,2018,Online Structure Learning for Feed-Forward and Recurrent Sum-Product Networks.
+NIPS,nips2018,2018,Uncertainty Sampling is Preconditioned Stochastic Gradient Descent on Zero-One Loss.
+NIPS,nips2018,2018,A Probabilistic U-Net for Segmentation of Ambiguous Images.
+NIPS,nips2018,2018,Unorganized Malicious Attacks Detection.
+NIPS,nips2018,2018,Causal Inference via Kernel Deviance Measures.
+NIPS,nips2018,2018,Bayesian Alignments of Warped Multi-Output Gaussian Processes.
+NIPS,nips2018,2018,Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks.
+NIPS,nips2018,2018,Gen-Oja: Simple & Efficient Algorithm for Streaming Generalized Eigenvector Computation.
+NIPS,nips2018,2018,Efficient online algorithms for fast-rate regret bounds under sparsity.
+NIPS,nips2018,2018,GILBO: One Metric to Measure Them All.
+NIPS,nips2018,2018,Predictive Uncertainty Estimation via Prior Networks.
+NIPS,nips2018,2018,Dual Policy Iteration.
+NIPS,nips2018,2018,A probabilistic population code based on neural samples.
+NIPS,nips2018,2018,Manifold-tiling Localized Receptive Fields are Optimal in Similarity-preserving Neural Networks.
+NIPS,nips2018,2018,On the Convergence and Robustness of Training GANs with Regularized Optimal Transport.
+NIPS,nips2018,2018,Model-Agnostic Private Learning.
+NIPS,nips2018,2018,Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.
+NIPS,nips2018,2018,Provably Correct Automatic Sub-Differentiation for Qualified Programs.
+NIPS,nips2018,2018,Deep Homogeneous Mixture Models: Representation, Separation, and Approximation.
+NIPS,nips2018,2018,Parameters as interacting particles: long time convergence and asymptotic error scaling of neural networks.
+NIPS,nips2018,2018,Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies.
+NIPS,nips2018,2018,A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks.
+NIPS,nips2018,2018,End-to-End Differentiable Physics for Learning and Control.
+NIPS,nips2018,2018,BRUNO: A Deep Recurrent Model for Exchangeable Data.
+NIPS,nips2018,2018,Stimulus domain transfer in recurrent models for large scale cortical population prediction on video.
+NIPS,nips2018,2018,Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction.
+NIPS,nips2018,2018,Distributed Multi-Player Bandits - a Game of Thrones Approach.
+NIPS,nips2018,2018,Efficient Loss-Based Decoding on Graphs for Extreme Classification.
+NIPS,nips2018,2018,Chaining Mutual Information and Tightening Generalization Bounds.
+NIPS,nips2018,2018,Implicit Probabilistic Integrators for ODEs.
+NIPS,nips2018,2018,Learning Attentional Communication for Multi-Agent Cooperation.
+NIPS,nips2018,2018,Training Deep Models Faster with Robust, Approximate Importance Sampling.
+NIPS,nips2018,2018,Bandit Learning with Implicit Feedback.
+NIPS,nips2018,2018,Unsupervised Text Style Transfer using Language Models as Discriminators.
+NIPS,nips2018,2018,Relational recurrent neural networks.
+NIPS,nips2018,2018,Streaming Kernel PCA with \tilde{O}(\sqrt{n}) Random Features.
+NIPS,nips2018,2018,REFUEL: Exploring Sparse Features in Deep Reinforcement Learning for Fast Disease Diagnosis.
+NIPS,nips2018,2018,Bayesian Model-Agnostic Meta-Learning.
+NIPS,nips2018,2018,Disconnected Manifold Learning for Generative Adversarial Networks.
+NIPS,nips2018,2018,Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces.
+NIPS,nips2018,2018,Learning Signed Determinantal Point Processes through the Principal Minor Assignment Problem.
+NIPS,nips2018,2018,Out-of-Distribution Detection using Multiple Semantic Label Representations.
+NIPS,nips2018,2018,Stochastic Chebyshev Gradient Descent for Spectral Optimization.
+NIPS,nips2018,2018,Revisiting (\epsilon, \gamma, \tau)-similarity learning for domain adaptation.
+NIPS,nips2018,2018,How to tell when a clustering is (approximately) correct using convex relaxations.
+NIPS,nips2018,2018,Constant Regret, Generalized Mixability, and Mirror Descent.
+NIPS,nips2018,2018,A Bayesian Approach to Generative Adversarial Imitation Learning.
+NIPS,nips2018,2018,Plug-in Estimation in High-Dimensional Linear Inverse Problems: A Rigorous Analysis.
+NIPS,nips2018,2018,Constrained Cross-Entropy Method for Safe Reinforcement Learning.
+NIPS,nips2018,2018,Multi-Agent Generative Adversarial Imitation Learning.
+NIPS,nips2018,2018,Adaptive Learning with Unknown Information Flows.
+NIPS,nips2018,2018,Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks.
+NIPS,nips2018,2018,Generative modeling for protein structures.
+NIPS,nips2018,2018,Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo.
+NIPS,nips2018,2018,Knowledge Distillation by On-the-Fly Native Ensemble.
+NIPS,nips2018,2018,Non-Adversarial Mapping with VAEs.
+NIPS,nips2018,2018,Generalisation in humans and deep neural networks.
+NIPS,nips2018,2018,Towards Text Generation with Adversarially Learned Neural Outlines.
+NIPS,nips2018,2018,cpSGD: Communication-efficient and differentially-private distributed SGD.
+NIPS,nips2018,2018,GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration.
+NIPS,nips2018,2018,Diffusion Maps for Textual Network Embedding.
+NIPS,nips2018,2018,Simple, Distributed, and Accelerated Probabilistic Programming.
+NIPS,nips2018,2018,VideoCapsuleNet: A Simplified Network for Action Detection.
+NIPS,nips2018,2018,Rectangular Bounding Process.
+NIPS,nips2018,2018,Improved Algorithms for Collaborative PAC Learning.
+NIPS,nips2018,2018,Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding.
+NIPS,nips2018,2018,Communication Compression for Decentralized Training.
+NIPS,nips2018,2018,Depth-Limited Solving for Imperfect-Information Games.
+NIPS,nips2018,2018,Training Deep Neural Networks with 8-bit Floating Point Numbers.
+NIPS,nips2018,2018,Scalar Posterior Sampling with Applications.
+NIPS,nips2018,2018,Understanding Batch Normalization.
+NIPS,nips2018,2018,Adversarial Scene Editing: Automatic Object Removal from Weak Supervision.
+NIPS,nips2018,2018,Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples.
+NIPS,nips2018,2018,On Neuronal Capacity.
+NIPS,nips2018,2018,Breaking the Activation Function Bottleneck through Adaptive Parameterization.
+NIPS,nips2018,2018,Learning Loop Invariants for Program Verification.
+NIPS,nips2018,2018,Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.
+NIPS,nips2018,2018,Towards Robust Interpretability with Self-Explaining Neural Networks.
+NIPS,nips2018,2018,Deep State Space Models for Time Series Forecasting.
+NIPS,nips2018,2018,Constrained Graph Variational Autoencoders for Molecule Design.
+NIPS,nips2018,2018,Learning Libraries of Subroutines for Neurally-Guided Bayesian Program Induction.
+NIPS,nips2018,2018,Neural Architecture Optimization.
+NIPS,nips2018,2018,Preference Based Adaptation for Learning Objectives.
+NIPS,nips2018,2018,Distributed k-Clustering for Data with Heavy Noise.
+NIPS,nips2018,2018,Beyond Log-concavity: Provable Guarantees for Sampling Multi-modal Distributions using Simulated Tempering Langevin Monte Carlo.
+NIPS,nips2018,2018,A General Method for Amortizing Variational Filtering.
+NIPS,nips2018,2018,A Reduction for Efficient LDA Topic Reconstruction.
+NIPS,nips2018,2018,Cluster Variational Approximations for Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data.
+NIPS,nips2018,2018,RenderNet: A deep convolutional network for differentiable rendering from 3D shapes.
+NIPS,nips2018,2018,Robust Hypothesis Testing Using Wasserstein Uncertainty Sets.
+NIPS,nips2018,2018,Robust Detection of Adversarial Attacks by Modeling the Intrinsic Properties of Deep Neural Networks.
+NIPS,nips2018,2018,Monte-Carlo Tree Search for Constrained POMDPs.
+NIPS,nips2018,2018,Learning to Repair Software Vulnerabilities with Generative Adversarial Networks.
+NIPS,nips2018,2018,Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation.
+NIPS,nips2018,2018,Dirichlet belief networks for topic structure learning.
+NIPS,nips2018,2018,Stochastic Expectation Maximization with Variance Reduction.
+NIPS,nips2018,2018,Submodular Maximization via Gradient Ascent: The Case of Deep Submodular Functions.
+NIPS,nips2018,2018,The challenge of realistic music generation: modelling raw audio at scale.
+NIPS,nips2018,2018,Spectral Signatures in Backdoor Attacks.
+NIPS,nips2018,2018,Reward learning from human preferences and demonstrations in Atari.
+NIPS,nips2018,2018,Approximate Knowledge Compilation by Online Collapsed Importance Sampling.
+NIPS,nips2018,2018,Neural Arithmetic Logic Units.
+NIPS,nips2018,2018,Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training.
+NIPS,nips2018,2018,Improved Expressivity Through Dendritic Neural Networks.
+NIPS,nips2018,2018,Efficient Anomaly Detection via Matrix Sketching.
+NIPS,nips2018,2018,Learning to Specialize with Knowledge Distillation for Visual Question Answering.
+NIPS,nips2018,2018,A Lyapunov-based Approach to Safe Reinforcement Learning.
+NIPS,nips2018,2018,Credit Assignment For Collective Multiagent RL With Global Rewards.
+NIPS,nips2018,2018,Statistical Optimality of Stochastic Gradient Descent on Hard Learning Problems through Multiple Passes.
+NIPS,nips2018,2018,Does mitigating ML's impact disparity require treatment disparity?
+NIPS,nips2018,2018,Proximal Graphical Event Models.
+NIPS,nips2018,2018,Bayesian Control of Large MDPs with Unknown Dynamics in Data-Poor Environments.
+NIPS,nips2018,2018,Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data.
+NIPS,nips2018,2018,Hamiltonian Variational Auto-Encoder.
+NIPS,nips2018,2018,Modelling and unsupervised learning of symmetric deformable object categories.
+NIPS,nips2018,2018,Graphical model inference: Sequential Monte Carlo meets deterministic approximations.
+NIPS,nips2018,2018,Statistical mechanics of low-rank tensor decomposition.
+NIPS,nips2018,2018,Variational Bayesian Monte Carlo.
+NIPS,nips2018,2018,Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion.
+NIPS,nips2018,2018,Efficient Online Portfolio with Logarithmic Regret.
+NIPS,nips2018,2018,Algorithms and Theory for Multiple-Source Adaptation.
+NIPS,nips2018,2018,Online Reciprocal Recommendation with Theoretical Performance Guarantees.
+NIPS,nips2018,2018,The promises and pitfalls of Stochastic Gradient Langevin Dynamics.
+NIPS,nips2018,2018,How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective.
+NIPS,nips2018,2018,Differentiable MPC for End-to-end Planning and Control.
+NIPS,nips2018,2018,Bilevel learning of the Group Lasso structure.
+NIPS,nips2018,2018,Constructing Unrestricted Adversarial Examples with Generative Models.
+NIPS,nips2018,2018,Information-theoretic Limits for Community Detection in Network Models.
+NIPS,nips2018,2018,Learning Conditioned Graph Structures for Interpretable Visual Question Answering.
+NIPS,nips2018,2018,Distributionally Robust Graphical Models.
+NIPS,nips2018,2018,Transfer Learning with Neural AutoML.
+NIPS,nips2018,2018,Stochastic Primal-Dual Method for Empirical Risk Minimization with O(1) Per-Iteration Complexity.
+NIPS,nips2018,2018,On preserving non-discrimination when combining expert advice.
+NIPS,nips2018,2018,Learning to Play With Intrinsically-Motivated, Self-Aware Agents.
+NIPS,nips2018,2018,Scaling provable adversarial defenses.
+NIPS,nips2018,2018,Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images.
+NIPS,nips2018,2018,Almost Optimal Algorithms for Linear Stochastic Bandits with Heavy-Tailed Payoffs.
+NIPS,nips2018,2018,Data-dependent PAC-Bayes priors via differential privacy.
+NIPS,nips2018,2018,Deep Poisson gamma dynamical systems.
+NIPS,nips2018,2018,Dimensionality Reduction has Quantifiable Imperfections: Two Geometric Bounds.
+NIPS,nips2018,2018,Teaching Inverse Reinforcement Learners via Features and Demonstrations.
+NIPS,nips2018,2018,Wasserstein Distributionally Robust Kalman Filtering.
+NIPS,nips2018,2018,Generalisation of structural knowledge in the hippocampal-entorhinal system.
+NIPS,nips2018,2018,Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization.
+NIPS,nips2018,2018,Adversarial Regularizers in Inverse Problems.
+NIPS,nips2018,2018,Clustering Redemption-Beyond the Impossibility of Kleinberg's Axioms.
+NIPS,nips2018,2018,Co-teaching: Robust training of deep neural networks with extremely noisy labels.
+NIPS,nips2018,2018,Variational Inverse Control with Events: A General Framework for Data-Driven Reward Definition.
+NIPS,nips2018,2018,A convex program for bilinear inversion of sparse vectors.
+NIPS,nips2018,2018,Adversarial Multiple Source Domain Adaptation.
+NIPS,nips2018,2018,Neural Tangent Kernel: Convergence and Generalization in Neural Networks.
+NIPS,nips2018,2018,Contextual Stochastic Block Models.
+NIPS,nips2018,2018,A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks.
+NIPS,nips2018,2018,Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects.
+NIPS,nips2018,2018,Randomized Prior Functions for Deep Reinforcement Learning.
+NIPS,nips2018,2018,Compact Representation of Uncertainty in Clustering.
+NIPS,nips2018,2018,Learning without the Phase: Regularized PhaseMax Achieves Optimal Sample Complexity.
+NIPS,nips2018,2018,Multilingual Anchoring: Interactive Topic Modeling and Alignment Across Languages.
+NIPS,nips2018,2018,Estimators for Multivariate Information Measures in General Probability Spaces.
+NIPS,nips2018,2018,DeepPINK: reproducible feature selection in deep neural networks.
+NIPS,nips2018,2018,HOUDINI: Lifelong Learning as Program Synthesis.
+NIPS,nips2018,2018,Searching for Efficient Multi-Scale Architectures for Dense Image Prediction.
+NIPS,nips2018,2018,Orthogonally Decoupled Variational Gaussian Processes.
+NIPS,nips2018,2018,Dendritic cortical microcircuits approximate the backpropagation algorithm.
+NIPS,nips2018,2018,Learning Plannable Representations with Causal InfoGAN.
+NIPS,nips2018,2018,Uniform Convergence of Gradients for Non-Convex Learning and Optimization.
+NIPS,nips2018,2018,Automatic differentiation in ML: Where we are and where we should be going.
+NIPS,nips2018,2018,A Bayesian Nonparametric View on Count-Min Sketch.
+NIPS,nips2018,2018,Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels.
+NIPS,nips2018,2018,Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs.
+NIPS,nips2018,2018,Flexible neural representation for physics prediction.
+NIPS,nips2018,2018,Legendre Decomposition for Tensors.
+NIPS,nips2018,2018,Reinforcement Learning of Theorem Proving.
+NIPS,nips2018,2018,Data Amplification: A Unified and Competitive Approach to Property Estimation.
+NIPS,nips2018,2018,Group Equivariant Capsule Networks.
+NIPS,nips2018,2018,Stein Variational Gradient Descent as Moment Matching.
+NIPS,nips2018,2018,Differential Privacy for Growing Databases.
+NIPS,nips2018,2018,Exploration in Structured Reinforcement Learning.
+NIPS,nips2018,2018,A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices.
+NIPS,nips2018,2018,Balanced Policy Evaluation and Learning.
+NIPS,nips2018,2018,Distributed Multitask Reinforcement Learning with Quadratic Convergence.
+NIPS,nips2018,2018,Improving Neural Program Synthesis with Inferred Execution Traces.
+NIPS,nips2018,2018,Adaptive Path-Integral Autoencoders: Representation Learning and Planning for Dynamical Systems.
+NIPS,nips2018,2018,Policy-Conditioned Uncertainty Sets for Robust Markov Decision Processes.
+NIPS,nips2018,2018,GLoMo: Unsupervised Learning of Transferable Relational Graphs.
+NIPS,nips2018,2018,Online Learning of Quantum States.
+NIPS,nips2018,2018,Wavelet regression and additive models for irregularly spaced data.
+NIPS,nips2018,2018,Inferring Latent Velocities from Weather Radar Data using Gaussian Processes.
+NIPS,nips2018,2018,A Structured Prediction Approach for Label Ranking.
+NIPS,nips2018,2018,Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features.
+NIPS,nips2018,2018,FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network.
+NIPS,nips2018,2018,Reversible Recurrent Neural Networks.
+NIPS,nips2018,2018,SING: Symbol-to-Instrument Neural Generator.
+NIPS,nips2018,2018,Learning Compressed Transforms with Low Displacement Rank.
+NIPS,nips2018,2018,Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds.
+NIPS,nips2018,2018,Iterative Value-Aware Model Learning.
+NIPS,nips2018,2018,Invariant Representations without Adversarial Training.
+NIPS,nips2018,2018,Robot Learning in Homes: Improving Generalization and Reducing Dataset Bias.
+NIPS,nips2018,2018,Learning Safe Policies with Expert Guidance.
+NIPS,nips2018,2018,Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data.
+NIPS,nips2018,2018,Learning SMaLL Predictors.
+NIPS,nips2018,2018,Phase Retrieval Under a Generative Prior.
+NIPS,nips2018,2018,Quadrature-based features for kernel approximation.
+NIPS,nips2018,2018,Reducing Network Agnostophobia.
+NIPS,nips2018,2018,A Stein variational Newton method.
+NIPS,nips2018,2018,Watch Your Step: Learning Node Embeddings via Graph Attention.
+NIPS,nips2018,2018,Visual Reinforcement Learning with Imagined Goals.
+NIPS,nips2018,2018,Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition.
+NIPS,nips2018,2018,PAC-Bayes bounds for stable algorithms with instance-dependent priors.
+NIPS,nips2018,2018,Beyond Grids: Learning Graph Representations for Visual Recognition.
+NIPS,nips2018,2018,The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.
+NIPS,nips2018,2018,Coordinate Descent with Bandit Sampling.
+NIPS,nips2018,2018,Deep Dynamical Modeling and Control of Unsteady Fluid Flows.
+NIPS,nips2018,2018,Confounding-Robust Policy Improvement.
+NIPS,nips2018,2018,The Importance of Sampling inMeta-Reinforcement Learning.
+NIPS,nips2018,2018,Representer Point Selection for Explaining Deep Neural Networks.
+NIPS,nips2018,2018,The Effect of Network Width on the Performance of Large-batch Training.
+NIPS,nips2018,2018,SNIPER: Efficient Multi-Scale Training.
+NIPS,nips2018,2018,The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models.
+NIPS,nips2018,2018,Hardware Conditioned Policies for Multi-Robot Transfer Learning.
+NIPS,nips2018,2018,Co-regularized Alignment for Unsupervised Domain Adaptation.
+NIPS,nips2018,2018,Statistical and Computational Trade-Offs in Kernel K-Means.
+NIPS,nips2018,2018,Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures.
+NIPS,nips2018,2018,Learning Attractor Dynamics for Generative Memory.
+NIPS,nips2018,2018,The emergence of multiple retinal cell types through efficient coding of natural movies.
+NIPS,nips2018,2018,Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks.
+NIPS,nips2018,2018,The Global Anchor Method for Quantifying Linguistic Shifts and Domain Adaptation.
+NIPS,nips2018,2018,Identification and Estimation of Causal Effects from Dependent Data.
+NIPS,nips2018,2018,Deepcode: Feedback Codes via Deep Learning.
+NIPS,nips2018,2018,Learning and Testing Causal Models with Interventions.
+NIPS,nips2018,2018,Implicit Bias of Gradient Descent on Linear Convolutional Networks.
+NIPS,nips2018,2018,DAGs with NO TEARS: Continuous Optimization for Structure Learning.
+NIPS,nips2018,2018,PAC-Bayes Tree: weighted subtrees with guarantees.
+NIPS,nips2018,2018,Multi-objective Maximization of Monotone Submodular Functions with Cardinality Constraint.
+NIPS,nips2018,2018,Sanity Checks for Saliency Maps.
+NIPS,nips2018,2018,Probabilistic Model-Agnostic Meta-Learning.
+NIPS,nips2018,2018,Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach.
+NIPS,nips2018,2018,e-SNLI: Natural Language Inference with Natural Language Explanations.
+NIPS,nips2018,2018,Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis.
+NIPS,nips2018,2018,Learning convex bounds for linear quadratic control policy synthesis.
+NIPS,nips2018,2018,Neural Proximal Gradient Descent for Compressive Imaging.
+NIPS,nips2018,2018,Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation.
+NIPS,nips2018,2018,Optimal Algorithms for Continuous Non-monotone Submodular and DR-Submodular Maximization.
+NIPS,nips2018,2018,An intriguing failing of convolutional neural networks and the CoordConv solution.
+NIPS,nips2018,2018,Trading robust representations for sample complexity through self-supervised visual experience.
+NIPS,nips2018,2018,Invertibility of Convolutional Generative Networks from Partial Measurements.
+NIPS,nips2018,2018,Ex ante coordination and collusion in zero-sum multi-player extensive-form games.
+NIPS,nips2018,2018,Multi-Agent Reinforcement Learning via Double Averaging Primal-Dual Optimization.
+NIPS,nips2018,2018,Improving Online Algorithms via ML Predictions.
+NIPS,nips2018,2018,Global Non-convex Optimization with Discretized Diffusions.
+NIPS,nips2018,2018,Theoretical guarantees for EM under misspecified Gaussian mixture models.
+NIPS,nips2018,2018,Coupled Variational Bayes via Optimization Embedding.
+NIPS,nips2018,2018,Improving Explorability in Variational Inference with Annealed Variational Objectives.
+NIPS,nips2018,2018,Latent Alignment and Variational Attention.
+NIPS,nips2018,2018,Towards Deep Conversational Recommendations.
+NIPS,nips2018,2018,Unsupervised Depth Estimation, 3D Face Rotation and Replacement.
+NIPS,nips2018,2018,Generalization Bounds for Uniformly Stable Algorithms.
+NIPS,nips2018,2018,Deep Anomaly Detection Using Geometric Transformations.
+NIPS,nips2018,2018,Large Scale computation of Means and Clusters for Persistence Diagrams using Optimal Transport.
+NIPS,nips2018,2018,Entropy Rate Estimation for Markov Chains with Large State Space.
+NIPS,nips2018,2018,Adaptive Methods for Nonconvex Optimization.
+NIPS,nips2018,2018,Object-Oriented Dynamics Predictor.
+NIPS,nips2018,2018,Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models.
+NIPS,nips2018,2018,Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation.
+NIPS,nips2018,2018,Reinforcement Learning for Solving the Vehicle Routing Problem.
+NIPS,nips2018,2018,ATOMO: Communication-efficient Learning via Atomic Sparsification.
+NIPS,nips2018,2018,Dynamic Network Model from Partial Observations.
+NIPS,nips2018,2018,Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies.
+NIPS,nips2018,2018,Maximizing acquisition functions for Bayesian optimization.
+NIPS,nips2018,2018,On Markov Chain Gradient Descent.
+NIPS,nips2018,2018,Variance-Reduced Stochastic Gradient Descent on Streaming Data.
+NIPS,nips2018,2018,Online Robust Policy Learning in the Presence of Unknown Adversaries.
+NIPS,nips2018,2018,Uplift Modeling from Separate Labels.
+NIPS,nips2018,2018,Learning Invariances using the Marginal Likelihood.
+NIPS,nips2018,2018,Non-delusional Q-learning and value-iteration.
+NIPS,nips2018,2018,Using Large Ensembles of Control Variates for Variational Inference.
+NIPS,nips2018,2018,Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization.
+NIPS,nips2018,2018,Learning to Reason with Third Order Tensor Products.
+NIPS,nips2018,2018,Memory Augmented Policy Optimization for Program Synthesis and Semantic Parsing.
+NIPS,nips2018,2018,Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams.
+NIPS,nips2018,2018,Neural Voice Cloning with a Few Samples.
+NIPS,nips2018,2018,Blind Deconvolutional Phase Retrieval via Convex Programming.
+NIPS,nips2018,2018,Scalable Laplacian K-modes.
+NIPS,nips2018,2018,A Retrieve-and-Edit Framework for Predicting Structured Outputs.
+NIPS,nips2018,2018,Testing for Families of Distributions via the Fourier Transform.
+NIPS,nips2018,2018,Thwarting Adversarial Examples: An L_0-Robust Sparse Fourier Transform.
+NIPS,nips2018,2018,Blockwise Parallel Decoding for Deep Autoregressive Models.
+NIPS,nips2018,2018,Low-Rank Tucker Decomposition of Large Tensors Using TensorSketch.
+NIPS,nips2018,2018,A Simple Cache Model for Image Recognition.
+NIPS,nips2018,2018,Clebsch-Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network.
+NIPS,nips2018,2018,Bayesian Nonparametric Spectral Estimation.
+NIPS,nips2018,2018,A Spectral View of Adversarially Robust Features.
+NIPS,nips2018,2018,Synaptic Strength For Convolutional Neural Network.
+NIPS,nips2018,2018,Human-in-the-Loop Interpretability Prior.
+NIPS,nips2018,2018,Learning To Learn Around A Common Mean.
+NIPS,nips2018,2018,Backpropagation with Callbacks: Foundations for Efficient and Expressive Differentiable Programming.
+NIPS,nips2018,2018,Learning with SGD and Random Features.
+NIPS,nips2018,2018,Total stochastic gradient algorithms and applications in reinforcement learning.
+NIPS,nips2018,2018,Glow: Generative Flow with Invertible 1x1 Convolutions.
+NIPS,nips2018,2018,Nonparametric Density Estimation under Adversarial Losses.
+NIPS,nips2018,2018,Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions.
+NIPS,nips2018,2018,Learning to Share and Hide Intentions using Information Regularization.
+NIPS,nips2018,2018,Predictive Approximate Bayesian Computation via Saddle Points.
+NIPS,nips2018,2018,Robustness of conditional GANs to noisy labels.
+NIPS,nips2018,2018,Robust Learning of Fixed-Structure Bayesian Networks.
+NIPS,nips2018,2018,Improving Simple Models with Confidence Profiles.
+NIPS,nips2018,2018,PCA of high dimensional random walks with comparison to neural network training.
+NIPS,nips2018,2018,Learning to Solve SMT Formulas.
+NIPS,nips2018,2018,Lifted Weighted Mini-Bucket.
+NIPS,nips2018,2018,Learning and Inference in Hilbert Space with Quantum Graphical Models.
+NIPS,nips2018,2018,Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound.
+NIPS,nips2018,2018,Adversarial Risk and Robustness: General Definitions and Implications for the Uniform Distribution.
+NIPS,nips2018,2018,Gaussian Process Prior Variational Autoencoders.
+NIPS,nips2018,2018,3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data.
+NIPS,nips2018,2018,Context-aware Synthesis and Placement of Object Instances.
+NIPS,nips2018,2018,Convex Elicitation of Continuous Properties.
+NIPS,nips2018,2018,Mesh-TensorFlow: Deep Learning for Supercomputers.
+NIPS,nips2018,2018,Learning Abstract Options.
+NIPS,nips2018,2018,Bounded-Loss Private Prediction Markets.
+NIPS,nips2018,2018,Temporal alignment and latent Gaussian process factor inference in population spike trains.
+NIPS,nips2018,2018,Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise.
+NIPS,nips2018,2018,Discretely Relaxing Continuous Variables for tractable Variational Inference.
+NIPS,nips2018,2018,Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior.
+NIPS,nips2018,2018,Diversity-Driven Exploration Strategy for Deep Reinforcement Learning.
+NIPS,nips2018,2018,Deep Generative Models with Learnable Knowledge Constraints.
+NIPS,nips2018,2018,The Sparse Manifold Transform.
+NIPS,nips2018,2018,Bayesian Structure Learning by Recursive Bootstrap.
+NIPS,nips2018,2018,Complex Gated Recurrent Neural Networks.
+NIPS,nips2018,2018,Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders.
+NIPS,nips2018,2018,Streamlining Variational Inference for Constraint Satisfaction Problems.
+NIPS,nips2018,2018,Fast deep reinforcement learning using online adjustments from the past.
+NIPS,nips2018,2018,Improved Network Robustness with Adversary Critic.
+NIPS,nips2018,2018,Regret Bounds for Online Portfolio Selection with a Cardinality Constraint.
+NIPS,nips2018,2018,Sketching Method for Large Scale Combinatorial Inference.
+NIPS,nips2018,2018,Connecting Optimization and Regularization Paths.
+NIPS,nips2018,2018,Fully Neural Network Based Speech Recognition on Mobile and Embedded Devices.
+NIPS,nips2018,2018,Understanding Regularized Spectral Clustering via Graph Conductance.
+NIPS,nips2018,2018,Data-Driven Clustering via Parameterized Lloyd's Families.
+NIPS,nips2018,2018,Learning Beam Search Policies via Imitation Learning.
+NIPS,nips2018,2018,Benefits of over-parameterization with EM.
+NIPS,nips2018,2018,Thermostat-assisted continuously-tempered Hamiltonian Monte Carlo for Bayesian learning.
+NIPS,nips2018,2018,Robust Subspace Approximation in a Stream.
+NIPS,nips2018,2018,Mean Field for the Stochastic Blockmodel: Optimization Landscape and Convergence Issues.
+NIPS,nips2018,2018,Analysis of Krylov Subspace Solutions of Regularized Non-Convex Quadratic Problems.
+NIPS,nips2018,2018,Autoconj: Recognizing and Exploiting Conjugacy Without a Domain-Specific Language.
+NIPS,nips2018,2018,DropBlock: A regularization method for convolutional networks.
+NIPS,nips2018,2018,Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger.
+NIPS,nips2018,2018,With Friends Like These, Who Needs Adversaries?
+NIPS,nips2018,2018,Decentralize and Randomize: Faster Algorithm for Wasserstein Barycenters.
+NIPS,nips2018,2018,Joint Autoregressive and Hierarchical Priors for Learned Image Compression.
+NIPS,nips2018,2018,Learning Temporal Point Processes via Reinforcement Learning.
+NIPS,nips2018,2018,Bias and Generalization in Deep Generative Models: An Empirical Study.
+NIPS,nips2018,2018,Fast and Effective Robustness Certification.
+NIPS,nips2018,2018,Support Recovery for Orthogonal Matching Pursuit: Upper and Lower bounds.
+NIPS,nips2018,2018,Differentially Private Change-Point Detection.
+NIPS,nips2018,2018,Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations.
+NIPS,nips2018,2018,Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions.
+NIPS,nips2018,2018,Smoothed Analysis of Discrete Tensor Decomposition and Assemblies of Neurons.
+NIPS,nips2018,2018,MixLasso: Generalized Mixed Regression via Convex Atomic-Norm Regularization.
+NIPS,nips2018,2018,Semidefinite relaxations for certifying robustness to adversarial examples.
+NIPS,nips2018,2018,Removing Hidden Confounding by Experimental Grounding.
+NIPS,nips2018,2018,Topkapi: Parallel and Fast Sketches for Finding Top-K Frequent Elements.
+NIPS,nips2018,2018,Contrastive Learning from Pairwise Measurements.
+NIPS,nips2018,2018,Point process latent variable models of larval zebrafish behavior.
+NIPS,nips2018,2018,Computationally and statistically efficient learning of causal Bayes nets using path queries.
+NIPS,nips2018,2018,Sparse PCA from Sparse Linear Regression.
+NIPS,nips2018,2018,Multiple Instance Learning for Efficient Sequential Data Classification on Resource-constrained Devices.
+NIPS,nips2018,2018,Transfer of Deep Reactive Policies for MDP Planning.
+NIPS,nips2018,2018,The Price of Fair PCA: One Extra dimension.
+NIPS,nips2018,2018,GroupReduce: Block-Wise Low-Rank Approximation for Neural Language Model Shrinking.
 NIPS,nips2017,2017,Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, 4-9 December 2017, Long Beach, CA, USA.
 NIPS,nips2017,2017,Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning.
 NIPS,nips2017,2017,Concentration of Multilinear Functions of the Ising Model with Applications to Network Data.

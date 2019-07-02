@@ -22,16 +22,17 @@ This project is used for get names of papers of CCf-A, and a simple search funct
 
 | Name | papers_lists | dblp link |status|
 |--------|--------|--------|--------|
-| CVPR |   [2018-1988](paper_list/cvpr_papers.txt)    | [link](http://dblp.uni-trier.de/db/conf/cvpr/)  [2018](https://github.com/kaluo-zZ/CVPR2018-papers) | OK |
+| CVPR |   [2019-1988](paper_list/cvpr_papers.txt)   | [link](http://dblp.uni-trier.de/db/conf/cvpr/) [cvpr2019](my_lists/cvpr2019.xlsx) | OK |
 | ICCV |   [2017-1988](paper_list/iccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/iccv/) | OK |
-| ECCV |   [2018-1990](paper_list/eccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/eccv/)  [2018](http://openaccess.thecvf.com/ECCV2018.py)| OK |
+| ECCV |   [2018-1990](paper_list/eccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/eccv/) | OK |
 | AAAI |   [2018-1980](paper_list/aaai_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/aaai/) | OK |
 | ICML |   [2018-1988](paper_list/icml_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/icml/) | OK  |
-| NIPS |   [2017-1988](paper_list/nips_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/nips/) | OK |
-| ACM MM |   [2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/) [2018](http://www.acmmm.org/2018/accepted-papers/)| OK |
+| NIPS |   [2018-1988](paper_list/nips_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/nips/) | OK |
+| ACM MM |   [2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/)| OK |
 | IJCAI |   [2018-1969](paper_list/ijcai_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/ijcai/) | OK  |
 
 *Journal*
+
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence
 - IJCV: International Journal of Computer Vision
 - TIP: IEEE Transactions on Image Processing
