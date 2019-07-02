@@ -1,4 +1,17 @@
-ACMMM,,2018,Text-to-image Synthesis via Symmetrical Distillation Networks
+CVPR,,2019,Shapes and Context: In-the-wild Image Synthesis & Manipulation
+CVPR,,2019,Semantic Image Synthesis with Spatially-Adaptive Normalization
+CVPR,,2019,Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis
+CVPR,,2019,Example-Guided Image Synthesis using Adversarial Networks with Genre Consistency
+CVPR,,2019,Shapes and Context: In-the-wild Image Synthesis & Manipulation
+CVPR,,2019,Semantic Image Synthesis with Spatially-Adaptive Normalization
+CVPR,,2019,Spatial Fusion GAN for Image Synthesis
+CVPR,,2019,Text Guided Person Image Synthesis
+CVPR,,2019,DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-image Synthesis
+CVPR,,2019,Non-Adversarial Image Synthesis with Generative Latent Nearest Neighbors
+CVPR,,2019,Conditional Adversarial Generative Flow for Controllable Image Synthesis
+CVPR,,2019,Disentangling Latent Hands for Image Synthesis and Pose Estimation
+CVPR,,2019,Object-driven Text-to-Image Synthesis via Adversarial Training
+ECCV,,2018,Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes
 CVPR,,2018,Unsupervised Person Image Synthesis in Arbitrary Poses
 CVPR,,2018,Multistage Adversarial Losses for Pose-Based Human Image Synthesis
 CVPR,,2018,Semi-parametric Image Synthesis
@@ -10,9 +23,12 @@ CVPR,,2018,TextureGAN: Controlling Deep Image Synthesis with Texture Patches
 CVPR,,2018,High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
 CVPR,,2018,Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis
 CVPR,,2018,Cross-View Image Synthesis using Conditional Generative Adversarial Nets
-ECCV,,2018,Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes
+ICLR,iclr2018,2018,PixelNN: Example-based Image Synthesis.
 TIP,,2018,Example-Based Image Synthesis via Randomized Patch-Matching.
 TIP,,2018,Region-Adaptive Deformable Registration of CT/MRI Pelvic Images via Learning-Based Image Synthesis.
+NIPS,nips2018,2018,IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis.
+NIPS,nips2018,2018,Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis.
+ACMMM,,2018,Text-to-image Synthesis via Symmetrical Distillation Networks
 CVPR,,2017,Scribbler: Controlling Deep Image Synthesis with Sketch and Color.
 ICCV,,2017,Photographic Image Synthesis with Cascaded Refinement Networks.
 ICCV,,2017,GANs for Biological Image Synthesis.

@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# talen@uestc 
+# 2019-07-02
 import glob
 import argparse
 import sys

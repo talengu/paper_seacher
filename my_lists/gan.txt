@@ -1,25 +1,65 @@
+CVPR,,2019,Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
+CVPR,,2019,CollaGAN: Collaborative GAN for Missing Image Data Imputation
+CVPR,,2019,Parallel Optimal Transport GAN
+CVPR,,2019,FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery
+CVPR,,2019,Max-Sliced Wasserstein Distance and its use for GANs
+CVPR,,2019,APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs
+CVPR,,2019,WarpGAN: Automatic Caricature Generation
+CVPR,,2019,GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction
+CVPR,,2019,SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints
+CVPR,,2019,MirrorGAN: Learning Text-to-image Generation by Redescription
+CVPR,,2019,Light Field Messaging with Deep Photographic Steganography
+CVPR,,2019,Predicting Future Frames using Retrospective Cycle GAN
+CVPR,,2019,Iterative Reorganization with Weak Spatial Constraints:Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning
+CVPR,,2019,OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations
+CVPR,,2019,Mask-Guided Portrait Editing with Conditional GANs
+CVPR,,2019,Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
+CVPR,,2019,CollaGAN: Collaborative GAN for Missing Image Data Imputation
+CVPR,,2019,Spatial Fusion GAN for Image Synthesis
+CVPR,,2019,STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing
+CVPR,,2019,Parallel Optimal Transport GAN
+CVPR,,2019,Reversible GANs for Memory-efficient Image-to-Image Translation
+CVPR,,2019,Detection based Defense against Adversarial Examples from the Steganalysis Point of View
+CVPR,,2019,KE-GAN: Knowledge Embedded Generative Adversarial Networks for Semi-Supervised Scene Parsing
+CVPR,,2019,DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-image Synthesis
+CVPR,,2019,SketchGAN: Joint Sketch Completion and Recognition with Generative Adversarial Network
+CVPR,,2019,RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion
+CVPR,,2019,StoryGAN: A Sequential Conditional GAN for Story Visualization
+CVPR,,2019,FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery
+CVPR,,2019,How to make a pizza: Learning a compositional layer-based GAN model
+CVPR,,2019,TraVeLGAN: Image-to-image Translation by Transformation Vector Learning
+CVPR,,2019,Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification
+CVPR,,2019,f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning
+CVPR,,2019,X2CT-GAN: Reconstructing CT from Biplanar X-Rays with Generative Adversarial Networks
+CVPR,,2019,Max-Sliced Wasserstein Distance and its use for GANs
+CVPR,,2019,APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs
+CVPR,,2019,WarpGAN: Automatic Caricature Generation
+CVPR,,2019,Adv-GAN: Generator Discriminator and Adversarial Attacker
+CVPR,,2019,R2GAN: Cross-modal Recipe Retrieval with Generative Adversarial Network
 TIP,,2019,Improved ArtGAN for Conditional Synthesis of Natural Image and Artwork.
 TIP,,2019,Gated-GAN: Adversarial Gated Networks for Multi-Collection Style Transfer.
 TIP,,2019,Online Data Organizer: Micro-Video Categorization by Structure-Guided Multimodal Dictionary Learning.
-AAAI,aaai2018,2018,MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment.
-AAAI,aaai2018,2018,On Organizing Online Soirees with Live Multi-Streaming.
-AAAI,aaai2018,2018,Incorporating GAN for Negative Sampling in Knowledge Representation Learning.
-AAAI,aaai2018,2018,Semi-Supervised Biomedical Translation With Cycle Wasserstein Regression GANs.
-AAAI,aaai2018,2018,GraphGAN: Graph Representation Learning With Generative Adversarial Nets.
-AAAI,aaai2018,2018,Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models.
-AAAI,aaai2018,2018,OptionGAN: Learning Joint Reward-Policy Options Using Generative Adversarial Inverse Reinforcement Learning.
-AAAI,aaai2018,2018,No Modes Left Behind: Capturing the Data Distribution Effectively Using GANs.
-AAAI,aaai2018,2018,ExprGAN: Facial Expression Editing With Controllable Expression Intensity.
-AAAI,aaai2018,2018,Hierarchical Nonlinear Orthogonal Adaptive-Subspace Self-Organizing Map Based Feature Extraction for Human Action Recognition.
-AAAI,aaai2018,2018,CMCGAN: A Uniform Framework for Cross-Modal Visual-Audio Mutual Generation.
-AAAI,aaai2018,2018,Spatio-Temporal Model for Wildlife Poaching Prediction Evaluated Through a Controlled Field Test in Uganda.
-AAAI,aaai2018,2018,Dialogue Generation With GAN.
-AAAI,aaai2018w,2018,Steganographic Internet of Things: Graph Topology Timing Channels.
-AAAI,aaai2018w,2018,Evaluation of Predictive Models for Wildlife Poaching Activity through Controlled Field Test in Uganda.
-ACMMM,,2018,EmotionGAN: Unsupervised Domain Adaptation for Learning Discrete Probability Distributions of Image Emotions
-ACMMM,,2018,BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
-ACMMM,,2018,ChipGAN: A Generative Adversarial Network for Chinese Ink Wash Painting Style Transfer
-ACMMM,,2018,GestureGAN for Hand Gesture-to-Gesture Translation in the Wild
+ECCV,,2018,Fictitious GAN: Training GANs with Historical Models
+ECCV,,2018,SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network
+ECCV,,2018,Recycle-GAN: Unsupervised Video Retargeting
+ECCV,,2018,Generative Semantic Manipulation with Mask-Contrasting GAN
+ECCV,,2018,ReenactGAN: Learning to Reenact Faces via Boundary Transfer
+ECCV,,2018,AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation
+ECCV,,2018,Sub-GAN: An Unsupervised Generative Model via Subspaces
+ECCV,,2018,ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes
+ECCV,,2018,Wasserstein Divergence for GANs
+ECCV,,2018,Semi-supervised FusedGAN for Conditional Image Generation
+ECCV,,2018,Attention-GAN for Object Transfiguration in Wild Images
+ECCV,,2018,Image Generation from Sketch Constraint Using Contextual GAN
+ECCV,,2018,How good is my GAN?
+ECCV,,2018,Dist-GAN: An Improved GAN using Distance Constraints
+ECCV,,2018,Attribute-Guided Face Generation Using Conditional CycleGAN
+ECCV,,2018,GANimation: Anatomically-aware Facial Animation from a Single Image
+ECCV,,2018,To learn image super-resolution use a GAN to learn how to do image degradation first
+ECCV,,2018,Transferring GANs: generating images from limited data
+ECCV,,2018,PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities
+ECCV,,2018,RefocusGAN: Scene Refocusing using a Single Image
+ECCV,,2018,ExplainGAN: Model Explanation via Decision Boundary Crossing Transformations
 CVPR,,2018,Person Transfer GAN to Bridge Domain Gap for Person Re-Identification
 CVPR,,2018,Multi-Content GAN for Few-Shot Font Style Transfer
 CVPR,,2018,GAGAN: Geometry Aware Generative Adverserial Networks
@@ -51,38 +91,57 @@ CVPR,,2018,ST-GAN: Spatial Transformer Generative Adversarial Networks for Image
 CVPR,,2018,ID-GAN: Learning a Symmetry Three-Player GAN for Identity-Preserving Face Synthesis
 CVPR,,2018,SO-Net: Self-Organizing Network for Point Cloud Analysis
 CVPR,,2018,Learning Face Age Progression: A Pyramid Architecture of GANs
-ECCV,,2018,Fictitious GAN: Training GANs with Historical Models
-ECCV,,2018,SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network
-ECCV,,2018,Recycle-GAN: Unsupervised Video Retargeting
-ECCV,,2018,Generative Semantic Manipulation with Mask-Contrasting GAN
-ECCV,,2018,ReenactGAN: Learning to Reenact Faces via Boundary Transfer
-ECCV,,2018,AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation
-ECCV,,2018,Sub-GAN: An Unsupervised Generative Model via Subspaces
-ECCV,,2018,ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes
-ECCV,,2018,Wasserstein Divergence for GANs
-ECCV,,2018,Semi-supervised FusedGAN for Conditional Image Generation
-ECCV,,2018,Attention-GAN for Object Transfiguration in Wild Images
-ECCV,,2018,Image Generation from Sketch Constraint Using Contextual GAN
-ECCV,,2018,How good is my GAN?
-ECCV,,2018,Dist-GAN: An Improved GAN using Distance Constraints
-ECCV,,2018,Attribute-Guided Face Generation Using Conditional CycleGAN
-ECCV,,2018,GANimation: Anatomically-aware Facial Animation from a Single Image
-ECCV,,2018,To learn image super-resolution use a GAN to learn how to do image degradation first
-ECCV,,2018,Transferring GANs: generating images from limited data
-ECCV,,2018,PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities
-ECCV,,2018,RefocusGAN: Scene Refocusing using a Single Image
-ECCV,,2018,ExplainGAN: Model Explanation via Decision Boundary Crossing Transformations
-ICML,icml2018,2018,Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data.
-ICML,icml2018,2018,MAGAN: Aligning Biological Manifolds.
-ICML,icml2018,2018,NetGAN: Generating Graphs via Random Walks.
-ICML,icml2018,2018,Mixed batches and symmetric discriminators for GAN training.
-ICML,icml2018,2018,On the Limitations of First-Order Approximation in GAN Dynamics.
-ICML,icml2018,2018,A Two-Step Computation of the Exact GAN Wasserstein Distance.
-ICML,icml2018,2018,Which Training Methods for GANs do actually Converge?
-ICML,icml2018,2018,Is Generator Conditioning Causally Related to GAN Performance?
-ICML,icml2018,2018,JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets.
-ICML,icml2018,2018,A Classification-Based Study of Covariate Shift in GAN Distributions.
-ICML,icml2018,2018,RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks.
+ICLR,iclr2018,2018,Progressive Growing of GANs for Improved Quality Stability and Variation.
+ICLR,iclr2018,2018,AmbientGAN: Generative models from lossy measurements.
+ICLR,iclr2018,2018,Improving GANs Using Optimal Transport.
+ICLR,iclr2018,2018,MaskGAN: Better Text Generation via Filling in the _______.
+ICLR,iclr2018,2018,MGAN: Training Generative Adversarial Nets with Multiple Generators.
+ICLR,iclr2018,2018,cGANs with Projection Discriminator.
+ICLR,iclr2018,2018,Demystifying MMD GANs.
+ICLR,iclr2018,2018,On the Discrimination-Generalization Tradeoff in GANs.
+ICLR,iclr2018,2018,Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks.
+ICLR,iclr2018,2018,GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets.
+ICLR,iclr2018,2018,Unsupervised Cipher Cracking Using Discrete GANs.
+ICLR,iclr2018,2018,Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models.
+ICLR,iclr2018,2018,Quantitatively Evaluating GANs With Divergences Proposed for Training.
+ICLR,iclr2018,2018,Improving GAN Training via Binarized Representation Entropy (BRE) Regularization.
+ICLR,iclr2018,2018,Do GANs learn the distribution? Some Theory and Empirics.
+ICLR,iclr2018,2018,Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step.
+ICLR,iclr2018,2018,CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training.
+ICLR,iclr2018,2018,Training Generative Adversarial Networks via Primal-Dual subgradient Methods: a Lagrangian Perspective on GaN.
+ICLR,iclr2018,2018,Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields.
+ICLR,iclr2018,2018,Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect.
+ICLR,iclr2018,2018,Boundary Seeking GANs.
+ICLR,iclr2018,2018,On the regularization of Wasserstein GANs.
+ICLR,iclr2018,2018,Training GANs with Optimism.
+ICLR,iclr2018,2018,Sobolev GAN.
+ICLR,iclr2018w,2018,Learning to Organize Knowledge with N-Gram Machines.
+ICLR,iclr2018w,2018,DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images.
+ICLR,iclr2018w,2018,3D-Scene-GAN: Three-dimensional Scene Reconstruction with Generative Adversarial Networks.
+ICLR,iclr2018w,2018,NAM - Unsupervised Cross-Domain Image Mapping without Cycles or GANs.
+ICLR,iclr2018w,2018,ComboGAN: Unrestricted Scalability for Image Domain Translation.
+ICLR,iclr2018w,2018,Synthesizing Audio with GANs.
+ICLR,iclr2018w,2018,eCommerceGAN: A Generative Adversarial Network for e-commerce.
+ICLR,iclr2018w,2018,Hockey-Stick GAN.
+ICLR,iclr2018w,2018,Iterative GANs for Rotating Visual Objects.
+ICLR,iclr2018w,2018,Selecting the Best in GANs Family: a Post Selection Inference Framework.
+ICLR,iclr2018w,2018,Semi-Supervised Learning With GANs: Revisiting Manifold Regularization.
+TIP,,2018,Multi-Organ Plant Classification Based on Convolutional and Recurrent Neural Networks.
+AAAI,aaai2018,2018,MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment.
+AAAI,aaai2018,2018,On Organizing Online Soirees with Live Multi-Streaming.
+AAAI,aaai2018,2018,Incorporating GAN for Negative Sampling in Knowledge Representation Learning.
+AAAI,aaai2018,2018,Semi-Supervised Biomedical Translation With Cycle Wasserstein Regression GANs.
+AAAI,aaai2018,2018,GraphGAN: Graph Representation Learning With Generative Adversarial Nets.
+AAAI,aaai2018,2018,Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models.
+AAAI,aaai2018,2018,OptionGAN: Learning Joint Reward-Policy Options Using Generative Adversarial Inverse Reinforcement Learning.
+AAAI,aaai2018,2018,No Modes Left Behind: Capturing the Data Distribution Effectively Using GANs.
+AAAI,aaai2018,2018,ExprGAN: Facial Expression Editing With Controllable Expression Intensity.
+AAAI,aaai2018,2018,Hierarchical Nonlinear Orthogonal Adaptive-Subspace Self-Organizing Map Based Feature Extraction for Human Action Recognition.
+AAAI,aaai2018,2018,CMCGAN: A Uniform Framework for Cross-Modal Visual-Audio Mutual Generation.
+AAAI,aaai2018,2018,Spatio-Temporal Model for Wildlife Poaching Prediction Evaluated Through a Controlled Field Test in Uganda.
+AAAI,aaai2018,2018,Dialogue Generation With GAN.
+AAAI,aaai2018w,2018,Steganographic Internet of Things: Graph Topology Timing Channels.
+AAAI,aaai2018w,2018,Evaluation of Predictive Models for Wildlife Poaching Activity through Controlled Field Test in Uganda.
 IJCAI,ijcai2018,2018,MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation.
 IJCAI,ijcai2018,2018,Dual Conditional GANs for Face Aging and Rejuvenation.
 IJCAI,ijcai2018,2018,CR-GAN: Learning Complete Representations for Multi-view Generation.
@@ -100,14 +159,38 @@ IJCAI,madima2018,2018,SRGAN for super-resolving low-resolution food images.
 IJCAI,madima2018,2018,Food category transfer with conditional cycleGAN and a large-scale food image dataset.
 IJCAI,madima2018,2018,Food image generation using a large amount of food images with conditional GAN: ramenGAN and recipeGAN.
 IJCAI,aih2018,2018,Proceedings of the First Joint Workshop on AI in Health organized as part of the Federated AI Meeting (FAIM 2018) co-located with AAMAS 2018 ICML 2018 IJCAI 2018 and ICCBR 2018 Stockholm Sweden July 13-14 2018.
-TIP,,2018,Multi-Organ Plant Classification Based on Convolutional and Recurrent Neural Networks.
-AAAI,aaai2017,2017,Contextual RNN-GANs for Abstract Reasoning Diagram Generation.
-AAAI,aaai2017,2017,Personalized Donor-Recipient Matching for Organ Transplantation.
-AAAI,aaai2017,2017,SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.
-AAAI,aaai2017,2017,Leveraging Saccades to Learn Smooth Pursuit: A Self-Organizing Motion Tracking Model Using Restricted Boltzmann Machines.
-ACMMM,mm2017,2017,Region-based Activity Recognition Using Conditional GAN.
-ACMMM,mm2017,2017,Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN.
-ACMMM,mm2017,2017,Deep Supervised Quantization by Self-Organizing Map.
+NIPS,nips2018,2018,Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis.
+NIPS,nips2018,2018,Are GANs Created Equal? A Large-Scale Study.
+NIPS,nips2018,2018,KDGAN: Knowledge Distillation with Generative Adversarial Networks.
+NIPS,nips2018,2018,FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification.
+NIPS,nips2018,2018,PacGAN: The power of two samples in generative adversarial networks.
+NIPS,nips2018,2018,BourGAN: Generative Networks with Metric Embeddings.
+NIPS,nips2018,2018,MetaGAN: An Adversarial Approach to Few-Shot Learning.
+NIPS,nips2018,2018,BinGAN: Learning Compact Binary Descriptors with a Regularized GAN.
+NIPS,nips2018,2018,A Convex Duality Framework for GANs.
+NIPS,nips2018,2018,On GANs and GMMs.
+NIPS,nips2018,2018,Memory Replay GANs: Learning to Generate New Categories without Forgetting.
+NIPS,nips2018,2018,On gradient regularizers for MMD GANs.
+NIPS,nips2018,2018,Banach Wasserstein GAN.
+NIPS,nips2018,2018,Unorganized Malicious Attacks Detection.
+NIPS,nips2018,2018,On the Convergence and Robustness of Training GANs with Regularized Optimal Transport.
+NIPS,nips2018,2018,Learning Plannable Representations with Causal InfoGAN.
+NIPS,nips2018,2018,Robustness of conditional GANs to noisy labels.
+ACMMM,,2018,EmotionGAN: Unsupervised Domain Adaptation for Learning Discrete Probability Distributions of Image Emotions
+ACMMM,,2018,BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
+ACMMM,,2018,ChipGAN: A Generative Adversarial Network for Chinese Ink Wash Painting Style Transfer
+ACMMM,,2018,GestureGAN for Hand Gesture-to-Gesture Translation in the Wild
+ICML,icml2018,2018,Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data.
+ICML,icml2018,2018,MAGAN: Aligning Biological Manifolds.
+ICML,icml2018,2018,NetGAN: Generating Graphs via Random Walks.
+ICML,icml2018,2018,Mixed batches and symmetric discriminators for GAN training.
+ICML,icml2018,2018,On the Limitations of First-Order Approximation in GAN Dynamics.
+ICML,icml2018,2018,A Two-Step Computation of the Exact GAN Wasserstein Distance.
+ICML,icml2018,2018,Which Training Methods for GANs do actually Converge?
+ICML,icml2018,2018,Is Generator Conditioning Causally Related to GAN Performance?
+ICML,icml2018,2018,JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets.
+ICML,icml2018,2018,A Classification-Based Study of Covariate Shift in GAN Distributions.
+ICML,icml2018,2018,RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks.
 CVPR,,2017,Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation.
 CVPR,,2017,Disentangled Representation Learning GAN for Pose-Invariant Face Recognition.
 CVPR,,2017,Spatio-Temporal Self-Organizing Map Deep Network for Dynamic Object Detection from Videos.
@@ -116,6 +199,11 @@ CVPR,,2017,DeLiGAN: Generative Adversarial Networks for Diverse and Limited Data
 CVPR,W,2017,Infrared Image Colorization Based on a Triplet DCGAN Architecture.
 CVPR,W,2017,GaitGAN: Invariant Gait Feature Extraction Using Generative Adversarial Networks.
 CVPR,W,2017,DyadGAN: Generating Facial Expressions in Dyadic Interactions.
+ICLR,iclr2017,2017,Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses.
+ICLR,iclr2017,2017,LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation.
+ICLR,iclr2017w,2017,RenderGAN: Generating Realistic Labeled Data.
+ICLR,iclr2017w,2017,Training Triplet Networks with GAN.
+TIP,,2017,Comments on "Steganography Using Reversible Texture Synthesis".
 ICCV,,2017,Dual Motion GAN for Future-Flow Embedded Video Prediction.
 ICCV,,2017,GANs for Biological Image Synthesis.
 ICCV,,2017,Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis.
@@ -131,10 +219,10 @@ ICCV,W,2017,Max-Boost-GAN: Max Operation to Boost Generative Ability of Generati
 ICCV,W,2017,Doppelganger Mining for Face Representation Learning.
 ICCV,W,2017,ARIGAN: Synthetic Arabidopsis Plants Using Generative Adversarial Network.
 ICCV,W,2017,The Conditional Analogy GAN: Swapping Fashion Articles on People Images.
-ICML,icml2017,2017,Generalization and Equilibrium in Generative Adversarial Nets (GANs).
-ICML,icml2017,2017,Learning Texture Manifolds with the Periodic Spatial GAN.
-ICML,icml2017,2017,McGan: Mean and Covariance Feature Matching GAN.
-ICML,icml2017,2017,Conditional Image Synthesis with Auxiliary Classifier GANs.
+AAAI,aaai2017,2017,Contextual RNN-GANs for Abstract Reasoning Diagram Generation.
+AAAI,aaai2017,2017,Personalized Donor-Recipient Matching for Organ Transplantation.
+AAAI,aaai2017,2017,SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.
+AAAI,aaai2017,2017,Leveraging Saccades to Learn Smooth Pursuit: A Self-Organizing Motion Tracking Model Using Restricted Boltzmann Machines.
 IJCAI,ijcai2017,2017,Mechanisms for Online Organ Matching.
 NIPS,nips2017,2017,Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis.
 NIPS,nips2017,2017,f-GANs in an Information Geometric Nutshell.
@@ -155,4 +243,10 @@ NIPS,nips2017,2017,Improved Training of Wasserstein GANs.
 NIPS,nips2017,2017,Generalizing GANs: A Turing Perspective.
 NIPS,nips2017,2017,Good Semi-supervised Learning That Requires a Bad GAN.
 NIPS,nips2017,2017,GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.
-TIP,,2017,Comments on "Steganography Using Reversible Texture Synthesis".
+ACMMM,mm2017,2017,Region-based Activity Recognition Using Conditional GAN.
+ACMMM,mm2017,2017,Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN.
+ACMMM,mm2017,2017,Deep Supervised Quantization by Self-Organizing Map.
+ICML,icml2017,2017,Generalization and Equilibrium in Generative Adversarial Nets (GANs).
+ICML,icml2017,2017,Learning Texture Manifolds with the Periodic Spatial GAN.
+ICML,icml2017,2017,McGan: Mean and Covariance Feature Matching GAN.
+ICML,icml2017,2017,Conditional Image Synthesis with Auxiliary Classifier GANs.

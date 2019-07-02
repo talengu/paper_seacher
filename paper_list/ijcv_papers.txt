@@ -1,3 +1,51 @@
+IJCV,,2019,Structural Constraint Data Association for Online Multi-object Tracking.
+IJCV,,2019,An Approximate Shading Model with Detail Decomposition for Object Relighting.
+IJCV,,2019,Combining Multiple Cues for Visual Madlibs Question Answering.
+IJCV,,2019,Fast Diffeomorphic Image Registration via Fourier-Approximated Lie Algebras.
+IJCV,,2019,From BoW to CNN: Two Decades of Texture Representation for Texture Classification.
+IJCV,,2019,Appreciation to IJCV Reviewers of 2018.
+IJCV,,2019,Facial Landmark Detection: A Literature Survey.
+IJCV,,2019,Complete 3D Scene Parsing from an RGBD Image.
+IJCV,,2019,Equivalent Constraints for Two-View Geometry: Pose Solution/Pure Rotation Identification and 3D Reconstruction.
+IJCV,,2019,Group Collaborative Representation for Image Set Classification.
+IJCV,,2019,Efficiently Annotating Object Images with Absolute Size Information Using Mobile Devices.
+IJCV,,2019,Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection.
+IJCV,,2019,Context-Based Path Prediction for Targets with Switching Dynamics.
+IJCV,,2019,Pointly-Supervised Action Localization.
+IJCV,,2019,Learning to Segment Moving Objects.
+IJCV,,2019,Semantic Understanding of Scenes Through the ADE20K Dataset.
+IJCV,,2019,Superpixel-Guided Two-View Deterministic Geometric Model Fitting.
+IJCV,,2019,Second-order Temporal Pooling for Action Recognition.
+IJCV,,2019,Leveraging Prior-Knowledge for Weakly Supervised Object Detection Under a Collaborative Self-Paced Curriculum Learning Framework.
+IJCV,,2019,Fusing Visual and Inertial Sensors with Semantics for 3D Human Pose Estimation.
+IJCV,,2019,Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering.
+IJCV,,2019,Robust and Optimal Registration of Image Sets and Structured Scenes via Sum-of-Squares Polynomials.
+IJCV,,2019,Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling.
+IJCV,,2019,Understanding Image Representations by Measuring Their Equivariance and Equivalence.
+IJCV,,2019,Kernel Cuts: Kernel and Spectral Clustering Meet Regularization.
+IJCV,,2019,Locality Preserving Matching.
+IJCV,,2019,Editorial: Special Issue on Deep Learning for Face Analysis.
+IJCV,,2019,Single-Shot Scale-Aware Network for Real-Time Face Detection.
+IJCV,,2019,Hierarchical Attention for Part-Aware Face Detection.
+IJCV,,2019,Real-Time 3D Head Pose Tracking Through 2.5D Constrained Local Models with Local Neural Fields.
+IJCV,,2019,The Menpo Benchmark for Multi-pose 2D and 3D Facial Landmark Localisation and Tracking.
+IJCV,,2019,Face Mask Extraction in Video Sequence.
+IJCV,,2019,Face-Specific Data Augmentation for Unconstrained Face Recognition.
+IJCV,,2019,A Comprehensive Study on Center Loss for Deep Face Recognition.
+IJCV,,2019,Large-Scale Bisample Learning on ID Versus Spot Face Recognition.
+IJCV,,2019,Learning Discriminative Aggregation Network for Video-Based Face Recognition and Person Re-identification.
+IJCV,,2019,Detecting and Mitigating Adversarial Perturbations for Robust Face Recognition.
+IJCV,,2019,An Adversarial Neuro-Tensorial Approach for Learning Disentangled Representations.
+IJCV,,2019,Wavelet Domain Generative Adversarial Network for Multi-scale Face Hallucination.
+IJCV,,2019,Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement.
+IJCV,,2019,Motion Deblurring of Faces.
+IJCV,,2019,Disentangling Geometry and Appearance with Regularised Geometry-Aware Generative Adversarial Networks.
+IJCV,,2019,Synthesis of High-Quality Visible Faces from Polarimetric Thermal Faces using Generative Adversarial Networks.
+IJCV,,2019,Identity-Preserving Face Recovery from Stylized Portraits.
+IJCV,,2019,Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning.
+IJCV,,2019,Deep Affect Prediction in-the-Wild: Aff-Wild Database and Challenge, Deep Architectures, and Beyond.
+IJCV,,2019,Deep, Landmark-Free FAME: Face Alignment, Modeling, and Expression Estimation.
+IJCV,,2019,Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning.
 IJCV,,2018,Learning to Detect Good 3D Keypoints.
 IJCV,,2018,Baseline and Triangulation Geometry in a Standard Plenoptic Camera.
 IJCV,,2018,Graph-Based Slice-to-Volume Deformable Registration.
@@ -44,6 +92,37 @@ IJCV,,2018,Robust Detection and Affine Rectification of Planar Homogeneous Textu
 IJCV,,2018,Semi-supervised Region Metric Learning for Person Re-identification.
 IJCV,,2018,Multi-label Learning with Missing Labels Using Mixed Dependency Graphs.
 IJCV,,2018,Correction to: Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups.
+IJCV,,2018,The Reasonable Effectiveness of Synthetic Visual Data.
+IJCV,,2018,Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications.
+IJCV,,2018,Configurable 3D Scene Synthesis and 2D Image Rendering with Per-pixel Ground Truth Using Stochastic Grammars.
+IJCV,,2018,What Makes Good Synthetic Training Data for Learning Disparity and Optical Flow Estimation?
+IJCV,,2018,Augmented Reality Meets Computer Vision: Efficient Data Generation for Urban Driving Scenes.
+IJCV,,2018,Semantic Foggy Scene Understanding with Synthetic Data.
+IJCV,,2018,Image-Based Synthesis for Deep 3D Human Pose Estimation.
+IJCV,,2018,3D Interpreter Networks for Viewer-Centered Wireframe Modeling.
+IJCV,,2018,Synthesizing a Scene-Specific Pedestrian Detector and Pose Estimator for Static Video Surveillance - Can We Learn Pedestrian Detectors and Pose Estimators Without Real Data?
+IJCV,,2018,Virtual Training for a Real Application: Accurate Object-Robot Relative Localization Without Calibration.
+IJCV,,2018,Editor's Note: Special Issue on Novel Representations and Learning Methods in Computer Vision.
+IJCV,,2018,Focal Flow: Velocity and Depth from Differential Defocus Through Motion.
+IJCV,,2018,Top-Down Neural Attention by Excitation Backprop.
+IJCV,,2018,RED-Net: A Recurrent Encoder-Decoder Network for Video-Based Face Alignment.
+IJCV,,2018,Learning Sight from Sound: Ambient Sound Provides Supervision for Visual Learning.
+IJCV,,2018,None
+IJCV,,2018,On Unifying Multi-view Self-Representations for Clustering by Tensor Multi-rank Minimization.
+IJCV,,2018,Depth-Based Hand Pose Estimation: Methods, Data, and Challenges.
+IJCV,,2018,Artistic Style Transfer for Videos and Spherical Images.
+IJCV,,2018,Elastic Alignment of Triangular Surface Meshes.
+IJCV,,2018,Joint Contour Filtering.
+IJCV,,2018,Editorial: Special Issue on Machine Vision.
+IJCV,,2018,Occlusion-Aware 3D Morphable Models and an Illumination Prior for Face Image Analysis.
+IJCV,,2018,Person Re-identification in Identity Regression Space.
+IJCV,,2018,Deep Sign: Enabling Robust Statistical Continuous Sign Language Recognition via Hybrid CNN-HMMs.
+IJCV,,2018,Learning Latent Representations of 3D Human Pose with Deep Neural Networks.
+IJCV,,2018,Combining Shape from Shading and Stereo: A Joint Variational Method for Estimating Depth, Illumination and Albedo.
+IJCV,,2018,Feedback and Surround Modulated Boundary Detection.
+IJCV,,2018,Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation.
+IJCV,,2018,EMVS: Event-Based Multi-View Stereo - 3D Reconstruction with an Event Camera in Real-Time.
+IJCV,,2018,Describing Upper-Body Motions Based on Labanotation for Learning-from-Observation Robots.
 IJCV,,2017,Appreciation to IJCV Reviewers of 2016.
 IJCV,,2017,Spatially Coherent Interpretations of Videos Using Pattern Theory.
 IJCV,,2017,A Unified Framework for Compositional Fitting of Active Appearance Models.

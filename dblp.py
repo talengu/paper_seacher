@@ -18,8 +18,17 @@ http://history.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2903940690320
 from downers.downer import main as downloader
 
 if __name__ == "__main__":
-    downloader(name='nips',
-               main_page_url='https://dblp.uni-trier.de/db/conf/nips/',
-               isjournal=False)
+    # downloader(name='pami',
+    #            main_page_url='https://dblp.uni-trier.de/db/journals/pami/',
+    #            isjournal=True)
+    downloader(name='ijcv',
+               main_page_url='https://dblp.uni-trier.de/db/journals/ijcv/',
+               isjournal=True)
+    # downloader(name='iclr',
+    #            main_page_url='https://dblp.uni-trier.de/db/conf/iclr/',
+    #            isjournal=False)
+
+               
+
 
 

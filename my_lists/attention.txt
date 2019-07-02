@@ -1,7 +1,150 @@
+CVPR,,2019,Attention-based Dropout Layer for Weakly Supervised Object Localization
+CVPR,,2019,Progressive Pose Attention Transfer for Person Image Generation
+CVPR,,2019,Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
+CVPR,,2019,Dynamic Fusion with Intra- and Inter-modality Attention Flow for Visual Question Answering
+CVPR,,2019,Recursive Visual Attention in Visual Dialog
+CVPR,,2019,Shifting More Attention to Video Salient Object Detection
+CVPR,,2019,Attention Branch Network: Learning of Attention Mechanism for Visual Explanation
+CVPR,,2019,Second-order Attention Network for Single Image Super-resolution
+CVPR,,2019,Visual Attention Consistency under Image Transforms for Multi-label Image Classification
+CVPR,,2019,An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition
+CVPR,,2019,PAGE-Net: Salient Object Detection with Pyramid Attention and Salient Edge
+CVPR,,2019,Attention-aware Multi-stroke Style Transfer
+CVPR,,2019,Attention-guided Network for Ghost-free High Dynamic Range Imaging
+CVPR,,2019,End-to-End Multi-Task Learning with Attention
+CVPR,,2019,Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing
+CVPR,,2019,Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks
+CVPR,,2019,Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering
+CVPR,,2019,Factor Graph Attention
+CVPR,,2019,Hybrid-Attention based Decoupled Embedding Learning for Zero-Shot Image Retrieval
+CVPR,,2019,Attention-based Dropout Layer for Weakly Supervised Object Localization
+CVPR,,2019,Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks
+CVPR,,2019,Learning Unsupervised Video Object Segmentation through Visual Attention
+CVPR,,2019,Dual Attention Network for Scene Segmentation
+CVPR,,2019,ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding
+CVPR,,2019,Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling
+CVPR,,2019,See More Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks
+CVPR,,2019,Progressive Pose Attention Transfer for Person Image Generation
+CVPR,,2019,Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
+CVPR,,2019,Emotion-Aware Human Attention Prediction
+CVPR,,2019,Pay attention! - Robustifying a Deep Visuomotor Policy through Task-Focused Visual Attention
+CVPR,,2019,Looking for the devil in the details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition
+CVPR,,2019,Arbitrary Style Transfer with Style-Attentional Network​s
+CVPR,,2019,Deep Modular Co-Attention Networks for Visual Question Answering
+CVPR,,2019,Attention-guided Unified Network for Panoptic Segmentation
+CVPR,,2019,Towards Universal Object Detection by Domain Attention
+CVPR,,2019,The Pros and Cons: Rank-aware Temporal Attention for Skill Determination in Long Videos
+CVPR,,2019,Depth-attentional Features for Single-image Rain Removal
+CVPR,,2019,Dynamic Fusion with Intra- and Inter-modality Attention Flow for Visual Question Answering
+CVPR,,2019,Recursive Visual Attention in Visual Dialog
+CVPR,,2019,Progressive Attention Memory Network for Movie Story Question Answering
+CVPR,,2019,Attention-based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions
+CVPR,,2019,Object detection with location-aware deformable convolution and backward attention filtering
+CVPR,,2019,LSTA: Long Short-Term Attention for Egocentric Action Recognition
+CVPR,,2019,Graph Attention Convolution for Point Cloud Segmentation
+CVPR,,2019,Cross-Modal Self-Attention Network for Referring Image Segmentation
+CVPR,,2019,Shifting More Attention to Video Salient Object Detection
+CVPR,,2019,Attention Based Glaucoma Detection: A Large-scale Database and CNN Model
+CVPR,,2019,Attention Branch Network: Learning of Attention Mechanism for Visual Explanation
+CVPR,,2019,Second-order Attention Network for Single Image Super-resolution
+CVPR,,2019,Learning Parallax Attention for Stereo Image Super-Resolution
+CVPR,,2019,PCAN:Learning Attention Map Using Contextual Information for Point Cloud Based Retrieval
+IJCV,,2019,Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection.
+IJCV,,2019,Hierarchical Attention for Part-Aware Face Detection.
 TIP,,2019,Attention CoupleNet: Fully Convolutional Attention Coupling Network for Object Detection.
 TIP,,2019,SeqViews2SeqLabels: Learning 3D Global Features via Aggregating Sequential Views by RNN With Attention.
 TIP,,2019,Cross-Modal Attentional Context Learning for RGB-D Object Detection.
 TIP,,2019,Bi-Directional Spatial-Semantic Attention Networks for Image-Text Matching.
+PAMI,,2019,A Deep Network Solution for Attention and Aesthetics Aware Photo Cropping.
+PAMI,,2019,Predicting the Driver's Focus of Attention: The DR(eye)VE Project.
+ECCV,,2018,Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation
+ECCV,,2018,CBAM: Convolutional Block Attention Module
+ECCV,,2018,Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
+ECCV,,2018,Boosted Attention: Leveraging Human Attention for Image Captioning
+ECCV,,2018,Reverse Attention for Salient Object Detection
+ECCV,,2018,PSANet: Point-wise Spatial Attention Network for Scene Parsing
+ECCV,,2018,Fine-grained Video Categorization with Redundancy Reduction Attention
+ECCV,,2018,Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+ECCV,,2018,Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization
+ECCV,,2018,Dependency-aware Attention Control for Unconstrained Face Recognition with Image Sets
+ECCV,,2018,Online Multi-Object Tracking with Dual Matching Attention Networks
+ECCV,,2018,Connecting Gaze Scene and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency
+ECCV,,2018,Attention-aware Deep Adversarial Hashing for Cross-Modal Retrieval
+ECCV,,2018,Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment
+ECCV,,2018,Multimodal Dual Attention Memory for Video Story Question Answering
+ECCV,,2018,AGIL: Learning Attention from Human for Visuomotor Tasks
+ECCV,,2018,Deep Imbalanced Attribute Classification using Visual Attention Aggregation
+ECCV,,2018,Attention-based Ensemble for Deep Metric Learning
+ECCV,,2018,Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition
+ECCV,,2018,Deep Attention Neural Tensor Network for Visual Question Answering
+ECCV,,2018,Pairwise Body-Part Attention for Recognizing Human-Object Interactions
+ECCV,,2018,Attention-GAN for Object Transfiguration in Wild Images
+ECCV,,2018,Egocentric Activity Prediction via Event Modulated Attention
+ECCV,,2018,Question Type Guided Attention in Visual Question Answering
+ECCV,,2018,Reinforced Temporal Attention and Split-Rate Transfer for Depth-Based Person Re-Identification
+ECCV,,2018,Stacked Cross Attention for Image-Text Matching
+ECCV,,2018,DeepPhys: Video-Based Physiological Measurement Using Convolutional Attention Networks
+ECCV,,2018,Interaction-aware Spatio-temporal Pyramid Attention Networks for Action Classification
+ECCV,,2018,Attend and Rectify: a gated attention mechanism for fine-grained recovery
+ECCV,,2018,Learning Visual Question Answering by Bootstrapping Hard Attention
+ECCV,,2018,``Factual'' or ``Emotional'': Stylized Image Captioning with Adaptive Learning and Attention
+ECCV,,2018,Single Image Water Hazard Detection using FCN with Reflection Attention Units
+ECCV,,2018,Multi-Attention Multi-Class Constraint for Fine-grained Image Recognition
+ECCV,,2018,Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection
+ECCV,,2018,Mancs: A Multi-task Attentional Network with Curriculum Sampling for Person Re-identification
+ECCV,,2018,Generative Adversarial Network with Spatial Attention for Face Attribute Editing
+CVPR,,2018,Mask-guided Contrastive Attention Model for Person Re-Identification
+CVPR,,2018,Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking
+CVPR,,2018,End-to-end Flow Correlation Tracking with Spatial-temporal Attention
+CVPR,,2018,MatNet: Modular Attention Network for Referring Expression Comprehension
+CVPR,,2018,Attention-aware Compositional Network for Person Re-Identification
+CVPR,,2018,Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
+CVPR,,2018,Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification
+CVPR,,2018,Dual Attention Matching Network for Context-Aware Feature Sequence based Person Re-Identification
+CVPR,,2018,AMNet: Memorability Estimation with Attention
+CVPR,,2018,DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation
+CVPR,,2018,Emotional Attention: A Study of Image Sentiment and Visual Attention
+CVPR,,2018,Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries
+CVPR,,2018,Inferring Co-Attention in Social Scene Videos
+CVPR,,2018,Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification
+CVPR,,2018,An End-to-End TextSpotter with Explicit Alignment and Attention
+CVPR,,2018,Harmonious Attention Network for Person Re-Identication
+CVPR,,2018,Fully Convolutional Attention Network for Multimodal Reasoning
+CVPR,,2018,Tell Me Where To Look: Guided Attention Inference Network
+CVPR,,2018,Fooling Vision and Language Models Despite Localization and Attention Mechanism
+CVPR,,2018,Answer with Grounding Snippets: Focal Visual-Text Attention for Visual Question Answering
+CVPR,,2018,Progressive Attention Guided Recurrent Network for Salient Object Detection
+CVPR,,2018,Going from Image to Video Saliency: Augmenting Image Salience with Dynamic Attentional Push
+CVPR,,2018,Where and Why Are They Looking? Jointly Inferring Human Attention and Intentions in Complex Tasks
+CVPR,,2018,Differential Attention for Visual Question Answering
+CVPR,,2018,Generative Image Inpainting with Contextual Attention
+CVPR,,2018,Attentional ShapeContextNet for Point Cloud Recognition
+CVPR,,2018,Improved Fusion of Visual and Language Representations by Dense Symmetric Co-Attention for Visual Question Answering
+CVPR,,2018,DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Network
+CVPR,,2018,Hierarchical Recurrent Attention Networks for Structured Online Maps
+CVPR,,2018,PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection
+CVPR,,2018,Visual Grounding via Accumulated Attention
+CVPR,,2018,AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
+CVPR,,2018,Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
+CVPR,,2018,Occluded Pedestrian Detection through Guided Attention in CNNs
+IJCV,,2018,Top-Down Neural Attention by Excitation Backprop.
+ICLR,iclr2018,2018,Graph Attention Networks.
+ICLR,iclr2018,2018,QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.
+ICLR,iclr2018,2018,Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling.
+ICLR,iclr2018,2018,Learn to Pay Attention.
+ICLR,iclr2018,2018,Monotonic Chunkwise Attention.
+ICLR,iclr2018,2018,DCN+: Mixed Objective And Deep Residual Coattention for Question Answering.
+ICLR,iclr2018,2018,FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension.
+ICLR,iclr2018,2018,Compositional Attention Networks for Machine Reasoning.
+ICLR,iclr2018w,2018,Designing Efficient Neural Attention Systems Towards Achieving Human-level Sharp Vision.
+TIP,,2018,Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos.
+TIP,,2018,Object-Part Attention Model for Fine-Grained Image Classification.
+TIP,,2018,Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks.
+TIP,,2018,Deep Visual Attention Prediction.
+TIP,,2018,Spatio-Temporal Attention-Based LSTM Networks for 3D Action Recognition and Detection.
+TIP,,2018,A Better Way to Attend: Attention With Trees for Video Question Answering.
+TIP,,2018,Modality-Specific Cross-Modal Similarity Measurement With Recurrent Attention Network.
+PAMI,,2018,Tracking Gaze and Visual Focus of Attention of People Involved in Social Interaction.
 AAAI,aaai2018,2018,Attention-via-Attention Neural Machine Translation.
 AAAI,aaai2018,2018,A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.
 AAAI,aaai2018,2018,Attention-Based Transactional Context Embedding for Next-Item Recommendation.
@@ -40,95 +183,6 @@ AAAI,aaai2018,2018,Sentiment Lexicon Enhanced Attention-Based LSTM for Sentiment
 AAAI,aaai2018,2018,Path-Based Attention Neural Model for Fine-Grained Entity Typing.
 AAAI,aaai2018,2018,Learning Attention Model From Human for Visuomotor Tasks.
 AAAI,aaai2018w,2018,"Attention" for Detecting Unreliable News in the Information Age.
-ACMMM,,2018,Object-Difference Attention: A simple relational attention for Visual Question Answering
-ACMMM,,2018,Attention-based Pyramid Aggregation Network for Visual Place Recognition
-ACMMM,,2018,Twitter Sentiment Analysis via Bi-sense Emoji Embedding and Attention-based LSTM
-ACMMM,,2018,Attribute-Aware Attention Model for Fine-grained Representation Learning
-ACMMM,,2018,Attention-based Multi-Patch Aggregation for Image Aesthetic Assessment
-ACMMM,,2018,Attention and Language Ensemble for Scene Text Recognition with Convolutional Sequence Modeling
-ACMMM,,2018,Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach
-ACMMM,,2018,Mining Semantics-Preserving Attention for Group Activity Recognition
-ACMMM,,2018,CA3Net: Contextual-Attentional Attribute-Appearance Network for Person Re-Identification
-ACMMM,,2018,Multi-Scale Context Attention Network for Image Retrieval
-ACMMM,,2018,CSAN: Contextual Self-Attention Network for User Sequential Recommendation
-ACMMM,,2018,Visual Spatial Attention Network for Relationship Detection
-ACMMM,,2018,Learning Joint Multimodal Representation with Adversarial Attention Networks
-ACMMM,,2018,Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction
-ACMMM,,2018,Your Attention is Unique: Detecting 360-Degree Video Saliency in Head-Mounted Display for Head Movement Prediction
-ACMMM,,2018,Examine before You Answer: Multi-task Learning with Adaptive-attentions for Multiple-choice VQA
-CVPR,,2018,Mask-guided Contrastive Attention Model for Person Re-Identification
-CVPR,,2018,Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking
-CVPR,,2018,End-to-end Flow Correlation Tracking with Spatial-temporal Attention
-CVPR,,2018,MatNet: Modular Attention Network for Referring Expression Comprehension
-CVPR,,2018,Attention-aware Compositional Network for Person Re-Identification
-CVPR,,2018,Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
-CVPR,,2018,Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification
-CVPR,,2018,Dual Attention Matching Network for Context-Aware Feature Sequence based Person Re-Identification
-CVPR,,2018,AMNet: Memorability Estimation with Attention
-CVPR,,2018,DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation
-CVPR,,2018,Emotional Attention: A Study of Image Sentiment and Visual Attention
-CVPR,,2018,Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries
-CVPR,,2018,Inferring Co-Attention in Social Scene Videos
-CVPR,,2018,Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification
-CVPR,,2018,An End-to-End TextSpotter with Explicit Alignment and Attention
-CVPR,,2018,Harmonious Attention Network for Person Re-Identication
-CVPR,,2018,Fully Convolutional Attention Network for Multimodal Reasoning
-CVPR,,2018,Tell Me Where To Look: Guided Attention Inference Network
-CVPR,,2018,Fooling Vision and Language Models Despite Localization and Attention Mechanism
-CVPR,,2018,Answer with Grounding Snippets: Focal Visual-Text Attention for Visual Question Answering
-CVPR,,2018,Progressive Attention Guided Recurrent Network for Salient Object Detection
-CVPR,,2018,Going from Image to Video Saliency: Augmenting Image Salience with Dynamic Attentional Push
-CVPR,,2018,Where and Why Are They Looking? Jointly Inferring Human Attention and Intentions in Complex Tasks
-CVPR,,2018,Differential Attention for Visual Question Answering
-CVPR,,2018,Generative Image Inpainting with Contextual Attention
-CVPR,,2018,Attentional ShapeContextNet for Point Cloud Recognition
-CVPR,,2018,Improved Fusion of Visual and Language Representations by Dense Symmetric Co-Attention for Visual Question Answering
-CVPR,,2018,DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Network
-CVPR,,2018,Hierarchical Recurrent Attention Networks for Structured Online Maps
-CVPR,,2018,PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection
-CVPR,,2018,Visual Grounding via Accumulated Attention
-CVPR,,2018,AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
-CVPR,,2018,Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
-CVPR,,2018,Occluded Pedestrian Detection through Guided Attention in CNNs
-ECCV,,2018,Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation
-ECCV,,2018,CBAM: Convolutional Block Attention Module
-ECCV,,2018,Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
-ECCV,,2018,Boosted Attention: Leveraging Human Attention for Image Captioning
-ECCV,,2018,Reverse Attention for Salient Object Detection
-ECCV,,2018,PSANet: Point-wise Spatial Attention Network for Scene Parsing
-ECCV,,2018,Fine-grained Video Categorization with Redundancy Reduction Attention
-ECCV,,2018,Image Super-Resolution Using Very Deep Residual Channel Attention Networks
-ECCV,,2018,Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization
-ECCV,,2018,Dependency-aware Attention Control for Unconstrained Face Recognition with Image Sets
-ECCV,,2018,Online Multi-Object Tracking with Dual Matching Attention Networks
-ECCV,,2018,Connecting Gaze Scene and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency
-ECCV,,2018,Attention-aware Deep Adversarial Hashing for Cross-Modal Retrieval
-ECCV,,2018,Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment
-ECCV,,2018,Multimodal Dual Attention Memory for Video Story Question Answering
-ECCV,,2018,AGIL: Learning Attention from Human for Visuomotor Tasks
-ECCV,,2018,Deep Imbalanced Attribute Classification using Visual Attention Aggregation
-ECCV,,2018,Attention-based Ensemble for Deep Metric Learning
-ECCV,,2018,Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition
-ECCV,,2018,Deep Attention Neural Tensor Network for Visual Question Answering
-ECCV,,2018,Pairwise Body-Part Attention for Recognizing Human-Object Interactions
-ECCV,,2018,Attention-GAN for Object Transfiguration in Wild Images
-ECCV,,2018,Egocentric Activity Prediction via Event Modulated Attention
-ECCV,,2018,Question Type Guided Attention in Visual Question Answering
-ECCV,,2018,Reinforced Temporal Attention and Split-Rate Transfer for Depth-Based Person Re-Identification
-ECCV,,2018,Stacked Cross Attention for Image-Text Matching
-ECCV,,2018,DeepPhys: Video-Based Physiological Measurement Using Convolutional Attention Networks
-ECCV,,2018,Interaction-aware Spatio-temporal Pyramid Attention Networks for Action Classification
-ECCV,,2018,Attend and Rectify: a gated attention mechanism for fine-grained recovery
-ECCV,,2018,Learning Visual Question Answering by Bootstrapping Hard Attention
-ECCV,,2018,``Factual'' or ``Emotional'': Stylized Image Captioning with Adaptive Learning and Attention
-ECCV,,2018,Single Image Water Hazard Detection using FCN with Reflection Attention Units
-ECCV,,2018,Multi-Attention Multi-Class Constraint for Fine-grained Image Recognition
-ECCV,,2018,Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection
-ECCV,,2018,Mancs: A Multi-task Attentional Network with Curriculum Sampling for Person Re-identification
-ECCV,,2018,Generative Adversarial Network with Spatial Attention for Face Attribute Editing
-ICML,icml2018,2018,Attention-based Deep Multiple Instance Learning.
-ICML,icml2018,2018,Differentiable Dynamic Programming for Structured Prediction and Attention.
-ICML,icml2018,2018,Overcoming Catastrophic Forgetting with Hard Attention to the Task.
 IJCAI,ijcai2018,2018,Show Observe and Tell: Attribute-driven Attention Model for Image Captioning.
 IJCAI,ijcai2018,2018,Scanpath Prediction for Visual Attention using IOR-ROI LSTM.
 IJCAI,ijcai2018,2018,Co-attention CNNs for Unsupervised Object Co-segmentation.
@@ -162,43 +216,36 @@ IJCAI,ijcai2018,2018,Densely Connected CNN with Multi-scale Feature Attention fo
 IJCAI,ijcai2018,2018,Same Representation Different Attentions: Shareable Sentence Representation Learning from Multiple Tasks.
 IJCAI,ijcai2018,2018,Commonsense Knowledge Aware Conversation Generation with Graph Attention.
 IJCAI,caid2017,2018,Modeling Spatial Auditory Attention: Handling Equiprobable Attended Locations.
-TIP,,2018,Recurrent Spatial-Temporal Attention Network for Action Recognition in Videos.
-TIP,,2018,Object-Part Attention Model for Fine-Grained Image Classification.
-TIP,,2018,Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks.
-TIP,,2018,Deep Visual Attention Prediction.
-TIP,,2018,Spatio-Temporal Attention-Based LSTM Networks for 3D Action Recognition and Detection.
-TIP,,2018,A Better Way to Attend: Attention With Trees for Video Question Answering.
-TIP,,2018,Modality-Specific Cross-Modal Similarity Measurement With Recurrent Attention Network.
-AAAI,aaai2017,2017,Let Your Photos Talk: Generating Narrative Paragraph for Photo Stream via Bidirectional Attention Recurrent Neural Networks.
-AAAI,aaai2017,2017,Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions.
-AAAI,aaai2017,2017,Recurrent Attentional Topic Model.
-AAAI,aaai2017,2017,Deterministic Attention for Sequence-to-Sequence Constituent Parsing.
-AAAI,aaai2017,2017,Coherent Dialogue with Attention-Based Language Models.
-AAAI,aaai2017,2017,Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.
-AAAI,aaai2017,2017,BattRAE: Bidimensional Attention-Based Recursive Autoencoders for Learning Bilingual Phrase Embeddings.
-AAAI,aaai2017,2017,Image Caption with Global-Local Attention.
-AAAI,aaai2017,2017,Attention Correctness in Neural Image Captioning.
-AAAI,aaai2017,2017,Localizing by Describing: Attribute-Guided Attention Localization for Fine-Grained Recognition.
-AAAI,aaai2017,2017,Text-Guided Attention Model for Image Captioning.
-AAAI,aaai2017,2017,Title Learning Latent Subevents in Activity Videos Using Temporal Attention Filters.
-AAAI,aaai2017,2017,An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data.
-AAAI,aaai2017,2017,Attention Based LSTM for Target Dependent Sentiment Classification.
-AAAI,aaai2017w,2017,Multi-Focus Attention Network for Efficient Deep Reinforcement Learning.
-ACMMM,mm2017,2017,Attention Transfer from Web Images for Video Recognition.
-ACMMM,mm2017,2017,The Role of Visual Attention in Sentiment Prediction.
-ACMMM,mm2017,2017,Learning Multimodal Attention LSTM Networks for Video Captioning.
-ACMMM,mm2017,2017,Video Description with Spatial-Temporal Attention.
-ACMMM,mm2017,2017,Video Question Answering via Hierarchical Dual-Level Attention Network Learning.
-ACMMM,mm2017,2017,Multi-scale Context Based Attention for Dynamic Music Emotion Prediction.
-ACMMM,mm2017,2017,Video Question Answering via Gradually Refined Attention over Appearance and Motion.
-ACMMM,mm2017,2017,Cross-Domain Image Retrieval with Attention Modeling.
-ACMMM,mm2017,2017,Temporally Selective Attention Model for Social and Affective State Recognition in Multimedia Content.
-ACMMM,mm2017,2017,MANet: A Modal Attention Network for Describing Videos.
-ACMMM,tw2017,2017,Learning Deep Contextual Attention Network for Narrative Photo Stream Captioning.
-ACMMM,tw2017,2017,Watch What You Just Said: Image Captioning with Text-Conditional Attention.
-ACMMM,tw2017,2017,Generative Attention Model with Adversarial Self-learning for Visual Question Answering.
-ACMMM,tw2017,2017,Image Caption with Synchronous Cross-Attention.
-ACMMM,tw2017,2017,Learning Social Image Embedding with Deep Multimodal Attention Networks.
+NIPS,nips2018,2018,A^2-Nets: Double Attention Networks.
+NIPS,nips2018,2018,Self-Erasing Network for Integral Object Attention.
+NIPS,nips2018,2018,Uncertainty-Aware Attention for Reliable Interpretation and Prediction.
+NIPS,nips2018,2018,Bilinear Attention Networks.
+NIPS,nips2018,2018,Attention in Convolutional LSTM for Gesture Recognition.
+NIPS,nips2018,2018,Unsupervised Attention-guided Image-to-Image Translation.
+NIPS,nips2018,2018,Densely Connected Attention Propagation for Reading Comprehension.
+NIPS,nips2018,2018,Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning.
+NIPS,nips2018,2018,Learning Attentional Communication for Multi-Agent Cooperation.
+NIPS,nips2018,2018,Watch Your Step: Learning Node Embeddings via Graph Attention.
+NIPS,nips2018,2018,Latent Alignment and Variational Attention.
+ACMMM,,2018,Object-Difference Attention: A simple relational attention for Visual Question Answering
+ACMMM,,2018,Attention-based Pyramid Aggregation Network for Visual Place Recognition
+ACMMM,,2018,Twitter Sentiment Analysis via Bi-sense Emoji Embedding and Attention-based LSTM
+ACMMM,,2018,Attribute-Aware Attention Model for Fine-grained Representation Learning
+ACMMM,,2018,Attention-based Multi-Patch Aggregation for Image Aesthetic Assessment
+ACMMM,,2018,Attention and Language Ensemble for Scene Text Recognition with Convolutional Sequence Modeling
+ACMMM,,2018,Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach
+ACMMM,,2018,Mining Semantics-Preserving Attention for Group Activity Recognition
+ACMMM,,2018,CA3Net: Contextual-Attentional Attribute-Appearance Network for Person Re-Identification
+ACMMM,,2018,Multi-Scale Context Attention Network for Image Retrieval
+ACMMM,,2018,CSAN: Contextual Self-Attention Network for User Sequential Recommendation
+ACMMM,,2018,Visual Spatial Attention Network for Relationship Detection
+ACMMM,,2018,Learning Joint Multimodal Representation with Adversarial Attention Networks
+ACMMM,,2018,Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction
+ACMMM,,2018,Your Attention is Unique: Detecting 360-Degree Video Saliency in Head-Mounted Display for Head Movement Prediction
+ACMMM,,2018,Examine before You Answer: Multi-task Learning with Adaptive-attentions for Multiple-choice VQA
+ICML,icml2018,2018,Attention-based Deep Multiple Instance Learning.
+ICML,icml2018,2018,Differentiable Dynamic Programming for Structured Prediction and Attention.
+ICML,icml2018,2018,Overcoming Catastrophic Forgetting with Hard Attention to the Task.
 CVPR,,2017,End-to-End Instance Segmentation with Recurrent Attention.
 CVPR,,2017,Temporal Attention-Gated Model for Robust Sequence Classification.
 CVPR,,2017,Attention-Aware Face Hallucination via Deep Reinforcement Learning.
@@ -220,6 +267,17 @@ CVPR,,2017,Residual Attention Network for Image Classification.
 CVPR,W,2017,Attention-Based Natural Language Person Retrieval.
 CVPR,W,2017,Learning Dynamic GMM for Attention Distribution on Single-Face Videos.
 CVPR,W,2017,Temporally Steered Gaussian Attention for Video Understanding.
+ICLR,iclr2017,2017,Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer.
+ICLR,iclr2017,2017,Deep Biaffine Attention for Neural Dependency Parsing.
+ICLR,iclr2017,2017,Bidirectional Attention Flow for Machine Comprehension.
+ICLR,iclr2017,2017,Dynamic Coattention Networks For Question Answering.
+ICLR,iclr2017,2017,Structured Attention Networks.
+ICLR,iclr2017,2017,Frustratingly Short Attention Spans in Neural Language Modeling.
+ICLR,iclr2017,2017,Recurrent Mixture Density Network for Spatiotemporal Visual Attention.
+TIP,,2017,End-to-End Comparative Attention Networks for Person Re-Identification.
+TIP,,2017,Visual Attention Modeling for Stereoscopic Video: A Benchmark and Computational Model.
+TIP,,2017,Visual Attention Saccadic Models Learn to Emulate Gaze Patterns From Childhood to Adulthood.
+TIP,,2017,Unifying the Video and Question Attentions for Open-Ended Video Question Answering.
 ICCV,,2017,Multi-label Image Recognition by Recurrently Discovering Attentional Regions.
 ICCV,,2017,Areas of Attention for Image Captioning.
 ICCV,,2017,Structured Attentions for Visual Question Answering.
@@ -247,8 +305,22 @@ ICCV,W,2017,Dynamic Computational Time for Visual Attention.
 ICCV,W,2017,Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Videos.
 ICCV,W,2017,Spatial Attention Improves Object Localization: A Biologically Plausible Neuro-Computational Model for Use in Virtual Reality.
 ICCV,W,2017,Two-Stream Flow-Guided Convolutional Attention Networks for Action Recognition.
-ICML,icml2017,2017,Image-to-Markup Generation with Coarse-to-Fine Attention.
-ICML,icml2017,2017,Online and Linear-Time Attention by Enforcing Monotonic Alignments.
+PAMI,,2017,Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts.
+AAAI,aaai2017,2017,Let Your Photos Talk: Generating Narrative Paragraph for Photo Stream via Bidirectional Attention Recurrent Neural Networks.
+AAAI,aaai2017,2017,Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions.
+AAAI,aaai2017,2017,Recurrent Attentional Topic Model.
+AAAI,aaai2017,2017,Deterministic Attention for Sequence-to-Sequence Constituent Parsing.
+AAAI,aaai2017,2017,Coherent Dialogue with Attention-Based Language Models.
+AAAI,aaai2017,2017,Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.
+AAAI,aaai2017,2017,BattRAE: Bidimensional Attention-Based Recursive Autoencoders for Learning Bilingual Phrase Embeddings.
+AAAI,aaai2017,2017,Image Caption with Global-Local Attention.
+AAAI,aaai2017,2017,Attention Correctness in Neural Image Captioning.
+AAAI,aaai2017,2017,Localizing by Describing: Attribute-Guided Attention Localization for Fine-Grained Recognition.
+AAAI,aaai2017,2017,Text-Guided Attention Model for Image Captioning.
+AAAI,aaai2017,2017,Title Learning Latent Subevents in Activity Videos Using Temporal Attention Filters.
+AAAI,aaai2017,2017,An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data.
+AAAI,aaai2017,2017,Attention Based LSTM for Target Dependent Sentiment Classification.
+AAAI,aaai2017w,2017,Multi-Focus Attention Network for Efficient Deep Reinforcement Learning.
 IJCAI,ijcai2017,2017,Inferring Human Attention by Learning Latent Intentions.
 IJCAI,ijcai2017,2017,MAM-RNN: Multi-level Attention Model Based RNN for Video Captioning.
 IJCAI,ijcai2017,2017,Completely Heterogeneous Transfer Learning with Attention - What And What Not To Transfer.
@@ -275,8 +347,20 @@ NIPS,nips2017,2017,Learning Deep Structured Multi-Scale Features using Attention
 NIPS,nips2017,2017,Saliency-based Sequential Image Attention with Multiset Prediction.
 NIPS,nips2017,2017,Attention is All you Need.
 NIPS,nips2017,2017,Attend and Predict: Understanding Gene Regulation by Selective Attention on Chromatin.
-PAMI,,2017,Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts.
-TIP,,2017,End-to-End Comparative Attention Networks for Person Re-Identification.
-TIP,,2017,Visual Attention Modeling for Stereoscopic Video: A Benchmark and Computational Model.
-TIP,,2017,Visual Attention Saccadic Models Learn to Emulate Gaze Patterns From Childhood to Adulthood.
-TIP,,2017,Unifying the Video and Question Attentions for Open-Ended Video Question Answering.
+ACMMM,mm2017,2017,Attention Transfer from Web Images for Video Recognition.
+ACMMM,mm2017,2017,The Role of Visual Attention in Sentiment Prediction.
+ACMMM,mm2017,2017,Learning Multimodal Attention LSTM Networks for Video Captioning.
+ACMMM,mm2017,2017,Video Description with Spatial-Temporal Attention.
+ACMMM,mm2017,2017,Video Question Answering via Hierarchical Dual-Level Attention Network Learning.
+ACMMM,mm2017,2017,Multi-scale Context Based Attention for Dynamic Music Emotion Prediction.
+ACMMM,mm2017,2017,Video Question Answering via Gradually Refined Attention over Appearance and Motion.
+ACMMM,mm2017,2017,Cross-Domain Image Retrieval with Attention Modeling.
+ACMMM,mm2017,2017,Temporally Selective Attention Model for Social and Affective State Recognition in Multimedia Content.
+ACMMM,mm2017,2017,MANet: A Modal Attention Network for Describing Videos.
+ACMMM,tw2017,2017,Learning Deep Contextual Attention Network for Narrative Photo Stream Captioning.
+ACMMM,tw2017,2017,Watch What You Just Said: Image Captioning with Text-Conditional Attention.
+ACMMM,tw2017,2017,Generative Attention Model with Adversarial Self-learning for Visual Question Answering.
+ACMMM,tw2017,2017,Image Caption with Synchronous Cross-Attention.
+ACMMM,tw2017,2017,Learning Social Image Embedding with Deep Multimodal Attention Networks.
+ICML,icml2017,2017,Image-to-Markup Generation with Coarse-to-Fine Attention.
+ICML,icml2017,2017,Online and Linear-Time Attention by Enforcing Monotonic Alignments.

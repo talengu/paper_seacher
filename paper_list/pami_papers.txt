@@ -1,3 +1,130 @@
+PAMI,,2019,State of the Journal.
+PAMI,,2019,Atomic Representation-Based Classification: Theory, Algorithm, and Applications.
+PAMI,,2019,Color Homography: Theory and Applications.
+PAMI,,2019,CROification: Accurate Kernel Classification with the Efficiency of Sparse Linear SVM.
+PAMI,,2019,Dependence Models for Searching Text in Document Images.
+PAMI,,2019,Directional 3D Wavelet Transform Based on Gaussian Mixtures for the Analysis of 3D Ultrasound Ovarian Volumes.
+PAMI,,2019,Face Alignment in Full Pose Range: A 3D Total Solution.
+PAMI,,2019,From Images to 3D Shape Attributes.
+PAMI,,2019,Head and Body Orientation Estimation Using Convolutional Random Projection Forests.
+PAMI,,2019,HyperFace: A Deep Multi-Task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition.
+PAMI,,2019,Kernel Clustering: Density Biases and Solutions.
+PAMI,,2019,Large-Scale Image Geo-Localization Using Dominant Sets.
+PAMI,,2019,MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation.
+PAMI,,2019,Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans.
+PAMI,,2019,Panoptic Studio: A Massively Multiview System for Social Interaction Capture.
+PAMI,,2019,Probabilistic Dimensionality Reduction via Structure Learning.
+PAMI,,2019,Revisiting Superquadric Fitting: A Numerically Stable Formulation.
+PAMI,,2019,The Atlas Structure of Images.
+PAMI,,2019,Truncated Cauchy Non-Negative Matrix Factorization.
+PAMI,,2019,A Benchmark Dataset and Evaluation for Non-Lambertian and Uncalibrated Photometric Stereo.
+PAMI,,2019,Analysis of Spatio-Temporal Representations for Robust Footstep Recognition with Deep Residual Neural Networks.
+PAMI,,2019,Depth from a Light Field Image with Learning-Based Matching Costs.
+PAMI,,2019,Disambiguating Visual Verbs.
+PAMI,,2019,Dynamic Structure Embedded Online Multiple-Output Regression for Streaming Data.
+PAMI,,2019,Exploiting Negative Evidence for Deep Latent Structured Models.
+PAMI,,2019,None
+PAMI,,2019,Learning Multi-Task Correlation Particle Filters for Visual Tracking.
+PAMI,,2019,Learning Pose-Aware Models for Pose-Invariant Face Recognition in the Wild.
+PAMI,,2019,Learning Two-Branch Neural Networks for Image-Text Matching Tasks.
+PAMI,,2019,Metric Learning for Multi-Output Tasks.
+PAMI,,2019,Multimodal Machine Learning: A Survey and Taxonomy.
+PAMI,,2019,Multivariate Regression with Gross Errors on Manifold-Valued Data.
+PAMI,,2019,Online Localization and Prediction of Actions and Interactions.
+PAMI,,2019,Robust Structural Sparse Tracking.
+PAMI,,2019,Subspace Clustering by Block Diagonal Representation.
+PAMI,,2019,Upper and Lower Tight Error Bounds for Feature Omission with an Extension to Context Reduction.
+PAMI,,2019,Semi-Supervised Discriminative Classification Robust to Sample-Outliers and Feature-Noises.
+PAMI,,2019,A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets.
+PAMI,,2019,Constant-Time Calculation of Zernike Moments for Detection with Rotational Invariance.
+PAMI,,2019,Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling.
+PAMI,,2019,Evaluating the Group Detection Performance: The GRODE Metrics.
+PAMI,,2019,FCSS: Fully Convolutional Self-Similarity for Dense Semantic Correspondence.
+PAMI,,2019,Hierarchical Scene Parsing by Weakly Supervised Learning with Image Descriptions.
+PAMI,,2019,Improving Shadow Suppression for Illumination Robust Face Recognition.
+PAMI,,2019,Learning Hyperedge Replacement Grammars for Graph Generation.
+PAMI,,2019,Mixed Supervised Object Detection with Robust Objectness Transfer.
+PAMI,,2019,Recurrent Face Aging with Hierarchical AutoRegressive Memory.
+PAMI,,2019,Recursive Nearest Agglomeration (ReNA): Fast Clustering for Approximation of Structured Signals.
+PAMI,,2019,Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time.
+PAMI,,2019,Searching for Representative Modes on Hypergraphs for Robust Geometric Model Fitting.
+PAMI,,2019,Self Paced Deep Learning for Weakly Supervised Object Detection.
+PAMI,,2019,SurfCut: Surfaces of Minimal Paths from Topological Structures.
+PAMI,,2019,What Do Different Evaluation Metrics Tell Us About Saliency Models?
+PAMI,,2019,Compressive Binary Patterns: Designing a Robust Binary Face Descriptor with Random-Field Eigenfilters.
+PAMI,,2019,HARD-PnP: PnP Optimization Using a Hybrid Approximate Representation.
+PAMI,,2019,Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras.
+PAMI,,2019,Automated Latent Fingerprint Recognition.
+PAMI,,2019,Beyond Sharing Weights for Deep Domain Adaptation.
+PAMI,,2019,Deeply Supervised Salient Object Detection with Short Connections.
+PAMI,,2019,Discriminative Optimization: Theory and Applications to Computer Vision.
+PAMI,,2019,From Social to Individuals: A Parsimonious Path of Multi-Level Models for Crowdsourced Preference Aggregation.
+PAMI,,2019,High-Speed Hyperspectral Video Acquisition By Combining Nyquist and Compressive Sampling.
+PAMI,,2019,Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark.
+PAMI,,2019,Memory Efficient Max Flow for Multi-Label Submodular MRFs.
+PAMI,,2019,MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior.
+PAMI,,2019,Multi-Task Structure-Aware Context Modeling for Robust Keypoint-Based Object Tracking.
+PAMI,,2019,Non-Negative Matrix Factorizations for Multiplex Network Analysis.
+PAMI,,2019,Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search.
+PAMI,,2019,Real-Time 3D Hand Pose Estimation with 3D Convolutional Neural Networks.
+PAMI,,2019,Robust Spatio-Temporal Clustering and Reconstruction of Multiple Deformable Bodies.
+PAMI,,2019,Semi-Supervised Video Object Segmentation with Super-Trajectories.
+PAMI,,2019,Towards Personalized Image Captioning via Multimodal Memory Networks.
+PAMI,,2019,Transferring Knowledge Fragments for Learning Distance Metric from a Heterogeneous Domain.
+PAMI,,2019,Aggregating Randomized Clustering-Promoting Invariant Projections for Domain Adaptation.
+PAMI,,2019,A Graph Based Image Interpretation Method Using A Priori Qualitative Inclusion and Photometric Relationships.
+PAMI,,2019,Anchor-Free Correlated Topic Modeling.
+PAMI,,2019,Deep Mixture of Diverse Experts for Large-Scale Visual Recognition.
+PAMI,,2019,Detecting Regions of Maximal Divergence for Spatio-Temporal Anomaly Detection.
+PAMI,,2019,Efficient Registration of High-Resolution Feature Enhanced Point Clouds.
+PAMI,,2019,Hedging Deep Features for Visual Tracking.
+PAMI,,2019,Hyperspectral Light Field Stereo Matching.
+PAMI,,2019,Image Projective Invariants.
+PAMI,,2019,Learning Support Correlation Filters for Visual Tracking.
+PAMI,,2019,Online Data Thinning via Multi-Subspace Tracking.
+PAMI,,2019,On the Reconstruction of Face Images from Deep Face Templates.
+PAMI,,2019,Patchmatch-Based Robust Stereo Matching Under Radiometric Changes.
+PAMI,,2019,Regularized Diffusion Process on Bidirectional Context for Object Retrieval.
+PAMI,,2019,Robust 3D Human Pose Estimation from Single Images or Video Sequences.
+PAMI,,2019,Visual Dialog.
+PAMI,,2019,What Makes Objects Similar: A Unified Multi-Metric Learning Approach.
+PAMI,,2019,Recurrent Shape Regression.
+PAMI,,2019,A Fast Frequent Directions Algorithm for Low Rank Approximation.
+PAMI,,2019,CNN-Based Real-Time Dense Face Reconstruction with Inverse-Rendered Photo-Realistic Face Images.
+PAMI,,2019,Composite Quantization.
+PAMI,,2019,Density-Preserving Hierarchical EM Algorithm: Simplifying Gaussian Mixture Models for Approximate Inference.
+PAMI,,2019,Dynamic Clustering Algorithms via Small-Variance Analysis of Markov Chain Mixture Models.
+PAMI,,2019,Egocentric Meets Top-View.
+PAMI,,2019,Imbalanced Deep Learning by Minority Class Incremental Rectification.
+PAMI,,2019,Joint Active Learning with Feature Selection via CUR Matrix Decomposition.
+PAMI,,2019,Learning and Selecting Confidence Measures for Robust Stereo Matching.
+PAMI,,2019,Learning to Deblur Images with Exemplars.
+PAMI,,2019,Monocular Depth Estimation Using Multi-Scale Continuous CRFs as Sequential Deep Networks.
+PAMI,,2019,Occlusion-Aware Method for Temporally Consistent Superpixels.
+PAMI,,2019,Physically-Based Simulation of Cosmetics via Intrinsic Image Decomposition with Facial Priors.
+PAMI,,2019,Piecewise Flat Embedding for Image Segmentation.
+PAMI,,2019,Super-Fine Attributes with Crowd Prototyping.
+PAMI,,2019,Unsupervised Deep Learning of Compact Binary Descriptors.
+PAMI,,2019,Video Object Segmentation without Temporal Information.
+PAMI,,2019,A Deep Network Solution for Attention and Aesthetics Aware Photo Cropping.
+PAMI,,2019,Content Aware Image Pre-Compensation.
+PAMI,,2019,DeepIGeoS: A Deep Interactive Geodesic Framework for Medical Image Segmentation.
+PAMI,,2019,Differential Geometry in Edge Detection: Accurate Estimation of Position, Orientation and Curvature.
+PAMI,,2019,Efficient Learning-Free Keyword Spotting.
+PAMI,,2019,End-to-End Policy Learning for Active Visual Categorization.
+PAMI,,2019,Error Backprojection Algorithms for Non-Line-of-Sight Imaging.
+PAMI,,2019,Feedback Convolutional Neural Network for Visual Localization and Segmentation.
+PAMI,,2019,Few-Example Object Detection with Model Communication.
+PAMI,,2019,Fine-Tuning CNN Image Retrieval with No Human Annotation.
+PAMI,,2019,Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction.
+PAMI,,2019,Light Field Reconstruction Using Convolutional Network on EPI and Extended Applications.
+PAMI,,2019,None
+PAMI,,2019,Pólya Urn Latent Dirichlet Allocation: A Doubly Sparse Massively Parallel Sampler.
+PAMI,,2019,Predicting the Driver's Focus of Attention: The DR(eye)VE Project.
+PAMI,,2019,Salient Object Detection with Recurrent Fully Convolutional Networks.
+PAMI,,2019,Unifying Visual Attribute Learning with Object Recognition in a Multiplicative Framework.
+PAMI,,2019,Wasserstein CNN: Learning Invariant Features for NIR-VIS Face Recognition.
+PAMI,,2019,Binary Multi-View Clustering.
 PAMI,,2018,State of the Journal.
 PAMI,,2018,Active Self-Paced Learning for Cost-Effective and Progressive Face Identification.
 PAMI,,2018,Saliency-Aware Video Object Segmentation.
@@ -146,6 +273,87 @@ PAMI,,2018,Tracking-by-Detection of 3D Human Shapes: From Surfaces to Volumes.
 PAMI,,2018,Zero-Shot Learning on Semantic Class Prototype Graph.
 PAMI,,2018,A Probabilistic Active Learning Algorithm Based on Fisher Information Ratio.
 PAMI,,2018,Visual Recognition in RGB Images and Videos by Learning from RGB-D Data.
+PAMI,,2018,A Functional Regression Approach to Facial Landmark Tracking.
+PAMI,,2018,A Multi-Modal, Discriminative and Spatially Invariant CNN for RGB-D Object Labeling.
+PAMI,,2018,Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications.
+PAMI,,2018,Colour Constancy Beyond the Classical Receptive Field.
+PAMI,,2018,Coresets for Triangulation.
+PAMI,,2018,Crafting GBD-Net for Object Detection.
+PAMI,,2018,Fixed Points of Belief Propagation - An Analysis via Polynomial Homotopy Continuation.
+PAMI,,2018,Force-Based Representation for Non-Rigid Shape and Elastic Model Estimation.
+PAMI,,2018,Hierarchical Sparse Representation for Robust Image Registration.
+PAMI,,2018,Highly Articulated Kinematic Structure Estimation Combining Motion and Skeleton Information.
+PAMI,,2018,Image Visual Realism: From Human Perception to Machine Computation.
+PAMI,,2018,Learning from Narrated Instruction Videos.
+PAMI,,2018,Probabilistic Framework for the Characterization of Surfaces and Edges in Range Images, with Application to Edge Detection.
+PAMI,,2018,Self-Expressive Dictionary Learning for Dynamic 3D Reconstruction.
+PAMI,,2018,SimiNet: A Novel Method for Quantifying Brain Network Similarity.
+PAMI,,2018,Viewpoint-Consistent 3D Face Alignment.
+PAMI,,2018,Bayesian Helmholtz Stereopsis with Integrability Prior.
+PAMI,,2018,Foreground Segmentation with Tree-Structured Sparse RPCA.
+PAMI,,2018,Sharable and Individual Multi-View Metric Learning.
+PAMI,,2018,Characterization of Color Images with Multiscale Monogenic Maxima.
+PAMI,,2018,Cross-Modal Scene Networks.
+PAMI,,2018,Deblurring Images via Dark Channel Prior.
+PAMI,,2018,Deblurring Low-Light Images with Light Streaks.
+PAMI,,2018,Discriminative Multiple Instance Hyperspectral Target Characterization.
+PAMI,,2018,Dual Sticky Hierarchical Dirichlet Process Hidden Markov Model and Its Application to Natural Language Description of Motions.
+PAMI,,2018,Dynamic Video Deblurring Using a Locally Adaptive Blur Model.
+PAMI,,2018,Error-Correcting Factorization.
+PAMI,,2018,Event-Based, 6-DOF Camera Tracking from Photometric Depth Maps.
+PAMI,,2018,FVQA: Fact-Based Visual Question Answering.
+PAMI,,2018,Inextensible Non-Rigid Structure-from-Motion by Second-Order Cone Programming.
+PAMI,,2018,Isometric Non-Rigid Shape-from-Motion with Riemannian Geometry Solved in Linear Time.
+PAMI,,2018,Object Segmentation Ensuring Consistency Across Multi-Viewpoint Images.
+PAMI,,2018,Partition Level Constrained Clustering.
+PAMI,,2018,Robust Light Field Depth Estimation Using Occlusion-Noise Aware Data Costs.
+PAMI,,2018,Zero-Shot Learning Using Synthesised Unseen Visual Data with Diffusion Regularisation.
+PAMI,,2018,Face Recognition via Collaborative Representation: Its Discriminant Nature and Superposed Representation.
+PAMI,,2018,S-CNN: Subcategory-Aware Convolutional Networks for Object Detection.
+PAMI,,2018,Structure-Aware Data Consolidation.
+PAMI,,2018,Ghost Numbers.
+PAMI,,2018,Response to "Ghost Numbers".
+PAMI,,2018,Guest Editorial: The Computational Face.
+PAMI,,2018,Two-Stream Transformer Networks for Video-Based Face Alignment.
+PAMI,,2018,None
+PAMI,,2018,Recurrent Convolutional Shape Regression.
+PAMI,,2018,EAC-Net: Deep Nets with Enhancing and Cropping for Facial Action Unit Detection.
+PAMI,,2018,Heterogeneous Face Attribute Estimation: A Deep Multi-Task Learning Approach.
+PAMI,,2018,Efficient Group-n Encoding and Decoding for Facial Age Estimation.
+PAMI,,2018,Visual Kinship Recognition of Families in the Wild.
+PAMI,,2018,3D Reconstruction of "In-the-Wild" Faces in Images and Videos.
+PAMI,,2018,HeadFusion: 360° Head Pose Tracking Combining 3D Morphable Model and 3D Reconstruction.
+PAMI,,2018,Recovering Joint and Individual Components in Facial Data.
+PAMI,,2018,Disentangling the Modes of Variation in Unlabelled Data.
+PAMI,,2018,Photorealistic Monocular Gaze Redirection Using Machine Learning.
+PAMI,,2018,Tracking Gaze and Visual Focus of Attention of People Involved in Social Interaction.
+PAMI,,2018,Continuous 3D Label Stereo Matching Using Local Expansion Moves.
+PAMI,,2018,Copula Based Classifier Fusion Under Statistical Dependence.
+PAMI,,2018,Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures.
+PAMI,,2018,Max-Margin Deep Generative Models for (Semi-)Supervised Learning.
+PAMI,,2018,One-Pass Learning with Incremental and Decremental Features.
+PAMI,,2018,Learning Building Extraction in Aerial Scenes with Convolutional Networks.
+PAMI,,2018,Action Recognition with Dynamic Image Networks.
+PAMI,,2018,Clickstream Analysis for Crowd-Based Object Segmentation with Confidence.
+PAMI,,2018,Cross Euclidean-to-Riemannian Metric Learning with Application to Face Recognition from Video.
+PAMI,,2018,Ensembles of Lasso Screening Rules.
+PAMI,,2018,Graph Matching with Adaptive and Branching Path Following.
+PAMI,,2018,Guaranteed Outlier Removal for Point Cloud Registration with Correspondences.
+PAMI,,2018,Hand-Object Contact Force Estimation from Markerless Visual Tracking.
+PAMI,,2018,Information Dropout: Learning Optimal Representations Through Noisy Computation.
+PAMI,,2018,Learning Consensus Representation for Weak Style Classification.
+PAMI,,2018,Learning Kinematic Structure Correspondences Using Multi-Order Similarities.
+PAMI,,2018,Learning without Forgetting.
+PAMI,,2018,Linear Maximum Margin Classifier for Learning from Uncertain Data.
+PAMI,,2018,Person Re-Identification by Cross-View Multi-Level Dictionary Learning.
+PAMI,,2018,Proposal-Free Network for Instance-Level Object Segmentation.
+PAMI,,2018,Safe Feature Screening for Generalized LASSO.
+PAMI,,2018,Skeleton-Based Action Recognition Using Spatio-Temporal LSTM Network with Trust Gates.
+PAMI,,2018,Tetrahedron Based Fast 3D Fingerprint Identification Using Colored LEDs Illumination.
+PAMI,,2018,Unsupervised Deep Hashing with Similarity-Adaptive and Discrete Optimization.
+PAMI,,2018,Visual and Semantic Knowledge Transfer for Large Scale Semi-Supervised Object Detection.
+PAMI,,2018,A Simple, Fast and Highly-Accurate Algorithm to Recover 3D Shape from 2D Landmarks on a Single Image.
+PAMI,,2018,Facial Landmark Detection with Tweaked Convolutional Neural Networks.
 PAMI,,2017,State of the Journal.
 PAMI,,2017,Incoming EIC Editorial.
 PAMI,,2017,Active Clustering with Model-Based Uncertainty Reduction.
