@@ -14,9 +14,10 @@ This project is used for get names of papers of CCf-A, and a simple search funct
 - CVPR: International Conference on Computer Vision and Pattern Recognition
 - ICCV: International Conference on Computer Vision
 - ECCV: European Conference on Computer Vision
-- AAAI: AAAI Conference on Artificial Intelligence
-- ICML: International Conference on Machine Learning
 - NIPS: Annual Conference on Neural Information Processing Systems
+- ICLR: International Conference on Learning Representations
+- ICML: International Conference on Machine Learning
+- AAAI: AAAI Conference on Artificial Intelligence
 - ACM MM: ACM International Conference on Multimedia
 - IJCAI: International Joint Conference on Artificial Intelligence
 
