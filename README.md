@@ -24,12 +24,12 @@ This project is used for get names of papers of CCf-A, and a simple search funct
 | Name | papers_lists | dblp link |status|
 |--------|--------|--------|--------|
 | CVPR |   [2019-1988](paper_list/cvpr_papers.txt)   | [link](http://dblp.uni-trier.de/db/conf/cvpr/) [cvpr2019](my_lists/cvpr2019.xlsx) | OK |
-| ICCV |   [2017-1988](paper_list/iccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/iccv/) | OK |
-| ECCV |   [2018-1990](paper_list/eccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/eccv/) | OK |
+| ICCV |   [2017-1988](paper_list/iccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/iccv/) [iccv2019](https://github.com/extreme-assistant/iccv2019/blob/master/ICCV2019_links.xlsx?raw=true) | working 2019 |
+| ECCV |   [2018-1990](paper_list/eccv_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/eccv/) | up 2020 |
 |  |    |  |   |
-| NIPS |   [2018-1988](paper_list/nips_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/nips/) | OK |
-| ICML |   [2018-1988](paper_list/icml_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/icml/) | OK  |
-| ICLR |   [2018-2013](paper_list/iclr_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/iclr/) [ICLR 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference)  | working  |
+| NIPS |   [2018-1988](paper_list/nips_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/nips/)   [nips2019](https://papers.nips.cc/) | working 2019 |
+| ICML |   [2018-1988](paper_list/icml_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/icml/) [ICML2019](https://icml.cc/Conferences/2019/Schedule?type=Oral) | working 2019 |
+| ICLR |   [2018-2013](paper_list/iclr_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/iclr/) [ICLR 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference)  | working 2019 |
 |  |    |  |   |
 | AAAI |   [2018-1980](paper_list/aaai_papers.txt)    | [link](https://dblp.uni-trier.de/db/conf/aaai/) | OK |
 | ACM MM |   [2018-1993](paper_list/acmmm_papers.txt)|[link](https://dblp.uni-trier.de/db/conf/mm/)| OK |
@@ -56,6 +56,11 @@ This project is used for get names of papers of CCf-A, and a simple search funct
 ## TODO
 - [ ] can auto download papers 
 - [ ] can search the context of papers
+- [ ] can get cite index from google
+- [ ] show oral or poster
+- [ ] show author background
+- [ ] show pdf link and code link
+- [ ] have a front webview
 
 ## My List
 
