@@ -57,7 +57,7 @@ def conf_main_page_to_list(main_url='', first_name='', second_name=''):
     bf = BeautifulSoup(html)
 
     #####
-    tags = bf.find_all('div', class_='data')
+    tags = bf.find_all('cite', class_='data')
     for tag in tags:
         spans = tag.find_all('span')
         year = 0
@@ -90,7 +90,7 @@ def main(name='icml',
     if name=='ijcv':
         search_url_list = journals_main_page_to_list1(main_url=main_page_url,
                                                      first_name=name.upper())
-
+    print(search_url_list)
     aiDowner = BaseDowner(name, search_url_list)
     aiDowner.start_down_all()
 

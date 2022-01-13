@@ -13,9 +13,10 @@ down_root = 'down_pages'
 
 def saveFile(soup, save_path):
     f_obj = open(save_path, 'wb')  # wb 表示打开方式,也可用w
-    for text in soup.find_all('div', class_='data'):
-        f_obj.write("#".encode('utf-8'))
+    for text in soup.find_all('cite', class_='data'):
+        f_obj.write("#<br/>".encode('utf-8'))
         f_obj.write(text.encode('utf-8'))
+        f_obj.write("<br/>".encode('utf-8'))
     f_obj.close()
 
 
@@ -104,7 +105,7 @@ def singe_page(url):
     htmlfile = open(down_url(url), 'r', encoding='utf-8')
     htmlhandle = htmlfile.read()
     bf = BeautifulSoup(htmlhandle)
-    texts = bf.find_all('div', class_='data')
+    texts = bf.find_all('cite', class_='data')
 
     title_list = []
     for text_tag in texts:
